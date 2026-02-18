@@ -1,0 +1,428 @@
+{
+  "name": "Intelligent Data Monitoring Automation",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "hours"
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.3,
+      "position": [
+        -1008,
+        -176
+      ],
+      "id": "886efb4d-83c2-4b39-b507-1453d020f4f8",
+      "name": "Schedule Trigger1"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://chat.googleapis.com/v1/spaces/AAQAs4oBLmM/messages?key=AIzaSyDdI0hCZtE6vySjMm-WEfRq3CPzqKqqsHI&token=2m6YCwpg-9uq5516MhoD05jfXLihgcnL4hHLc_S-PYU",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "text",
+              "value": "={{ $json.full_message }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.3,
+      "position": [
+        496,
+        -160
+      ],
+      "id": "73b8f8e7-bf70-435e-946d-cb3179d966a2",
+      "name": "HTTP Request3",
+      "retryOnFail": false
+    },
+    {
+      "parameters": {
+        "aggregate": "aggregateAllItemData",
+        "destinationFieldName": "lista_de_vendas",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.aggregate",
+      "typeVersion": 1,
+      "position": [
+        -336,
+        -176
+      ],
+      "id": "f838772c-9aef-46b5-9b0c-0898b3881bb6",
+      "name": "Aggregate"
+    },
+    {
+      "parameters": {
+        "promptType": "define",
+        "text": "=Você é um Agente Inteligente de Monitoramento de Operações e Negócios. Sua função é analisar os indicadores da planilha e gerar alertas exclusivamente para a data de hoje.\n\n🗓️ Relatório referente ao dia: {{ $json.lista_de_vendas[0].Data || $json.lista_de_vendas[0].timestamp.substring(0,10) }} 📌 Dados recebidos: {{ JSON.stringify($json.lista_de_vendas) }}\n\n🎯 Objetivo e Filtragem:\n\nFILTRO OBRIGATÓRIO: Analise apenas as linhas onde a coluna de data seja exatamente {{ $now.format('DD/MM/YYYY') }}.\n\nIgnore todas as outras datas. Se não houver dados para hoje, responda: \"Sem registros encontrados para a data de hoje.\"\n\nPara os dados filtrados, compare a coluna \"Registros do Dia\" com a \"Média Esperada\" \n\n🚨 Regras de Mensagem (Prioridade):\n\nCRÍTICA: 🚨 ALERTA CRÍTICO! 🚨 (Ação imediata)\n\nURGENTE: ⚠️ ALERTA URGENTE! (Atenção necessária)\n\nALERTA: 📌 Alerta de Monitoramento (Acompanhamento)\n\nNORMAL: Ignorar (não envie mensagem).\n\n✍️ Formato obrigatório do Output: Você deve retornar mensagens separadas, uma para cada indicador importante, exatamente neste estilo:\n\n🚨 ALERTA CRÍTICO! 🚨\nHoje registramos {Registros do Dia} em {Produto/Categoria}, muito diferente da média esperada de {Média Esperada}.\n📍 Setor impactado: {Setor}\n🛑 Ação imediata recomendada: investigar causa raiz e tomar providências.\n⚠️ ALERTA URGENTE!\nO indicador {Produto/Categoria} teve apenas {Registros do Dia}, enquanto o esperado seria {Média Esperada}.\n📍 Setor: {Setor}\n🔎 Necessário agir rapidamente para evitar impacto\n\n🔗 Fechamento: Após todos os alertas, adicione sempre: \"Para mais informações, acesse o painel completo no Looker Studio: https://lookerstudio.google.com/u/0/navigation/reporting\"\n\n⚠️ Instruções Finais:\n\nSeja direto e executivo.\n\nUse a coluna \"Registros do Dia\" para os cálculos. Caso o nome da coluna no JSON recebido esteja como tabela, use-o como Produto/Categoria.\n\nIMPORTANTE: Retorne apenas texto puro. NÃO use tags <data>, não gere JSON e não crie links de imagens/gráficos.\n",
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 3,
+      "position": [
+        -80,
+        -192
+      ],
+      "id": "943ba2ec-d58e-4d19-a55e-aebdd2df837f",
+      "name": "AI Agent"
+    },
+    {
+      "parameters": {
+        "model": "openai/gpt-5-mini",
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatOpenRouter",
+      "typeVersion": 1,
+      "position": [
+        -64,
+        96
+      ],
+      "id": "d676cf06-be7f-40e1-9de7-5136baf375cc",
+      "name": "OpenRouter Chat Model",
+      "credentials": {
+        "openRouterApi": {
+          "id": "SSu1W8C0t96w4VnT",
+          "name": "OpenRouter account 55"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "// Captura a saída do Agente de IA\nconst agentOutput = $node[\"AI Agent\"].json[\"output\"];\n\nif (!agentOutput || agentOutput.trim() === \"\") {\n  return { full_message: \"✅ Todos os indicadores estão normais para hoje.\" };\n}\n\n// 1. Remove qualquer tag <data> que a IA possa ter gerado por engano\nconst cleanMessage = agentOutput.replace(/<data>[\\s\\S]*?<\\/data>/g, '').trim();\n\n// 2. Retorna o texto puro (o Google Chat já entende as quebras de linha naturais)\nreturn {\n  full_message: cleanMessage\n};"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        272,
+        -160
+      ],
+      "id": "797def62-e345-4f9a-9be9-8a84ebfa617d",
+      "name": "Code in JavaScript"
+    },
+    {
+      "parameters": {
+        "operation": "append",
+        "documentId": {
+          "__rl": true,
+          "value": "1HlAwGmq1Ul7afgK0nlftw5p6ZluZX9q0iI-4Rdt1px0",
+          "mode": "list",
+          "cachedResultName": "Vendas",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1HlAwGmq1Ul7afgK0nlftw5p6ZluZX9q0iI-4Rdt1px0/edit?usp=drivesdk"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": 933164899,
+          "mode": "list",
+          "cachedResultName": "incident_log",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1HlAwGmq1Ul7afgK0nlftw5p6ZluZX9q0iI-4Rdt1px0/edit#gid=933164899"
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "timestamp": "={{ $now.format('dd/MM/yyyy HH:mm:ss') }}",
+            "tabela": "={{ $json['Produto/Categoria'] }}",
+            "status": "Pendente",
+            "severidade": "={{ $json['Prioridade'] }}",
+            "valor_atual": "={{ $json['Registros Hoje'] }}",
+            "esperado": "={{ $json['Média Esperada'] }}",
+            "mensagem": "={{ $json['Prioridade'] }} - Ver detalhes no Chat",
+            "recorrente": "Não",
+            "tipo_anomalia": "Desvio de Volume",
+            "setor": "={{ $json.Setor }}"
+          },
+          "matchingColumns": [],
+          "schema": [
+            {
+              "id": "timestamp",
+              "displayName": "timestamp",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "tabela",
+              "displayName": "tabela",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "setor",
+              "displayName": "setor",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "status",
+              "displayName": "status",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "severidade",
+              "displayName": "severidade",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "valor_atual",
+              "displayName": "valor_atual",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "esperado",
+              "displayName": "esperado",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "mensagem",
+              "displayName": "mensagem",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "recorrente",
+              "displayName": "recorrente",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "tipo_anomalia",
+              "displayName": "tipo_anomalia",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.7,
+      "position": [
+        -448,
+        112
+      ],
+      "id": "be7035fc-6b15-4a3d-b5e1-1c94657515d4",
+      "name": "Append row in sheet",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "ZOp8XZBUxO6nLO99",
+          "name": "Google Sheets account 66"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 2
+          },
+          "conditions": [
+            {
+              "id": "f4aba68b-0ccd-4031-a43d-e99eeac3e556",
+              "leftValue": "={{ $json.Data }}",
+              "rightValue": "={{ $json.Data }}",
+              "operator": {
+                "type": "string",
+                "operation": "equals"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.filter",
+      "typeVersion": 2.2,
+      "position": [
+        -544,
+        -176
+      ],
+      "id": "df439f9c-7f1b-44d6-b38c-b6cdd1001b40",
+      "name": "Filter"
+    },
+    {
+      "parameters": {
+        "documentId": {
+          "__rl": true,
+          "mode": "url",
+          "value": "https://docs.google.com/spreadsheets/d/1HlAwGmq1Ul7afgK0nlftw5p6ZluZX9q0iI-4Rdt1px0/edit?gid=149513660#gid=149513660",
+          "__regex": "https:\\/\\/(?:drive|docs)\\.google\\.com(?:\\/.*|)\\/d\\/([0-9a-zA-Z\\-_]+)(?:\\/.*|)"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": "Teste",
+          "mode": "name"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.7,
+      "position": [
+        -768,
+        -176
+      ],
+      "id": "cfe0f75e-0377-491d-91f5-e3e353b68b48",
+      "name": "Get row(s) in sheet1",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "ZOp8XZBUxO6nLO99",
+          "name": "Google Sheets account 66"
+        }
+      }
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Schedule Trigger1": {
+      "main": [
+        [
+          {
+            "node": "Get row(s) in sheet1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Aggregate": {
+      "main": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "AI Agent": {
+      "main": [
+        [
+          {
+            "node": "Code in JavaScript",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "OpenRouter Chat Model": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Code in JavaScript": {
+      "main": [
+        [
+          {
+            "node": "HTTP Request3",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Append row in sheet": {
+      "main": [
+        []
+      ]
+    },
+    "Filter": {
+      "main": [
+        [
+          {
+            "node": "Aggregate",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Get row(s) in sheet1": {
+      "main": [
+        [
+          {
+            "node": "Append row in sheet",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Filter",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "9f829bec-c3dd-486b-8d79-b594b5539fb4",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "e3a897d9d5ac807bf8aa9b0a295b9063d750f4dd7c5bc729d08bcf70b2f780c2"
+  },
+  "id": "3VR12ewzBhaXRBpE",
+  "tags": [
+    {
+      "updatedAt": "2025-11-25T20:09:05.128Z",
+      "createdAt": "2025-11-25T20:09:05.128Z",
+      "id": "tYofAIcKMzyg7UwT",
+      "name": "Em Construção"
+    }
+  ]
+}
