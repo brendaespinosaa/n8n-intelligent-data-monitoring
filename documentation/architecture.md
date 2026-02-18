@@ -2,79 +2,98 @@
 
 ## Overview
 
-This project implements an automated data monitoring and alerting system using **n8n**.  
-The main goal is to continuously monitor operational and business metrics, detect anomalies or threshold breaches, and notify stakeholders in real time.
+This project implements a modular and automated data monitoring and alerting system built with **n8n**.
 
-The architecture is designed to be:
-- Modular
-- Scalable
-- Easy to integrate with BI and analytics tools
+The workflow continuously monitors operational and business metrics, applies predefined business rules, and triggers alerts when anomalies or threshold violations are detected.
 
 ---
 
 ## Data Sources
 
-The system ingests data from structured sources, such as:
+The system ingests structured data from the following sources:
 
-- Spreadsheets (e.g. Google Sheets)
-- CSV or JSON files
-- Databases or APIs (extensible)
+- Google Sheets (used during development and demonstration)
+- CSV or JSON files (sample data only)
+- Extensible to APIs or databases
 
-All sample data used in this repository is **fictional** and provided only for demonstration purposes.
+All datasets included in this repository are **fictional** and used exclusively for demonstration purposes.
 
 ---
 
 ## Data Ingestion
 
-Data ingestion is handled automatically by **n8n workflows**, which:
+Data ingestion is handled by automated **n8n workflows**, which:
 
-- Periodically fetch data from the source
-- Validate schema and expected fields
-- Handle missing or malformed records gracefully
+- Fetch data on a scheduled basis
+- Validate required fields and schema
+- Handle missing or invalid values safely
 
-This layer ensures data consistency before processing.
-
----
-
-## Data Processing
-
-Once ingested, the data goes through a processing layer that includes:
-
-- Aggregation of key metrics
-- Calculation of volume changes
-- Comparison against predefined thresholds
-- Detection of anomalies and unexpected behavior
-
-All business logic is centralized to ensure maintainability and transparency.
+This step ensures data consistency before any business logic is applied.
 
 ---
 
-## Business Rules Engine
+## Workflow Visualization
 
-The processing layer applies predefined business rules, such as:
+The following screenshots illustrate the main n8n workflow and its core components.
 
-- Sudden drop in volume
-- Percentage variation outside acceptable limits
-- Metric values exceeding or falling below thresholds
+### Workflow Overview
 
-These rules are configurable and documented in detail in `business_rules.md`.
+This screenshot shows the complete workflow structure, including ingestion, processing, and alerting.
+
+![Workflow Overview](../screenshots/workflow_overview.png)
+
+---
+
+### Data Ingestion
+
+This step is responsible for retrieving data from the source and preparing it for processing.
+
+![Data Ingestion](../screenshots/data_ingestion.png)
+
+---
+
+## Data Processing & Business Rules
+
+After ingestion, the workflow processes the data by:
+
+- Aggregating key metrics
+- Calculating volume changes
+- Evaluating thresholds and business rules
+
+All business logic is centralized to ensure clarity and maintainability.
+
+![Data Processing & Business Rules](../screenshots/processing_rules.png)
+
+
+---
+
+## Data Processing & Business Rules
+
+After ingestion, the workflow processes the data by:
+
+- Aggregating key metrics
+- Calculating volume changes
+- Evaluating thresholds and business rules
+
+All business logic is centralized to ensure clarity and maintainability.
+
+![Data Processing](../screenshots/processing_rules.png)
 
 ---
 
 ## Alerting Mechanism
 
-When a rule is violated, the system automatically triggers alerts through:
-
-- Messaging platforms (e.g. Google Chat, Slack)
-- Other notification channels (e-mail or webhooks can be added)
+When a business rule is violated, the system automatically generates an alert.
 
 Alerts include:
-- A clear description of the issue
-- Affected metric
+- Metric affected
+- Type of violation
 - Timestamp
 - Severity level
 
-This enables fast decision-making and incident response.
+Notifications are sent through messaging platforms such as Google Chat or Slack.
+
+![Alert Example](../screenshots/alert_example.png)
 
 ---
 
@@ -83,11 +102,11 @@ This enables fast decision-making and incident response.
 Processed metrics and alert results are stored in a structured format to enable:
 
 - Historical analysis
-- Trend evaluation over time
+- Trend monitoring
 - Auditability of alerts
-- Dashboard visualization in BI tools
+- Dashboard creation in BI tools
 
-Storing historical data allows the system to evolve from reactive monitoring to proactive analysis.
+This allows the system to evolve from reactive monitoring to analytical reporting.
 
 ---
 
@@ -95,39 +114,26 @@ Storing historical data allows the system to evolve from reactive monitoring to 
 
 The architecture supports integration with:
 
-- Business Intelligence tools (Power BI, Looker Studio) using historical processed data
-- Data warehouses or databases
+- Business Intelligence tools (Power BI, Looker Studio)
+- Databases or data warehouses
 - External systems via APIs or webhooks
 
-This makes the solution suitable for both operational monitoring and analytical reporting.
-
 ---
 
-## Scalability & Extensibility
+## Design Principles
 
-The system is designed to scale by:
+The system was designed following the principles below:
 
-- Adding new data sources without impacting existing workflows
-- Extending business rules independently
-- Integrating additional alert channels or analytics tools
-
-The modular design ensures long-term maintainability and adaptability.
-
----
-
-## Security & Data Privacy
-
-- No real or sensitive data is stored in this repository
-- Sample datasets are fully fictional
-- Access control and credentials are handled securely within n8n
-
-This approach follows good data governance and privacy practices.
+- Modularity: each workflow step has a single responsibility
+- Scalability: new data sources and rules can be added easily
+- Observability: alerts and historical data enable full traceability
+- Maintainability: business rules are centralized and documented
 
 ---
 
 ## Architecture Summary
 
-**Flow overview:**
+**End-to-end flow:**
 
 1. Data Source  
 2. Automated Ingestion (n8n)  
@@ -136,4 +142,9 @@ This approach follows good data governance and privacy practices.
 5. Data Storage (Historical Data)  
 6. BI & Analytics Integration  
 
-This architecture provides a reliable foundation for intelligent monitoring, alerting, and data-driven decision-making.
+This architecture provides a scalable and maintainable foundation for intelligent data monitoring.
+
+
+
+
+
