@@ -1,69 +1,36 @@
 # Business Rules Documentation
 
-This document defines the business rules used to detect anomalies and trigger alerts in the monitoring automation.
+## Purpose
+
+This document describes the business rules applied in the automated monitoring workflow.
+These rules are designed to detect anomalies, significant variations, and operational risks in a reliable and transparent way.
+
+All rules are implemented and executed automatically within the n8n workflow.
 
 ---
 
 ## Monitored Metrics
 
-Examples of monitored metrics include:
+The system evaluates the following types of metrics:
 
-- Order volume
-- Active users
-- Transaction count
-- Any numerical operational KPI
+- Volume of records processed
+- Percentage change compared to previous periods
+- Threshold-based limits defined by business requirements
 
-The rules are generic and can be adapted to different datasets.
-
----
-
-## Percentage Variation Calculation
-
-The percentage variation is calculated using the following logic:
-
-Variation (%) = ((Current Value - Previous Value) / Previous Value) * 100
+These metrics can be extended depending on future monitoring needs.
 
 ---
 
-## Alert Thresholds
+## Rule 1: Volume Drop Detection
 
-The system classifies alerts based on the percentage variation:
+### Description
+Detects sudden drops in data volume compared to an expected baseline.
 
-| Severity  | Variation Range        |
-|----------|------------------------|
-| Normal   | ≥ -10%                 |
-| Warning  | < -10% and ≥ -25%      |
-| Critical | < -25%                 |
+### Logic
+- Calculate the current volume
+- Compare it with a predefined threshold
+- Trigger an alert if the current value falls below the acceptable limit
 
----
-
-## Alert Conditions
-
-An alert is triggered when:
-
-- The variation exceeds the defined threshold
-- The metric status is classified as **Warning** or **Critical**
-
-Normal variations are logged but do not generate alerts.
-
----
-
-## Alert Content
-
-Each alert includes:
-
-- Metric name  
-- Current value  
-- Previous value  
-- Percentage variation  
-- Severity level  
-- Suggested action  
-
----
-
-## Example Rule
-
+### Example
 ```text
-IF percentage_variation < -25%
-THEN severity = "Critical"
-AND trigger alert
+If current_volume < minimum_expected_volume → trigger alert
