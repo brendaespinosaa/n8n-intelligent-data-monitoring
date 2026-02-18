@@ -1,0 +1,2948 @@
+Data,Produto/Categoria,Registros do Dia,Média Esperada,Setor,Prioridade
+05/02/2025,Eletrônicos (Laptops),58,80,Vendas,ALERTA
+05/02/2025,Acessórios (Cabos/Baterias),268,250,Logística,NORMAL
+05/02/2025,Linha Branca (Washing Machines),41,20,Vendas,NORMAL
+05/02/2025,Total faturado (USD),13115,15000,Financeiro,CRÍTICA
+05/02/2025,Suporte (Tickets),20,30,Atendimento,CRÍTICA
+05/02/2025,Tempo de Entrega (Horas),22,24,Logística,URGENTE
+05/02/2025,Novos Leads B2B,10,15,Marketing,ALERTA
+05/02/2025,Disponibilidade Site (%),73,99,TI,URGENTE
+06/02/2025,Eletrônicos (Laptops),92,80,Vendas,NORMAL
+06/02/2025,Acessórios (Cabos/Baterias),264,250,Logística,NORMAL
+06/02/2025,Linha Branca (Washing Machines),17,20,Vendas,ALERTA
+06/02/2025,Total faturado (USD),13088,15000,Financeiro,URGENTE
+06/02/2025,Suporte (Tickets),22,30,Atendimento,URGENTE
+06/02/2025,Tempo de Entrega (Horas),24,24,Logística,URGENTE
+06/02/2025,Novos Leads B2B,52,15,Marketing,NORMAL
+06/02/2025,Disponibilidade Site (%),102,99,TI,NORMAL
+07/02/2025,Eletrônicos (Laptops),85,80,Vendas,NORMAL
+07/02/2025,Acessórios (Cabos/Baterias),197,250,Logística,ALERTA
+07/02/2025,Linha Branca (Washing Machines),55,20,Vendas,NORMAL
+07/02/2025,Total faturado (USD),15046,15000,Financeiro,NORMAL
+07/02/2025,Suporte (Tickets),76,30,Atendimento,NORMAL
+07/02/2025,Tempo de Entrega (Horas),20,24,Logística,ALERTA
+07/02/2025,Novos Leads B2B,63,15,Marketing,NORMAL
+07/02/2025,Disponibilidade Site (%),73,99,TI,URGENTE
+08/02/2025,Eletrônicos (Laptops),56,80,Vendas,CRÍTICA
+08/02/2025,Acessórios (Cabos/Baterias),214,250,Logística,CRÍTICA
+08/02/2025,Linha Branca (Washing Machines),51,20,Vendas,NORMAL
+08/02/2025,Total faturado (USD),15047,15000,Financeiro,NORMAL
+08/02/2025,Suporte (Tickets),30,30,Atendimento,CRÍTICA
+08/02/2025,Tempo de Entrega (Horas),58,24,Logística,NORMAL
+08/02/2025,Novos Leads B2B,14,15,Marketing,URGENTE
+08/02/2025,Disponibilidade Site (%),88,99,TI,URGENTE
+09/02/2025,Eletrônicos (Laptops),77,80,Vendas,URGENTE
+09/02/2025,Acessórios (Cabos/Baterias),254,250,Logística,NORMAL
+09/02/2025,Linha Branca (Washing Machines),70,20,Vendas,NORMAL
+09/02/2025,Total faturado (USD),15009,15000,Financeiro,NORMAL
+09/02/2025,Suporte (Tickets),40,30,Atendimento,NORMAL
+09/02/2025,Tempo de Entrega (Horas),19,24,Logística,CRÍTICA
+09/02/2025,Novos Leads B2B,48,15,Marketing,NORMAL
+09/02/2025,Disponibilidade Site (%),132,99,TI,NORMAL
+10/02/2025,Eletrônicos (Laptops),78,80,Vendas,URGENTE
+10/02/2025,Acessórios (Cabos/Baterias),287,250,Logística,NORMAL
+10/02/2025,Linha Branca (Washing Machines),30,20,Vendas,NORMAL
+10/02/2025,Total faturado (USD),14368,15000,Financeiro,URGENTE
+10/02/2025,Suporte (Tickets),78,30,Atendimento,NORMAL
+10/02/2025,Tempo de Entrega (Horas),23,24,Logística,ALERTA
+10/02/2025,Novos Leads B2B,15,15,Marketing,CRÍTICA
+10/02/2025,Disponibilidade Site (%),145,99,TI,NORMAL
+11/02/2025,Eletrônicos (Laptops),101,80,Vendas,NORMAL
+11/02/2025,Acessórios (Cabos/Baterias),181,250,Logística,URGENTE
+11/02/2025,Linha Branca (Washing Machines),22,20,Vendas,NORMAL
+11/02/2025,Total faturado (USD),12893,15000,Financeiro,ALERTA
+11/02/2025,Suporte (Tickets),21,30,Atendimento,ALERTA
+11/02/2025,Tempo de Entrega (Horas),23,24,Logística,URGENTE
+11/02/2025,Novos Leads B2B,47,15,Marketing,NORMAL
+11/02/2025,Disponibilidade Site (%),130,99,TI,NORMAL
+12/02/2025,Eletrônicos (Laptops),73,80,Vendas,URGENTE
+12/02/2025,Acessórios (Cabos/Baterias),179,250,Logística,ALERTA
+12/02/2025,Linha Branca (Washing Machines),20,20,Vendas,URGENTE
+12/02/2025,Total faturado (USD),15046,15000,Financeiro,NORMAL
+12/02/2025,Suporte (Tickets),21,30,Atendimento,ALERTA
+12/02/2025,Tempo de Entrega (Horas),20,24,Logística,URGENTE
+12/02/2025,Novos Leads B2B,31,15,Marketing,NORMAL
+12/02/2025,Disponibilidade Site (%),84,99,TI,URGENTE
+13/02/2025,Eletrônicos (Laptops),87,80,Vendas,NORMAL
+13/02/2025,Acessórios (Cabos/Baterias),215,250,Logística,ALERTA
+13/02/2025,Linha Branca (Washing Machines),14,20,Vendas,URGENTE
+13/02/2025,Total faturado (USD),14138,15000,Financeiro,URGENTE
+13/02/2025,Suporte (Tickets),62,30,Atendimento,NORMAL
+13/02/2025,Tempo de Entrega (Horas),21,24,Logística,ALERTA
+13/02/2025,Novos Leads B2B,15,15,Marketing,URGENTE
+13/02/2025,Disponibilidade Site (%),88,99,TI,ALERTA
+14/02/2025,Eletrônicos (Laptops),120,80,Vendas,NORMAL
+14/02/2025,Acessórios (Cabos/Baterias),195,250,Logística,URGENTE
+14/02/2025,Linha Branca (Washing Machines),19,20,Vendas,ALERTA
+14/02/2025,Total faturado (USD),13195,15000,Financeiro,URGENTE
+14/02/2025,Suporte (Tickets),26,30,Atendimento,ALERTA
+14/02/2025,Tempo de Entrega (Horas),18,24,Logística,ALERTA
+14/02/2025,Novos Leads B2B,14,15,Marketing,ALERTA
+14/02/2025,Disponibilidade Site (%),98,99,TI,ALERTA
+15/02/2025,Eletrônicos (Laptops),78,80,Vendas,URGENTE
+15/02/2025,Acessórios (Cabos/Baterias),203,250,Logística,CRÍTICA
+15/02/2025,Linha Branca (Washing Machines),60,20,Vendas,NORMAL
+15/02/2025,Total faturado (USD),15015,15000,Financeiro,NORMAL
+15/02/2025,Suporte (Tickets),28,30,Atendimento,CRÍTICA
+15/02/2025,Tempo de Entrega (Horas),29,24,Logística,NORMAL
+15/02/2025,Novos Leads B2B,12,15,Marketing,URGENTE
+15/02/2025,Disponibilidade Site (%),84,99,TI,ALERTA
+16/02/2025,Eletrônicos (Laptops),116,80,Vendas,NORMAL
+16/02/2025,Acessórios (Cabos/Baterias),284,250,Logística,NORMAL
+16/02/2025,Linha Branca (Washing Machines),15,20,Vendas,URGENTE
+16/02/2025,Total faturado (USD),15016,15000,Financeiro,NORMAL
+16/02/2025,Suporte (Tickets),23,30,Atendimento,CRÍTICA
+16/02/2025,Tempo de Entrega (Horas),17,24,Logística,URGENTE
+16/02/2025,Novos Leads B2B,50,15,Marketing,NORMAL
+16/02/2025,Disponibilidade Site (%),91,99,TI,URGENTE
+17/02/2025,Eletrônicos (Laptops),67,80,Vendas,ALERTA
+17/02/2025,Acessórios (Cabos/Baterias),236,250,Logística,URGENTE
+17/02/2025,Linha Branca (Washing Machines),17,20,Vendas,ALERTA
+17/02/2025,Total faturado (USD),15036,15000,Financeiro,NORMAL
+17/02/2025,Suporte (Tickets),25,30,Atendimento,URGENTE
+17/02/2025,Tempo de Entrega (Horas),21,24,Logística,ALERTA
+17/02/2025,Novos Leads B2B,14,15,Marketing,URGENTE
+17/02/2025,Disponibilidade Site (%),76,99,TI,URGENTE
+18/02/2025,Eletrônicos (Laptops),61,80,Vendas,URGENTE
+18/02/2025,Acessórios (Cabos/Baterias),180,250,Logística,URGENTE
+18/02/2025,Linha Branca (Washing Machines),46,20,Vendas,NORMAL
+18/02/2025,Total faturado (USD),14897,15000,Financeiro,URGENTE
+18/02/2025,Suporte (Tickets),42,30,Atendimento,NORMAL
+18/02/2025,Tempo de Entrega (Horas),24,24,Logística,ALERTA
+18/02/2025,Novos Leads B2B,42,15,Marketing,NORMAL
+18/02/2025,Disponibilidade Site (%),84,99,TI,URGENTE
+19/02/2025,Eletrônicos (Laptops),56,80,Vendas,URGENTE
+19/02/2025,Acessórios (Cabos/Baterias),289,250,Logística,NORMAL
+19/02/2025,Linha Branca (Washing Machines),18,20,Vendas,ALERTA
+19/02/2025,Total faturado (USD),15020,15000,Financeiro,NORMAL
+19/02/2025,Suporte (Tickets),64,30,Atendimento,NORMAL
+19/02/2025,Tempo de Entrega (Horas),73,24,Logística,NORMAL
+19/02/2025,Novos Leads B2B,15,15,Marketing,ALERTA
+19/02/2025,Disponibilidade Site (%),99,99,TI,CRÍTICA
+20/02/2025,Eletrônicos (Laptops),73,80,Vendas,CRÍTICA
+20/02/2025,Acessórios (Cabos/Baterias),218,250,Logística,ALERTA
+20/02/2025,Linha Branca (Washing Machines),68,20,Vendas,NORMAL
+20/02/2025,Total faturado (USD),11532,15000,Financeiro,ALERTA
+20/02/2025,Suporte (Tickets),24,30,Atendimento,CRÍTICA
+20/02/2025,Tempo de Entrega (Horas),19,24,Logística,URGENTE
+20/02/2025,Novos Leads B2B,14,15,Marketing,CRÍTICA
+20/02/2025,Disponibilidade Site (%),76,99,TI,URGENTE
+21/02/2025,Eletrônicos (Laptops),76,80,Vendas,URGENTE
+21/02/2025,Acessórios (Cabos/Baterias),224,250,Logística,ALERTA
+21/02/2025,Linha Branca (Washing Machines),65,20,Vendas,NORMAL
+21/02/2025,Total faturado (USD),15009,15000,Financeiro,NORMAL
+21/02/2025,Suporte (Tickets),27,30,Atendimento,ALERTA
+21/02/2025,Tempo de Entrega (Horas),20,24,Logística,ALERTA
+21/02/2025,Novos Leads B2B,14,15,Marketing,URGENTE
+21/02/2025,Disponibilidade Site (%),80,99,TI,ALERTA
+22/02/2025,Eletrônicos (Laptops),112,80,Vendas,NORMAL
+22/02/2025,Acessórios (Cabos/Baterias),194,250,Logística,ALERTA
+22/02/2025,Linha Branca (Washing Machines),16,20,Vendas,URGENTE
+22/02/2025,Total faturado (USD),12299,15000,Financeiro,URGENTE
+22/02/2025,Suporte (Tickets),80,30,Atendimento,NORMAL
+22/02/2025,Tempo de Entrega (Horas),21,24,Logística,URGENTE
+22/02/2025,Novos Leads B2B,11,15,Marketing,ALERTA
+22/02/2025,Disponibilidade Site (%),137,99,TI,NORMAL
+23/02/2025,Eletrônicos (Laptops),102,80,Vendas,NORMAL
+23/02/2025,Acessórios (Cabos/Baterias),233,250,Logística,URGENTE
+23/02/2025,Linha Branca (Washing Machines),15,20,Vendas,URGENTE
+23/02/2025,Total faturado (USD),14497,15000,Financeiro,CRÍTICA
+23/02/2025,Suporte (Tickets),22,30,Atendimento,ALERTA
+23/02/2025,Tempo de Entrega (Horas),21,24,Logística,ALERTA
+23/02/2025,Novos Leads B2B,20,15,Marketing,NORMAL
+23/02/2025,Disponibilidade Site (%),135,99,TI,NORMAL
+24/02/2025,Eletrônicos (Laptops),65,80,Vendas,URGENTE
+24/02/2025,Acessórios (Cabos/Baterias),271,250,Logística,NORMAL
+24/02/2025,Linha Branca (Washing Machines),20,20,Vendas,ALERTA
+24/02/2025,Total faturado (USD),10860,15000,Financeiro,CRÍTICA
+24/02/2025,Suporte (Tickets),27,30,Atendimento,URGENTE
+24/02/2025,Tempo de Entrega (Horas),59,24,Logística,NORMAL
+24/02/2025,Novos Leads B2B,15,15,Marketing,URGENTE
+24/02/2025,Disponibilidade Site (%),92,99,TI,ALERTA
+25/02/2025,Eletrônicos (Laptops),96,80,Vendas,NORMAL
+25/02/2025,Acessórios (Cabos/Baterias),255,250,Logística,NORMAL
+25/02/2025,Linha Branca (Washing Machines),17,20,Vendas,ALERTA
+25/02/2025,Total faturado (USD),12364,15000,Financeiro,URGENTE
+25/02/2025,Suporte (Tickets),75,30,Atendimento,NORMAL
+25/02/2025,Tempo de Entrega (Horas),22,24,Logística,URGENTE
+25/02/2025,Novos Leads B2B,18,15,Marketing,NORMAL
+25/02/2025,Disponibilidade Site (%),88,99,TI,URGENTE
+26/02/2025,Eletrônicos (Laptops),67,80,Vendas,ALERTA
+26/02/2025,Acessórios (Cabos/Baterias),246,250,Logística,URGENTE
+26/02/2025,Linha Branca (Washing Machines),20,20,Vendas,URGENTE
+26/02/2025,Total faturado (USD),15022,15000,Financeiro,NORMAL
+26/02/2025,Suporte (Tickets),41,30,Atendimento,NORMAL
+26/02/2025,Tempo de Entrega (Horas),17,24,Logística,URGENTE
+26/02/2025,Novos Leads B2B,46,15,Marketing,NORMAL
+26/02/2025,Disponibilidade Site (%),117,99,TI,NORMAL
+27/02/2025,Eletrônicos (Laptops),56,80,Vendas,URGENTE
+27/02/2025,Acessórios (Cabos/Baterias),221,250,Logística,ALERTA
+27/02/2025,Linha Branca (Washing Machines),19,20,Vendas,ALERTA
+27/02/2025,Total faturado (USD),15020,15000,Financeiro,NORMAL
+27/02/2025,Suporte (Tickets),21,30,Atendimento,URGENTE
+27/02/2025,Tempo de Entrega (Horas),23,24,Logística,URGENTE
+27/02/2025,Novos Leads B2B,12,15,Marketing,ALERTA
+27/02/2025,Disponibilidade Site (%),89,99,TI,URGENTE
+28/02/2025,Eletrônicos (Laptops),58,80,Vendas,CRÍTICA
+28/02/2025,Acessórios (Cabos/Baterias),216,250,Logística,ALERTA
+28/02/2025,Linha Branca (Washing Machines),18,20,Vendas,URGENTE
+28/02/2025,Total faturado (USD),15028,15000,Financeiro,NORMAL
+28/02/2025,Suporte (Tickets),24,30,Atendimento,URGENTE
+28/02/2025,Tempo de Entrega (Horas),61,24,Logística,NORMAL
+28/02/2025,Novos Leads B2B,14,15,Marketing,ALERTA
+28/02/2025,Disponibilidade Site (%),86,99,TI,CRÍTICA
+01/03/2025,Eletrônicos (Laptops),120,80,Vendas,NORMAL
+01/03/2025,Acessórios (Cabos/Baterias),199,250,Logística,URGENTE
+01/03/2025,Linha Branca (Washing Machines),19,20,Vendas,ALERTA
+01/03/2025,Total faturado (USD),15024,15000,Financeiro,NORMAL
+01/03/2025,Suporte (Tickets),24,30,Atendimento,ALERTA
+01/03/2025,Tempo de Entrega (Horas),17,24,Logística,URGENTE
+01/03/2025,Novos Leads B2B,12,15,Marketing,ALERTA
+01/03/2025,Disponibilidade Site (%),116,99,TI,NORMAL
+02/03/2025,Eletrônicos (Laptops),62,80,Vendas,URGENTE
+02/03/2025,Acessórios (Cabos/Baterias),274,250,Logística,NORMAL
+02/03/2025,Linha Branca (Washing Machines),16,20,Vendas,URGENTE
+02/03/2025,Total faturado (USD),15037,15000,Financeiro,NORMAL
+02/03/2025,Suporte (Tickets),46,30,Atendimento,NORMAL
+02/03/2025,Tempo de Entrega (Horas),60,24,Logística,NORMAL
+02/03/2025,Novos Leads B2B,12,15,Marketing,CRÍTICA
+02/03/2025,Disponibilidade Site (%),144,99,TI,NORMAL
+03/03/2025,Eletrônicos (Laptops),119,80,Vendas,NORMAL
+03/03/2025,Acessórios (Cabos/Baterias),266,250,Logística,NORMAL
+03/03/2025,Linha Branca (Washing Machines),19,20,Vendas,URGENTE
+03/03/2025,Total faturado (USD),15027,15000,Financeiro,NORMAL
+03/03/2025,Suporte (Tickets),46,30,Atendimento,NORMAL
+03/03/2025,Tempo de Entrega (Horas),22,24,Logística,URGENTE
+03/03/2025,Novos Leads B2B,12,15,Marketing,URGENTE
+03/03/2025,Disponibilidade Site (%),128,99,TI,NORMAL
+04/03/2025,Eletrônicos (Laptops),62,80,Vendas,URGENTE
+04/03/2025,Acessórios (Cabos/Baterias),249,250,Logística,CRÍTICA
+04/03/2025,Linha Branca (Washing Machines),18,20,Vendas,URGENTE
+04/03/2025,Total faturado (USD),11339,15000,Financeiro,ALERTA
+04/03/2025,Suporte (Tickets),27,30,Atendimento,URGENTE
+04/03/2025,Tempo de Entrega (Horas),17,24,Logística,URGENTE
+04/03/2025,Novos Leads B2B,14,15,Marketing,CRÍTICA
+04/03/2025,Disponibilidade Site (%),140,99,TI,NORMAL
+05/03/2025,Eletrônicos (Laptops),59,80,Vendas,URGENTE
+05/03/2025,Acessórios (Cabos/Baterias),197,250,Logística,CRÍTICA
+05/03/2025,Linha Branca (Washing Machines),59,20,Vendas,NORMAL
+05/03/2025,Total faturado (USD),15046,15000,Financeiro,NORMAL
+05/03/2025,Suporte (Tickets),48,30,Atendimento,NORMAL
+05/03/2025,Tempo de Entrega (Horas),24,24,Logística,URGENTE
+05/03/2025,Novos Leads B2B,25,15,Marketing,NORMAL
+05/03/2025,Disponibilidade Site (%),87,99,TI,ALERTA
+06/03/2025,Eletrônicos (Laptops),63,80,Vendas,URGENTE
+06/03/2025,Acessórios (Cabos/Baterias),177,250,Logística,URGENTE
+06/03/2025,Linha Branca (Washing Machines),15,20,Vendas,URGENTE
+06/03/2025,Total faturado (USD),12311,15000,Financeiro,URGENTE
+06/03/2025,Suporte (Tickets),27,30,Atendimento,URGENTE
+06/03/2025,Tempo de Entrega (Horas),21,24,Logística,CRÍTICA
+06/03/2025,Novos Leads B2B,12,15,Marketing,CRÍTICA
+06/03/2025,Disponibilidade Site (%),82,99,TI,CRÍTICA
+07/03/2025,Eletrônicos (Laptops),68,80,Vendas,URGENTE
+07/03/2025,Acessórios (Cabos/Baterias),178,250,Logística,URGENTE
+07/03/2025,Linha Branca (Washing Machines),57,20,Vendas,NORMAL
+07/03/2025,Total faturado (USD),11199,15000,Financeiro,CRÍTICA
+07/03/2025,Suporte (Tickets),34,30,Atendimento,NORMAL
+07/03/2025,Tempo de Entrega (Horas),51,24,Logística,NORMAL
+07/03/2025,Novos Leads B2B,11,15,Marketing,ALERTA
+07/03/2025,Disponibilidade Site (%),75,99,TI,ALERTA
+08/03/2025,Eletrônicos (Laptops),117,80,Vendas,NORMAL
+08/03/2025,Acessórios (Cabos/Baterias),269,250,Logística,NORMAL
+08/03/2025,Linha Branca (Washing Machines),16,20,Vendas,URGENTE
+08/03/2025,Total faturado (USD),15020,15000,Financeiro,NORMAL
+08/03/2025,Suporte (Tickets),36,30,Atendimento,NORMAL
+08/03/2025,Tempo de Entrega (Horas),54,24,Logística,NORMAL
+08/03/2025,Novos Leads B2B,15,15,Marketing,ALERTA
+08/03/2025,Disponibilidade Site (%),120,99,TI,NORMAL
+09/03/2025,Eletrônicos (Laptops),63,80,Vendas,CRÍTICA
+09/03/2025,Acessórios (Cabos/Baterias),283,250,Logística,NORMAL
+09/03/2025,Linha Branca (Washing Machines),41,20,Vendas,NORMAL
+09/03/2025,Total faturado (USD),14069,15000,Financeiro,CRÍTICA
+09/03/2025,Suporte (Tickets),62,30,Atendimento,NORMAL
+09/03/2025,Tempo de Entrega (Horas),57,24,Logística,NORMAL
+09/03/2025,Novos Leads B2B,12,15,Marketing,ALERTA
+09/03/2025,Disponibilidade Site (%),137,99,TI,NORMAL
+10/03/2025,Eletrônicos (Laptops),84,80,Vendas,NORMAL
+10/03/2025,Acessórios (Cabos/Baterias),241,250,Logística,URGENTE
+10/03/2025,Linha Branca (Washing Machines),50,20,Vendas,NORMAL
+10/03/2025,Total faturado (USD),14590,15000,Financeiro,URGENTE
+10/03/2025,Suporte (Tickets),30,30,Atendimento,URGENTE
+10/03/2025,Tempo de Entrega (Horas),17,24,Logística,ALERTA
+10/03/2025,Novos Leads B2B,12,15,Marketing,URGENTE
+10/03/2025,Disponibilidade Site (%),144,99,TI,NORMAL
+11/03/2025,Eletrônicos (Laptops),129,80,Vendas,NORMAL
+11/03/2025,Acessórios (Cabos/Baterias),275,250,Logística,NORMAL
+11/03/2025,Linha Branca (Washing Machines),17,20,Vendas,CRÍTICA
+11/03/2025,Total faturado (USD),13553,15000,Financeiro,ALERTA
+11/03/2025,Suporte (Tickets),26,30,Atendimento,ALERTA
+11/03/2025,Tempo de Entrega (Horas),20,24,Logística,URGENTE
+11/03/2025,Novos Leads B2B,29,15,Marketing,NORMAL
+11/03/2025,Disponibilidade Site (%),85,99,TI,CRÍTICA
+12/03/2025,Eletrônicos (Laptops),73,80,Vendas,CRÍTICA
+12/03/2025,Acessórios (Cabos/Baterias),272,250,Logística,NORMAL
+12/03/2025,Linha Branca (Washing Machines),17,20,Vendas,URGENTE
+12/03/2025,Total faturado (USD),15041,15000,Financeiro,NORMAL
+12/03/2025,Suporte (Tickets),24,30,Atendimento,URGENTE
+12/03/2025,Tempo de Entrega (Horas),49,24,Logística,NORMAL
+12/03/2025,Novos Leads B2B,12,15,Marketing,ALERTA
+12/03/2025,Disponibilidade Site (%),90,99,TI,CRÍTICA
+13/03/2025,Eletrônicos (Laptops),69,80,Vendas,URGENTE
+13/03/2025,Acessórios (Cabos/Baterias),267,250,Logística,NORMAL
+13/03/2025,Linha Branca (Washing Machines),17,20,Vendas,URGENTE
+13/03/2025,Total faturado (USD),14229,15000,Financeiro,ALERTA
+13/03/2025,Suporte (Tickets),28,30,Atendimento,ALERTA
+13/03/2025,Tempo de Entrega (Horas),25,24,Logística,NORMAL
+13/03/2025,Novos Leads B2B,15,15,Marketing,CRÍTICA
+13/03/2025,Disponibilidade Site (%),98,99,TI,URGENTE
+14/03/2025,Eletrônicos (Laptops),62,80,Vendas,CRÍTICA
+14/03/2025,Acessórios (Cabos/Baterias),222,250,Logística,URGENTE
+14/03/2025,Linha Branca (Washing Machines),15,20,Vendas,ALERTA
+14/03/2025,Total faturado (USD),11977,15000,Financeiro,URGENTE
+14/03/2025,Suporte (Tickets),21,30,Atendimento,URGENTE
+14/03/2025,Tempo de Entrega (Horas),24,24,Logística,URGENTE
+14/03/2025,Novos Leads B2B,13,15,Marketing,URGENTE
+14/03/2025,Disponibilidade Site (%),125,99,TI,NORMAL
+15/03/2025,Eletrônicos (Laptops),71,80,Vendas,URGENTE
+15/03/2025,Acessórios (Cabos/Baterias),292,250,Logística,NORMAL
+15/03/2025,Linha Branca (Washing Machines),20,20,Vendas,URGENTE
+15/03/2025,Total faturado (USD),11421,15000,Financeiro,ALERTA
+15/03/2025,Suporte (Tickets),21,30,Atendimento,URGENTE
+15/03/2025,Tempo de Entrega (Horas),25,24,Logística,NORMAL
+15/03/2025,Novos Leads B2B,12,15,Marketing,URGENTE
+15/03/2025,Disponibilidade Site (%),106,99,TI,NORMAL
+16/03/2025,Eletrônicos (Laptops),119,80,Vendas,NORMAL
+16/03/2025,Acessórios (Cabos/Baterias),177,250,Logística,URGENTE
+16/03/2025,Linha Branca (Washing Machines),18,20,Vendas,URGENTE
+16/03/2025,Total faturado (USD),13967,15000,Financeiro,URGENTE
+16/03/2025,Suporte (Tickets),28,30,Atendimento,ALERTA
+16/03/2025,Tempo de Entrega (Horas),17,24,Logística,URGENTE
+16/03/2025,Novos Leads B2B,12,15,Marketing,URGENTE
+16/03/2025,Disponibilidade Site (%),88,99,TI,URGENTE
+17/03/2025,Eletrônicos (Laptops),83,80,Vendas,NORMAL
+17/03/2025,Acessórios (Cabos/Baterias),275,250,Logística,NORMAL
+17/03/2025,Linha Branca (Washing Machines),15,20,Vendas,URGENTE
+17/03/2025,Total faturado (USD),10614,15000,Financeiro,CRÍTICA
+17/03/2025,Suporte (Tickets),27,30,Atendimento,ALERTA
+17/03/2025,Tempo de Entrega (Horas),53,24,Logística,NORMAL
+17/03/2025,Novos Leads B2B,12,15,Marketing,URGENTE
+17/03/2025,Disponibilidade Site (%),89,99,TI,URGENTE
+18/03/2025,Eletrônicos (Laptops),69,80,Vendas,ALERTA
+18/03/2025,Acessórios (Cabos/Baterias),274,250,Logística,NORMAL
+18/03/2025,Linha Branca (Washing Machines),18,20,Vendas,ALERTA
+18/03/2025,Total faturado (USD),11988,15000,Financeiro,URGENTE
+18/03/2025,Suporte (Tickets),24,30,Atendimento,URGENTE
+18/03/2025,Tempo de Entrega (Horas),23,24,Logística,ALERTA
+18/03/2025,Novos Leads B2B,56,15,Marketing,NORMAL
+18/03/2025,Disponibilidade Site (%),91,99,TI,URGENTE
+19/03/2025,Eletrônicos (Laptops),60,80,Vendas,CRÍTICA
+19/03/2025,Acessórios (Cabos/Baterias),259,250,Logística,NORMAL
+19/03/2025,Linha Branca (Washing Machines),17,20,Vendas,URGENTE
+19/03/2025,Total faturado (USD),13503,15000,Financeiro,URGENTE
+19/03/2025,Suporte (Tickets),29,30,Atendimento,CRÍTICA
+19/03/2025,Tempo de Entrega (Horas),23,24,Logística,ALERTA
+19/03/2025,Novos Leads B2B,32,15,Marketing,NORMAL
+19/03/2025,Disponibilidade Site (%),78,99,TI,URGENTE
+20/03/2025,Eletrônicos (Laptops),60,80,Vendas,ALERTA
+20/03/2025,Acessórios (Cabos/Baterias),288,250,Logística,NORMAL
+20/03/2025,Linha Branca (Washing Machines),18,20,Vendas,URGENTE
+20/03/2025,Total faturado (USD),14920,15000,Financeiro,ALERTA
+20/03/2025,Suporte (Tickets),42,30,Atendimento,NORMAL
+20/03/2025,Tempo de Entrega (Horas),18,24,Logística,ALERTA
+20/03/2025,Novos Leads B2B,14,15,Marketing,CRÍTICA
+20/03/2025,Disponibilidade Site (%),99,99,TI,ALERTA
+21/03/2025,Eletrônicos (Laptops),65,80,Vendas,URGENTE
+21/03/2025,Acessórios (Cabos/Baterias),180,250,Logística,CRÍTICA
+21/03/2025,Linha Branca (Washing Machines),16,20,Vendas,URGENTE
+21/03/2025,Total faturado (USD),12156,15000,Financeiro,CRÍTICA
+21/03/2025,Suporte (Tickets),30,30,Atendimento,CRÍTICA
+21/03/2025,Tempo de Entrega (Horas),43,24,Logística,NORMAL
+21/03/2025,Novos Leads B2B,15,15,Marketing,CRÍTICA
+21/03/2025,Disponibilidade Site (%),83,99,TI,URGENTE
+22/03/2025,Eletrônicos (Laptops),123,80,Vendas,NORMAL
+22/03/2025,Acessórios (Cabos/Baterias),250,250,Logística,URGENTE
+22/03/2025,Linha Branca (Washing Machines),19,20,Vendas,URGENTE
+22/03/2025,Total faturado (USD),13982,15000,Financeiro,ALERTA
+22/03/2025,Suporte (Tickets),80,30,Atendimento,NORMAL
+22/03/2025,Tempo de Entrega (Horas),68,24,Logística,NORMAL
+22/03/2025,Novos Leads B2B,13,15,Marketing,CRÍTICA
+22/03/2025,Disponibilidade Site (%),101,99,TI,NORMAL
+23/03/2025,Eletrônicos (Laptops),61,80,Vendas,CRÍTICA
+23/03/2025,Acessórios (Cabos/Baterias),190,250,Logística,ALERTA
+23/03/2025,Linha Branca (Washing Machines),16,20,Vendas,ALERTA
+23/03/2025,Total faturado (USD),15028,15000,Financeiro,NORMAL
+23/03/2025,Suporte (Tickets),23,30,Atendimento,URGENTE
+23/03/2025,Tempo de Entrega (Horas),23,24,Logística,ALERTA
+23/03/2025,Novos Leads B2B,11,15,Marketing,ALERTA
+23/03/2025,Disponibilidade Site (%),87,99,TI,URGENTE
+24/03/2025,Eletrônicos (Laptops),56,80,Vendas,ALERTA
+24/03/2025,Acessórios (Cabos/Baterias),233,250,Logística,URGENTE
+24/03/2025,Linha Branca (Washing Machines),57,20,Vendas,NORMAL
+24/03/2025,Total faturado (USD),15037,15000,Financeiro,NORMAL
+24/03/2025,Suporte (Tickets),21,30,Atendimento,ALERTA
+24/03/2025,Tempo de Entrega (Horas),22,24,Logística,CRÍTICA
+24/03/2025,Novos Leads B2B,12,15,Marketing,ALERTA
+24/03/2025,Disponibilidade Site (%),71,99,TI,ALERTA
+25/03/2025,Eletrônicos (Laptops),88,80,Vendas,NORMAL
+25/03/2025,Acessórios (Cabos/Baterias),282,250,Logística,NORMAL
+25/03/2025,Linha Branca (Washing Machines),17,20,Vendas,CRÍTICA
+25/03/2025,Total faturado (USD),11477,15000,Financeiro,CRÍTICA
+25/03/2025,Suporte (Tickets),68,30,Atendimento,NORMAL
+25/03/2025,Tempo de Entrega (Horas),17,24,Logística,URGENTE
+25/03/2025,Novos Leads B2B,14,15,Marketing,ALERTA
+25/03/2025,Disponibilidade Site (%),79,99,TI,URGENTE
+26/03/2025,Eletrônicos (Laptops),58,80,Vendas,CRÍTICA
+26/03/2025,Acessórios (Cabos/Baterias),271,250,Logística,NORMAL
+26/03/2025,Linha Branca (Washing Machines),16,20,Vendas,CRÍTICA
+26/03/2025,Total faturado (USD),11491,15000,Financeiro,ALERTA
+26/03/2025,Suporte (Tickets),23,30,Atendimento,URGENTE
+26/03/2025,Tempo de Entrega (Horas),24,24,Logística,CRÍTICA
+26/03/2025,Novos Leads B2B,52,15,Marketing,NORMAL
+26/03/2025,Disponibilidade Site (%),87,99,TI,URGENTE
+27/03/2025,Eletrônicos (Laptops),68,80,Vendas,ALERTA
+27/03/2025,Acessórios (Cabos/Baterias),295,250,Logística,NORMAL
+27/03/2025,Linha Branca (Washing Machines),19,20,Vendas,CRÍTICA
+27/03/2025,Total faturado (USD),15002,15000,Financeiro,NORMAL
+27/03/2025,Suporte (Tickets),24,30,Atendimento,CRÍTICA
+27/03/2025,Tempo de Entrega (Horas),20,24,Logística,ALERTA
+27/03/2025,Novos Leads B2B,13,15,Marketing,ALERTA
+27/03/2025,Disponibilidade Site (%),84,99,TI,URGENTE
+28/03/2025,Eletrônicos (Laptops),97,80,Vendas,NORMAL
+28/03/2025,Acessórios (Cabos/Baterias),222,250,Logística,CRÍTICA
+28/03/2025,Linha Branca (Washing Machines),36,20,Vendas,NORMAL
+28/03/2025,Total faturado (USD),15035,15000,Financeiro,NORMAL
+28/03/2025,Suporte (Tickets),43,30,Atendimento,NORMAL
+28/03/2025,Tempo de Entrega (Horas),24,24,Logística,URGENTE
+28/03/2025,Novos Leads B2B,14,15,Marketing,URGENTE
+28/03/2025,Disponibilidade Site (%),74,99,TI,URGENTE
+29/03/2025,Eletrônicos (Laptops),71,80,Vendas,CRÍTICA
+29/03/2025,Acessórios (Cabos/Baterias),181,250,Logística,ALERTA
+29/03/2025,Linha Branca (Washing Machines),16,20,Vendas,URGENTE
+29/03/2025,Total faturado (USD),15021,15000,Financeiro,NORMAL
+29/03/2025,Suporte (Tickets),28,30,Atendimento,CRÍTICA
+29/03/2025,Tempo de Entrega (Horas),20,24,Logística,URGENTE
+29/03/2025,Novos Leads B2B,14,15,Marketing,CRÍTICA
+29/03/2025,Disponibilidade Site (%),106,99,TI,NORMAL
+30/03/2025,Eletrônicos (Laptops),58,80,Vendas,ALERTA
+30/03/2025,Acessórios (Cabos/Baterias),204,250,Logística,ALERTA
+30/03/2025,Linha Branca (Washing Machines),20,20,Vendas,URGENTE
+30/03/2025,Total faturado (USD),15042,15000,Financeiro,NORMAL
+30/03/2025,Suporte (Tickets),21,30,Atendimento,ALERTA
+30/03/2025,Tempo de Entrega (Horas),63,24,Logística,NORMAL
+30/03/2025,Novos Leads B2B,11,15,Marketing,ALERTA
+30/03/2025,Disponibilidade Site (%),147,99,TI,NORMAL
+31/03/2025,Eletrônicos (Laptops),66,80,Vendas,URGENTE
+31/03/2025,Acessórios (Cabos/Baterias),221,250,Logística,URGENTE
+31/03/2025,Linha Branca (Washing Machines),18,20,Vendas,ALERTA
+31/03/2025,Total faturado (USD),13963,15000,Financeiro,ALERTA
+31/03/2025,Suporte (Tickets),46,30,Atendimento,NORMAL
+31/03/2025,Tempo de Entrega (Horas),17,24,Logística,URGENTE
+31/03/2025,Novos Leads B2B,53,15,Marketing,NORMAL
+31/03/2025,Disponibilidade Site (%),85,99,TI,URGENTE
+01/04/2025,Eletrônicos (Laptops),66,80,Vendas,ALERTA
+01/04/2025,Acessórios (Cabos/Baterias),286,250,Logística,NORMAL
+01/04/2025,Linha Branca (Washing Machines),48,20,Vendas,NORMAL
+01/04/2025,Total faturado (USD),11514,15000,Financeiro,CRÍTICA
+01/04/2025,Suporte (Tickets),68,30,Atendimento,NORMAL
+01/04/2025,Tempo de Entrega (Horas),22,24,Logística,ALERTA
+01/04/2025,Novos Leads B2B,13,15,Marketing,URGENTE
+01/04/2025,Disponibilidade Site (%),76,99,TI,URGENTE
+02/04/2025,Eletrônicos (Laptops),58,80,Vendas,CRÍTICA
+02/04/2025,Acessórios (Cabos/Baterias),216,250,Logística,URGENTE
+02/04/2025,Linha Branca (Washing Machines),45,20,Vendas,NORMAL
+02/04/2025,Total faturado (USD),14889,15000,Financeiro,CRÍTICA
+02/04/2025,Suporte (Tickets),64,30,Atendimento,NORMAL
+02/04/2025,Tempo de Entrega (Horas),20,24,Logística,URGENTE
+02/04/2025,Novos Leads B2B,14,15,Marketing,URGENTE
+02/04/2025,Disponibilidade Site (%),77,99,TI,URGENTE
+03/04/2025,Eletrônicos (Laptops),73,80,Vendas,URGENTE
+03/04/2025,Acessórios (Cabos/Baterias),243,250,Logística,CRÍTICA
+03/04/2025,Linha Branca (Washing Machines),19,20,Vendas,URGENTE
+03/04/2025,Total faturado (USD),11887,15000,Financeiro,CRÍTICA
+03/04/2025,Suporte (Tickets),28,30,Atendimento,URGENTE
+03/04/2025,Tempo de Entrega (Horas),22,24,Logística,ALERTA
+03/04/2025,Novos Leads B2B,15,15,Marketing,URGENTE
+03/04/2025,Disponibilidade Site (%),90,99,TI,URGENTE
+04/04/2025,Eletrônicos (Laptops),76,80,Vendas,URGENTE
+04/04/2025,Acessórios (Cabos/Baterias),229,250,Logística,CRÍTICA
+04/04/2025,Linha Branca (Washing Machines),20,20,Vendas,URGENTE
+04/04/2025,Total faturado (USD),11031,15000,Financeiro,URGENTE
+04/04/2025,Suporte (Tickets),75,30,Atendimento,NORMAL
+04/04/2025,Tempo de Entrega (Horas),20,24,Logística,ALERTA
+04/04/2025,Novos Leads B2B,15,15,Marketing,URGENTE
+04/04/2025,Disponibilidade Site (%),96,99,TI,URGENTE
+05/04/2025,Eletrônicos (Laptops),101,80,Vendas,NORMAL
+05/04/2025,Acessórios (Cabos/Baterias),238,250,Logística,ALERTA
+05/04/2025,Linha Branca (Washing Machines),35,20,Vendas,NORMAL
+05/04/2025,Total faturado (USD),12129,15000,Financeiro,ALERTA
+05/04/2025,Suporte (Tickets),24,30,Atendimento,URGENTE
+05/04/2025,Tempo de Entrega (Horas),20,24,Logística,URGENTE
+05/04/2025,Novos Leads B2B,12,15,Marketing,URGENTE
+05/04/2025,Disponibilidade Site (%),116,99,TI,NORMAL
+06/04/2025,Eletrônicos (Laptops),127,80,Vendas,NORMAL
+06/04/2025,Acessórios (Cabos/Baterias),215,250,Logística,URGENTE
+06/04/2025,Linha Branca (Washing Machines),18,20,Vendas,CRÍTICA
+06/04/2025,Total faturado (USD),14677,15000,Financeiro,CRÍTICA
+06/04/2025,Suporte (Tickets),65,30,Atendimento,NORMAL
+06/04/2025,Tempo de Entrega (Horas),24,24,Logística,ALERTA
+06/04/2025,Novos Leads B2B,33,15,Marketing,NORMAL
+06/04/2025,Disponibilidade Site (%),74,99,TI,CRÍTICA
+07/04/2025,Eletrônicos (Laptops),114,80,Vendas,NORMAL
+07/04/2025,Acessórios (Cabos/Baterias),229,250,Logística,CRÍTICA
+07/04/2025,Linha Branca (Washing Machines),19,20,Vendas,CRÍTICA
+07/04/2025,Total faturado (USD),15045,15000,Financeiro,NORMAL
+07/04/2025,Suporte (Tickets),27,30,Atendimento,CRÍTICA
+07/04/2025,Tempo de Entrega (Horas),20,24,Logística,URGENTE
+07/04/2025,Novos Leads B2B,14,15,Marketing,URGENTE
+07/04/2025,Disponibilidade Site (%),113,99,TI,NORMAL
+08/04/2025,Eletrônicos (Laptops),74,80,Vendas,CRÍTICA
+08/04/2025,Acessórios (Cabos/Baterias),300,250,Logística,NORMAL
+08/04/2025,Linha Branca (Washing Machines),16,20,Vendas,CRÍTICA
+08/04/2025,Total faturado (USD),13622,15000,Financeiro,ALERTA
+08/04/2025,Suporte (Tickets),60,30,Atendimento,NORMAL
+08/04/2025,Tempo de Entrega (Horas),70,24,Logística,NORMAL
+08/04/2025,Novos Leads B2B,12,15,Marketing,ALERTA
+08/04/2025,Disponibilidade Site (%),103,99,TI,NORMAL
+09/04/2025,Eletrônicos (Laptops),78,80,Vendas,URGENTE
+09/04/2025,Acessórios (Cabos/Baterias),253,250,Logística,NORMAL
+09/04/2025,Linha Branca (Washing Machines),18,20,Vendas,URGENTE
+09/04/2025,Total faturado (USD),14722,15000,Financeiro,URGENTE
+09/04/2025,Suporte (Tickets),80,30,Atendimento,NORMAL
+09/04/2025,Tempo de Entrega (Horas),17,24,Logística,ALERTA
+09/04/2025,Novos Leads B2B,46,15,Marketing,NORMAL
+09/04/2025,Disponibilidade Site (%),84,99,TI,CRÍTICA
+10/04/2025,Eletrônicos (Laptops),96,80,Vendas,NORMAL
+10/04/2025,Acessórios (Cabos/Baterias),237,250,Logística,URGENTE
+10/04/2025,Linha Branca (Washing Machines),14,20,Vendas,URGENTE
+10/04/2025,Total faturado (USD),10720,15000,Financeiro,URGENTE
+10/04/2025,Suporte (Tickets),28,30,Atendimento,ALERTA
+10/04/2025,Tempo de Entrega (Horas),45,24,Logística,NORMAL
+10/04/2025,Novos Leads B2B,15,15,Marketing,CRÍTICA
+10/04/2025,Disponibilidade Site (%),71,99,TI,URGENTE
+11/04/2025,Eletrônicos (Laptops),85,80,Vendas,NORMAL
+11/04/2025,Acessórios (Cabos/Baterias),289,250,Logística,NORMAL
+11/04/2025,Linha Branca (Washing Machines),61,20,Vendas,NORMAL
+11/04/2025,Total faturado (USD),12547,15000,Financeiro,CRÍTICA
+11/04/2025,Suporte (Tickets),21,30,Atendimento,URGENTE
+11/04/2025,Tempo de Entrega (Horas),43,24,Logística,NORMAL
+11/04/2025,Novos Leads B2B,29,15,Marketing,NORMAL
+11/04/2025,Disponibilidade Site (%),122,99,TI,NORMAL
+12/04/2025,Eletrônicos (Laptops),68,80,Vendas,CRÍTICA
+12/04/2025,Acessórios (Cabos/Baterias),215,250,Logística,URGENTE
+12/04/2025,Linha Branca (Washing Machines),14,20,Vendas,CRÍTICA
+12/04/2025,Total faturado (USD),14522,15000,Financeiro,CRÍTICA
+12/04/2025,Suporte (Tickets),38,30,Atendimento,NORMAL
+12/04/2025,Tempo de Entrega (Horas),24,24,Logística,URGENTE
+12/04/2025,Novos Leads B2B,11,15,Marketing,ALERTA
+12/04/2025,Disponibilidade Site (%),106,99,TI,NORMAL
+13/04/2025,Eletrônicos (Laptops),126,80,Vendas,NORMAL
+13/04/2025,Acessórios (Cabos/Baterias),191,250,Logística,URGENTE
+13/04/2025,Linha Branca (Washing Machines),15,20,Vendas,URGENTE
+13/04/2025,Total faturado (USD),12934,15000,Financeiro,URGENTE
+13/04/2025,Suporte (Tickets),22,30,Atendimento,CRÍTICA
+13/04/2025,Tempo de Entrega (Horas),24,24,Logística,URGENTE
+13/04/2025,Novos Leads B2B,13,15,Marketing,URGENTE
+13/04/2025,Disponibilidade Site (%),88,99,TI,URGENTE
+14/04/2025,Eletrônicos (Laptops),68,80,Vendas,ALERTA
+14/04/2025,Acessórios (Cabos/Baterias),238,250,Logística,URGENTE
+14/04/2025,Linha Branca (Washing Machines),70,20,Vendas,NORMAL
+14/04/2025,Total faturado (USD),14801,15000,Financeiro,URGENTE
+14/04/2025,Suporte (Tickets),27,30,Atendimento,ALERTA
+14/04/2025,Tempo de Entrega (Horas),46,24,Logística,NORMAL
+14/04/2025,Novos Leads B2B,29,15,Marketing,NORMAL
+14/04/2025,Disponibilidade Site (%),92,99,TI,URGENTE
+15/04/2025,Eletrônicos (Laptops),67,80,Vendas,CRÍTICA
+15/04/2025,Acessórios (Cabos/Baterias),191,250,Logística,URGENTE
+15/04/2025,Linha Branca (Washing Machines),17,20,Vendas,URGENTE
+15/04/2025,Total faturado (USD),14430,15000,Financeiro,URGENTE
+15/04/2025,Suporte (Tickets),23,30,Atendimento,URGENTE
+15/04/2025,Tempo de Entrega (Horas),22,24,Logística,URGENTE
+15/04/2025,Novos Leads B2B,15,15,Marketing,CRÍTICA
+15/04/2025,Disponibilidade Site (%),84,99,TI,URGENTE
+16/04/2025,Eletrônicos (Laptops),66,80,Vendas,URGENTE
+16/04/2025,Acessórios (Cabos/Baterias),201,250,Logística,URGENTE
+16/04/2025,Linha Branca (Washing Machines),14,20,Vendas,CRÍTICA
+16/04/2025,Total faturado (USD),15004,15000,Financeiro,NORMAL
+16/04/2025,Suporte (Tickets),26,30,Atendimento,CRÍTICA
+16/04/2025,Tempo de Entrega (Horas),21,24,Logística,URGENTE
+16/04/2025,Novos Leads B2B,11,15,Marketing,ALERTA
+16/04/2025,Disponibilidade Site (%),138,99,TI,NORMAL
+17/04/2025,Eletrônicos (Laptops),88,80,Vendas,NORMAL
+17/04/2025,Acessórios (Cabos/Baterias),239,250,Logística,ALERTA
+17/04/2025,Linha Branca (Washing Machines),18,20,Vendas,URGENTE
+17/04/2025,Total faturado (USD),14019,15000,Financeiro,URGENTE
+17/04/2025,Suporte (Tickets),30,30,Atendimento,CRÍTICA
+17/04/2025,Tempo de Entrega (Horas),31,24,Logística,NORMAL
+17/04/2025,Novos Leads B2B,14,15,Marketing,URGENTE
+17/04/2025,Disponibilidade Site (%),70,99,TI,URGENTE
+18/04/2025,Eletrônicos (Laptops),75,80,Vendas,CRÍTICA
+18/04/2025,Acessórios (Cabos/Baterias),242,250,Logística,ALERTA
+18/04/2025,Linha Branca (Washing Machines),28,20,Vendas,NORMAL
+18/04/2025,Total faturado (USD),15042,15000,Financeiro,NORMAL
+18/04/2025,Suporte (Tickets),56,30,Atendimento,NORMAL
+18/04/2025,Tempo de Entrega (Horas),21,24,Logística,CRÍTICA
+18/04/2025,Novos Leads B2B,11,15,Marketing,URGENTE
+18/04/2025,Disponibilidade Site (%),83,99,TI,URGENTE
+19/04/2025,Eletrônicos (Laptops),73,80,Vendas,CRÍTICA
+19/04/2025,Acessórios (Cabos/Baterias),187,250,Logística,CRÍTICA
+19/04/2025,Linha Branca (Washing Machines),47,20,Vendas,NORMAL
+19/04/2025,Total faturado (USD),12786,15000,Financeiro,URGENTE
+19/04/2025,Suporte (Tickets),70,30,Atendimento,NORMAL
+19/04/2025,Tempo de Entrega (Horas),21,24,Logística,URGENTE
+19/04/2025,Novos Leads B2B,14,15,Marketing,ALERTA
+19/04/2025,Disponibilidade Site (%),137,99,TI,NORMAL
+20/04/2025,Eletrônicos (Laptops),116,80,Vendas,NORMAL
+20/04/2025,Acessórios (Cabos/Baterias),261,250,Logística,NORMAL
+20/04/2025,Linha Branca (Washing Machines),26,20,Vendas,NORMAL
+20/04/2025,Total faturado (USD),13120,15000,Financeiro,CRÍTICA
+20/04/2025,Suporte (Tickets),36,30,Atendimento,NORMAL
+20/04/2025,Tempo de Entrega (Horas),70,24,Logística,NORMAL
+20/04/2025,Novos Leads B2B,13,15,Marketing,URGENTE
+20/04/2025,Disponibilidade Site (%),93,99,TI,URGENTE
+21/04/2025,Eletrônicos (Laptops),75,80,Vendas,ALERTA
+21/04/2025,Acessórios (Cabos/Baterias),183,250,Logística,CRÍTICA
+21/04/2025,Linha Branca (Washing Machines),16,20,Vendas,CRÍTICA
+21/04/2025,Total faturado (USD),11065,15000,Financeiro,URGENTE
+21/04/2025,Suporte (Tickets),49,30,Atendimento,NORMAL
+21/04/2025,Tempo de Entrega (Horas),65,24,Logística,NORMAL
+21/04/2025,Novos Leads B2B,14,15,Marketing,URGENTE
+21/04/2025,Disponibilidade Site (%),93,99,TI,URGENTE
+22/04/2025,Eletrônicos (Laptops),67,80,Vendas,URGENTE
+22/04/2025,Acessórios (Cabos/Baterias),270,250,Logística,NORMAL
+22/04/2025,Linha Branca (Washing Machines),20,20,Vendas,URGENTE
+22/04/2025,Total faturado (USD),12910,15000,Financeiro,ALERTA
+22/04/2025,Suporte (Tickets),23,30,Atendimento,URGENTE
+22/04/2025,Tempo de Entrega (Horas),21,24,Logística,CRÍTICA
+22/04/2025,Novos Leads B2B,63,15,Marketing,NORMAL
+22/04/2025,Disponibilidade Site (%),78,99,TI,URGENTE
+23/04/2025,Eletrônicos (Laptops),56,80,Vendas,ALERTA
+23/04/2025,Acessórios (Cabos/Baterias),202,250,Logística,ALERTA
+23/04/2025,Linha Branca (Washing Machines),42,20,Vendas,NORMAL
+23/04/2025,Total faturado (USD),14048,15000,Financeiro,URGENTE
+23/04/2025,Suporte (Tickets),76,30,Atendimento,NORMAL
+23/04/2025,Tempo de Entrega (Horas),17,24,Logística,URGENTE
+23/04/2025,Novos Leads B2B,15,15,Marketing,URGENTE
+23/04/2025,Disponibilidade Site (%),97,99,TI,ALERTA
+24/04/2025,Eletrônicos (Laptops),123,80,Vendas,NORMAL
+24/04/2025,Acessórios (Cabos/Baterias),207,250,Logística,ALERTA
+24/04/2025,Linha Branca (Washing Machines),15,20,Vendas,URGENTE
+24/04/2025,Total faturado (USD),14514,15000,Financeiro,URGENTE
+24/04/2025,Suporte (Tickets),80,30,Atendimento,NORMAL
+24/04/2025,Tempo de Entrega (Horas),27,24,Logística,NORMAL
+24/04/2025,Novos Leads B2B,18,15,Marketing,NORMAL
+24/04/2025,Disponibilidade Site (%),103,99,TI,NORMAL
+25/04/2025,Eletrônicos (Laptops),95,80,Vendas,NORMAL
+25/04/2025,Acessórios (Cabos/Baterias),249,250,Logística,CRÍTICA
+25/04/2025,Linha Branca (Washing Machines),15,20,Vendas,URGENTE
+25/04/2025,Total faturado (USD),12802,15000,Financeiro,ALERTA
+25/04/2025,Suporte (Tickets),23,30,Atendimento,URGENTE
+25/04/2025,Tempo de Entrega (Horas),18,24,Logística,CRÍTICA
+25/04/2025,Novos Leads B2B,11,15,Marketing,CRÍTICA
+25/04/2025,Disponibilidade Site (%),149,99,TI,NORMAL
+26/04/2025,Eletrônicos (Laptops),63,80,Vendas,URGENTE
+26/04/2025,Acessórios (Cabos/Baterias),254,250,Logística,NORMAL
+26/04/2025,Linha Branca (Washing Machines),17,20,Vendas,ALERTA
+26/04/2025,Total faturado (USD),11534,15000,Financeiro,URGENTE
+26/04/2025,Suporte (Tickets),33,30,Atendimento,NORMAL
+26/04/2025,Tempo de Entrega (Horas),20,24,Logística,ALERTA
+26/04/2025,Novos Leads B2B,12,15,Marketing,CRÍTICA
+26/04/2025,Disponibilidade Site (%),75,99,TI,URGENTE
+27/04/2025,Eletrônicos (Laptops),107,80,Vendas,NORMAL
+27/04/2025,Acessórios (Cabos/Baterias),243,250,Logística,ALERTA
+27/04/2025,Linha Branca (Washing Machines),37,20,Vendas,NORMAL
+27/04/2025,Total faturado (USD),14137,15000,Financeiro,ALERTA
+27/04/2025,Suporte (Tickets),22,30,Atendimento,URGENTE
+27/04/2025,Tempo de Entrega (Horas),67,24,Logística,NORMAL
+27/04/2025,Novos Leads B2B,54,15,Marketing,NORMAL
+27/04/2025,Disponibilidade Site (%),94,99,TI,URGENTE
+28/04/2025,Eletrônicos (Laptops),103,80,Vendas,NORMAL
+28/04/2025,Acessórios (Cabos/Baterias),202,250,Logística,ALERTA
+28/04/2025,Linha Branca (Washing Machines),68,20,Vendas,NORMAL
+28/04/2025,Total faturado (USD),15001,15000,Financeiro,NORMAL
+28/04/2025,Suporte (Tickets),24,30,Atendimento,CRÍTICA
+28/04/2025,Tempo de Entrega (Horas),23,24,Logística,URGENTE
+28/04/2025,Novos Leads B2B,12,15,Marketing,ALERTA
+28/04/2025,Disponibilidade Site (%),87,99,TI,URGENTE
+29/04/2025,Eletrônicos (Laptops),60,80,Vendas,URGENTE
+29/04/2025,Acessórios (Cabos/Baterias),180,250,Logística,URGENTE
+29/04/2025,Linha Branca (Washing Machines),17,20,Vendas,ALERTA
+29/04/2025,Total faturado (USD),13780,15000,Financeiro,ALERTA
+29/04/2025,Suporte (Tickets),73,30,Atendimento,NORMAL
+29/04/2025,Tempo de Entrega (Horas),19,24,Logística,URGENTE
+29/04/2025,Novos Leads B2B,52,15,Marketing,NORMAL
+29/04/2025,Disponibilidade Site (%),97,99,TI,CRÍTICA
+30/04/2025,Eletrônicos (Laptops),62,80,Vendas,ALERTA
+30/04/2025,Acessórios (Cabos/Baterias),258,250,Logística,NORMAL
+30/04/2025,Linha Branca (Washing Machines),17,20,Vendas,URGENTE
+30/04/2025,Total faturado (USD),13588,15000,Financeiro,CRÍTICA
+30/04/2025,Suporte (Tickets),29,30,Atendimento,ALERTA
+30/04/2025,Tempo de Entrega (Horas),19,24,Logística,ALERTA
+30/04/2025,Novos Leads B2B,11,15,Marketing,CRÍTICA
+30/04/2025,Disponibilidade Site (%),134,99,TI,NORMAL
+01/05/2025,Eletrônicos (Laptops),60,80,Vendas,URGENTE
+01/05/2025,Acessórios (Cabos/Baterias),251,250,Logística,NORMAL
+01/05/2025,Linha Branca (Washing Machines),19,20,Vendas,ALERTA
+01/05/2025,Total faturado (USD),15010,15000,Financeiro,NORMAL
+01/05/2025,Suporte (Tickets),50,30,Atendimento,NORMAL
+01/05/2025,Tempo de Entrega (Horas),17,24,Logística,URGENTE
+01/05/2025,Novos Leads B2B,12,15,Marketing,CRÍTICA
+01/05/2025,Disponibilidade Site (%),79,99,TI,CRÍTICA
+02/05/2025,Eletrônicos (Laptops),83,80,Vendas,NORMAL
+02/05/2025,Acessórios (Cabos/Baterias),280,250,Logística,NORMAL
+02/05/2025,Linha Branca (Washing Machines),22,20,Vendas,NORMAL
+02/05/2025,Total faturado (USD),13322,15000,Financeiro,CRÍTICA
+02/05/2025,Suporte (Tickets),29,30,Atendimento,CRÍTICA
+02/05/2025,Tempo de Entrega (Horas),17,24,Logística,CRÍTICA
+02/05/2025,Novos Leads B2B,60,15,Marketing,NORMAL
+02/05/2025,Disponibilidade Site (%),78,99,TI,URGENTE
+03/05/2025,Eletrônicos (Laptops),62,80,Vendas,URGENTE
+03/05/2025,Acessórios (Cabos/Baterias),267,250,Logística,NORMAL
+03/05/2025,Linha Branca (Washing Machines),15,20,Vendas,ALERTA
+03/05/2025,Total faturado (USD),13352,15000,Financeiro,CRÍTICA
+03/05/2025,Suporte (Tickets),29,30,Atendimento,ALERTA
+03/05/2025,Tempo de Entrega (Horas),24,24,Logística,ALERTA
+03/05/2025,Novos Leads B2B,12,15,Marketing,CRÍTICA
+03/05/2025,Disponibilidade Site (%),123,99,TI,NORMAL
+04/05/2025,Eletrônicos (Laptops),68,80,Vendas,CRÍTICA
+04/05/2025,Acessórios (Cabos/Baterias),209,250,Logística,CRÍTICA
+04/05/2025,Linha Branca (Washing Machines),17,20,Vendas,URGENTE
+04/05/2025,Total faturado (USD),15029,15000,Financeiro,NORMAL
+04/05/2025,Suporte (Tickets),34,30,Atendimento,NORMAL
+04/05/2025,Tempo de Entrega (Horas),17,24,Logística,URGENTE
+04/05/2025,Novos Leads B2B,14,15,Marketing,URGENTE
+04/05/2025,Disponibilidade Site (%),86,99,TI,URGENTE
+05/05/2025,Eletrônicos (Laptops),109,80,Vendas,NORMAL
+05/05/2025,Acessórios (Cabos/Baterias),201,250,Logística,ALERTA
+05/05/2025,Linha Branca (Washing Machines),15,20,Vendas,CRÍTICA
+05/05/2025,Total faturado (USD),11474,15000,Financeiro,URGENTE
+05/05/2025,Suporte (Tickets),26,30,Atendimento,URGENTE
+05/05/2025,Tempo de Entrega (Horas),24,24,Logística,CRÍTICA
+05/05/2025,Novos Leads B2B,40,15,Marketing,NORMAL
+05/05/2025,Disponibilidade Site (%),91,99,TI,ALERTA
+06/05/2025,Eletrônicos (Laptops),103,80,Vendas,NORMAL
+06/05/2025,Acessórios (Cabos/Baterias),192,250,Logística,ALERTA
+06/05/2025,Linha Branca (Washing Machines),14,20,Vendas,URGENTE
+06/05/2025,Total faturado (USD),14257,15000,Financeiro,CRÍTICA
+06/05/2025,Suporte (Tickets),27,30,Atendimento,URGENTE
+06/05/2025,Tempo de Entrega (Horas),24,24,Logística,URGENTE
+06/05/2025,Novos Leads B2B,31,15,Marketing,NORMAL
+06/05/2025,Disponibilidade Site (%),120,99,TI,NORMAL
+07/05/2025,Eletrônicos (Laptops),127,80,Vendas,NORMAL
+07/05/2025,Acessórios (Cabos/Baterias),294,250,Logística,NORMAL
+07/05/2025,Linha Branca (Washing Machines),16,20,Vendas,URGENTE
+07/05/2025,Total faturado (USD),15048,15000,Financeiro,NORMAL
+07/05/2025,Suporte (Tickets),22,30,Atendimento,URGENTE
+07/05/2025,Tempo de Entrega (Horas),49,24,Logística,NORMAL
+07/05/2025,Novos Leads B2B,57,15,Marketing,NORMAL
+07/05/2025,Disponibilidade Site (%),79,99,TI,ALERTA
+08/05/2025,Eletrônicos (Laptops),122,80,Vendas,NORMAL
+08/05/2025,Acessórios (Cabos/Baterias),246,250,Logística,ALERTA
+08/05/2025,Linha Branca (Washing Machines),15,20,Vendas,URGENTE
+08/05/2025,Total faturado (USD),14453,15000,Financeiro,URGENTE
+08/05/2025,Suporte (Tickets),27,30,Atendimento,ALERTA
+08/05/2025,Tempo de Entrega (Horas),23,24,Logística,ALERTA
+08/05/2025,Novos Leads B2B,12,15,Marketing,URGENTE
+08/05/2025,Disponibilidade Site (%),137,99,TI,NORMAL
+09/05/2025,Eletrônicos (Laptops),88,80,Vendas,NORMAL
+09/05/2025,Acessórios (Cabos/Baterias),272,250,Logística,NORMAL
+09/05/2025,Linha Branca (Washing Machines),20,20,Vendas,URGENTE
+09/05/2025,Total faturado (USD),14419,15000,Financeiro,URGENTE
+09/05/2025,Suporte (Tickets),30,30,Atendimento,ALERTA
+09/05/2025,Tempo de Entrega (Horas),22,24,Logística,URGENTE
+09/05/2025,Novos Leads B2B,13,15,Marketing,ALERTA
+09/05/2025,Disponibilidade Site (%),97,99,TI,URGENTE
+10/05/2025,Eletrônicos (Laptops),66,80,Vendas,URGENTE
+10/05/2025,Acessórios (Cabos/Baterias),262,250,Logística,NORMAL
+10/05/2025,Linha Branca (Washing Machines),25,20,Vendas,NORMAL
+10/05/2025,Total faturado (USD),14766,15000,Financeiro,URGENTE
+10/05/2025,Suporte (Tickets),45,30,Atendimento,NORMAL
+10/05/2025,Tempo de Entrega (Horas),20,24,Logística,CRÍTICA
+10/05/2025,Novos Leads B2B,14,15,Marketing,URGENTE
+10/05/2025,Disponibilidade Site (%),125,99,TI,NORMAL
+11/05/2025,Eletrônicos (Laptops),91,80,Vendas,NORMAL
+11/05/2025,Acessórios (Cabos/Baterias),279,250,Logística,NORMAL
+11/05/2025,Linha Branca (Washing Machines),50,20,Vendas,NORMAL
+11/05/2025,Total faturado (USD),14499,15000,Financeiro,ALERTA
+11/05/2025,Suporte (Tickets),22,30,Atendimento,URGENTE
+11/05/2025,Tempo de Entrega (Horas),24,24,Logística,CRÍTICA
+11/05/2025,Novos Leads B2B,13,15,Marketing,ALERTA
+11/05/2025,Disponibilidade Site (%),92,99,TI,URGENTE
+12/05/2025,Eletrônicos (Laptops),126,80,Vendas,NORMAL
+12/05/2025,Acessórios (Cabos/Baterias),226,250,Logística,URGENTE
+12/05/2025,Linha Branca (Washing Machines),16,20,Vendas,URGENTE
+12/05/2025,Total faturado (USD),12689,15000,Financeiro,ALERTA
+12/05/2025,Suporte (Tickets),26,30,Atendimento,CRÍTICA
+12/05/2025,Tempo de Entrega (Horas),51,24,Logística,NORMAL
+12/05/2025,Novos Leads B2B,26,15,Marketing,NORMAL
+12/05/2025,Disponibilidade Site (%),118,99,TI,NORMAL
+13/05/2025,Eletrônicos (Laptops),59,80,Vendas,ALERTA
+13/05/2025,Acessórios (Cabos/Baterias),258,250,Logística,NORMAL
+13/05/2025,Linha Branca (Washing Machines),70,20,Vendas,NORMAL
+13/05/2025,Total faturado (USD),10654,15000,Financeiro,CRÍTICA
+13/05/2025,Suporte (Tickets),26,30,Atendimento,URGENTE
+13/05/2025,Tempo de Entrega (Horas),23,24,Logística,ALERTA
+13/05/2025,Novos Leads B2B,12,15,Marketing,URGENTE
+13/05/2025,Disponibilidade Site (%),82,99,TI,URGENTE
+14/05/2025,Eletrônicos (Laptops),116,80,Vendas,NORMAL
+14/05/2025,Acessórios (Cabos/Baterias),247,250,Logística,ALERTA
+14/05/2025,Linha Branca (Washing Machines),15,20,Vendas,ALERTA
+14/05/2025,Total faturado (USD),15050,15000,Financeiro,NORMAL
+14/05/2025,Suporte (Tickets),46,30,Atendimento,NORMAL
+14/05/2025,Tempo de Entrega (Horas),19,24,Logística,URGENTE
+14/05/2025,Novos Leads B2B,13,15,Marketing,URGENTE
+14/05/2025,Disponibilidade Site (%),71,99,TI,URGENTE
+15/05/2025,Eletrônicos (Laptops),69,80,Vendas,ALERTA
+15/05/2025,Acessórios (Cabos/Baterias),228,250,Logística,ALERTA
+15/05/2025,Linha Branca (Washing Machines),20,20,Vendas,ALERTA
+15/05/2025,Total faturado (USD),15047,15000,Financeiro,NORMAL
+15/05/2025,Suporte (Tickets),26,30,Atendimento,ALERTA
+15/05/2025,Tempo de Entrega (Horas),22,24,Logística,ALERTA
+15/05/2025,Novos Leads B2B,12,15,Marketing,URGENTE
+15/05/2025,Disponibilidade Site (%),117,99,TI,NORMAL
+16/05/2025,Eletrônicos (Laptops),119,80,Vendas,NORMAL
+16/05/2025,Acessórios (Cabos/Baterias),212,250,Logística,ALERTA
+16/05/2025,Linha Branca (Washing Machines),53,20,Vendas,NORMAL
+16/05/2025,Total faturado (USD),10736,15000,Financeiro,URGENTE
+16/05/2025,Suporte (Tickets),30,30,Atendimento,URGENTE
+16/05/2025,Tempo de Entrega (Horas),17,24,Logística,URGENTE
+16/05/2025,Novos Leads B2B,41,15,Marketing,NORMAL
+16/05/2025,Disponibilidade Site (%),92,99,TI,CRÍTICA
+17/05/2025,Eletrônicos (Laptops),105,80,Vendas,NORMAL
+17/05/2025,Acessórios (Cabos/Baterias),299,250,Logística,NORMAL
+17/05/2025,Linha Branca (Washing Machines),20,20,Vendas,URGENTE
+17/05/2025,Total faturado (USD),15011,15000,Financeiro,NORMAL
+17/05/2025,Suporte (Tickets),61,30,Atendimento,NORMAL
+17/05/2025,Tempo de Entrega (Horas),17,24,Logística,URGENTE
+17/05/2025,Novos Leads B2B,14,15,Marketing,URGENTE
+17/05/2025,Disponibilidade Site (%),149,99,TI,NORMAL
+18/05/2025,Eletrônicos (Laptops),80,80,Vendas,CRÍTICA
+18/05/2025,Acessórios (Cabos/Baterias),185,250,Logística,URGENTE
+18/05/2025,Linha Branca (Washing Machines),16,20,Vendas,URGENTE
+18/05/2025,Total faturado (USD),12551,15000,Financeiro,URGENTE
+18/05/2025,Suporte (Tickets),65,30,Atendimento,NORMAL
+18/05/2025,Tempo de Entrega (Horas),24,24,Logística,CRÍTICA
+18/05/2025,Novos Leads B2B,11,15,Marketing,ALERTA
+18/05/2025,Disponibilidade Site (%),132,99,TI,NORMAL
+19/05/2025,Eletrônicos (Laptops),60,80,Vendas,URGENTE
+19/05/2025,Acessórios (Cabos/Baterias),253,250,Logística,NORMAL
+19/05/2025,Linha Branca (Washing Machines),20,20,Vendas,URGENTE
+19/05/2025,Total faturado (USD),14298,15000,Financeiro,CRÍTICA
+19/05/2025,Suporte (Tickets),54,30,Atendimento,NORMAL
+19/05/2025,Tempo de Entrega (Horas),21,24,Logística,URGENTE
+19/05/2025,Novos Leads B2B,35,15,Marketing,NORMAL
+19/05/2025,Disponibilidade Site (%),95,99,TI,URGENTE
+20/05/2025,Eletrônicos (Laptops),72,80,Vendas,ALERTA
+20/05/2025,Acessórios (Cabos/Baterias),187,250,Logística,URGENTE
+20/05/2025,Linha Branca (Washing Machines),18,20,Vendas,CRÍTICA
+20/05/2025,Total faturado (USD),12985,15000,Financeiro,URGENTE
+20/05/2025,Suporte (Tickets),24,30,Atendimento,URGENTE
+20/05/2025,Tempo de Entrega (Horas),23,24,Logística,ALERTA
+20/05/2025,Novos Leads B2B,26,15,Marketing,NORMAL
+20/05/2025,Disponibilidade Site (%),120,99,TI,NORMAL
+21/05/2025,Eletrônicos (Laptops),65,80,Vendas,CRÍTICA
+21/05/2025,Acessórios (Cabos/Baterias),187,250,Logística,ALERTA
+21/05/2025,Linha Branca (Washing Machines),19,20,Vendas,URGENTE
+21/05/2025,Total faturado (USD),15008,15000,Financeiro,NORMAL
+21/05/2025,Suporte (Tickets),63,30,Atendimento,NORMAL
+21/05/2025,Tempo de Entrega (Horas),47,24,Logística,NORMAL
+21/05/2025,Novos Leads B2B,11,15,Marketing,ALERTA
+21/05/2025,Disponibilidade Site (%),84,99,TI,ALERTA
+22/05/2025,Eletrônicos (Laptops),99,80,Vendas,NORMAL
+22/05/2025,Acessórios (Cabos/Baterias),194,250,Logística,URGENTE
+22/05/2025,Linha Branca (Washing Machines),15,20,Vendas,URGENTE
+22/05/2025,Total faturado (USD),11614,15000,Financeiro,ALERTA
+22/05/2025,Suporte (Tickets),50,30,Atendimento,NORMAL
+22/05/2025,Tempo de Entrega (Horas),22,24,Logística,CRÍTICA
+22/05/2025,Novos Leads B2B,11,15,Marketing,URGENTE
+22/05/2025,Disponibilidade Site (%),120,99,TI,NORMAL
+23/05/2025,Eletrônicos (Laptops),64,80,Vendas,ALERTA
+23/05/2025,Acessórios (Cabos/Baterias),177,250,Logística,ALERTA
+23/05/2025,Linha Branca (Washing Machines),18,20,Vendas,ALERTA
+23/05/2025,Total faturado (USD),15029,15000,Financeiro,NORMAL
+23/05/2025,Suporte (Tickets),76,30,Atendimento,NORMAL
+23/05/2025,Tempo de Entrega (Horas),47,24,Logística,NORMAL
+23/05/2025,Novos Leads B2B,15,15,Marketing,CRÍTICA
+23/05/2025,Disponibilidade Site (%),107,99,TI,NORMAL
+24/05/2025,Eletrônicos (Laptops),116,80,Vendas,NORMAL
+24/05/2025,Acessórios (Cabos/Baterias),276,250,Logística,NORMAL
+24/05/2025,Linha Branca (Washing Machines),14,20,Vendas,URGENTE
+24/05/2025,Total faturado (USD),13556,15000,Financeiro,CRÍTICA
+24/05/2025,Suporte (Tickets),31,30,Atendimento,NORMAL
+24/05/2025,Tempo de Entrega (Horas),17,24,Logística,URGENTE
+24/05/2025,Novos Leads B2B,14,15,Marketing,URGENTE
+24/05/2025,Disponibilidade Site (%),131,99,TI,NORMAL
+25/05/2025,Eletrônicos (Laptops),64,80,Vendas,ALERTA
+25/05/2025,Acessórios (Cabos/Baterias),187,250,Logística,ALERTA
+25/05/2025,Linha Branca (Washing Machines),18,20,Vendas,URGENTE
+25/05/2025,Total faturado (USD),15049,15000,Financeiro,NORMAL
+25/05/2025,Suporte (Tickets),45,30,Atendimento,NORMAL
+25/05/2025,Tempo de Entrega (Horas),18,24,Logística,CRÍTICA
+25/05/2025,Novos Leads B2B,13,15,Marketing,URGENTE
+25/05/2025,Disponibilidade Site (%),120,99,TI,NORMAL
+26/05/2025,Eletrônicos (Laptops),72,80,Vendas,URGENTE
+26/05/2025,Acessórios (Cabos/Baterias),269,250,Logística,NORMAL
+26/05/2025,Linha Branca (Washing Machines),15,20,Vendas,CRÍTICA
+26/05/2025,Total faturado (USD),13054,15000,Financeiro,URGENTE
+26/05/2025,Suporte (Tickets),26,30,Atendimento,URGENTE
+26/05/2025,Tempo de Entrega (Horas),21,24,Logística,CRÍTICA
+26/05/2025,Novos Leads B2B,11,15,Marketing,URGENTE
+26/05/2025,Disponibilidade Site (%),85,99,TI,URGENTE
+27/05/2025,Eletrônicos (Laptops),78,80,Vendas,URGENTE
+27/05/2025,Acessórios (Cabos/Baterias),253,250,Logística,NORMAL
+27/05/2025,Linha Branca (Washing Machines),31,20,Vendas,NORMAL
+27/05/2025,Total faturado (USD),14041,15000,Financeiro,URGENTE
+27/05/2025,Suporte (Tickets),59,30,Atendimento,NORMAL
+27/05/2025,Tempo de Entrega (Horas),61,24,Logística,NORMAL
+27/05/2025,Novos Leads B2B,24,15,Marketing,NORMAL
+27/05/2025,Disponibilidade Site (%),90,99,TI,URGENTE
+28/05/2025,Eletrônicos (Laptops),74,80,Vendas,URGENTE
+28/05/2025,Acessórios (Cabos/Baterias),268,250,Logística,NORMAL
+28/05/2025,Linha Branca (Washing Machines),18,20,Vendas,URGENTE
+28/05/2025,Total faturado (USD),11338,15000,Financeiro,ALERTA
+28/05/2025,Suporte (Tickets),22,30,Atendimento,ALERTA
+28/05/2025,Tempo de Entrega (Horas),18,24,Logística,URGENTE
+28/05/2025,Novos Leads B2B,13,15,Marketing,URGENTE
+28/05/2025,Disponibilidade Site (%),107,99,TI,NORMAL
+29/05/2025,Eletrônicos (Laptops),59,80,Vendas,CRÍTICA
+29/05/2025,Acessórios (Cabos/Baterias),235,250,Logística,ALERTA
+29/05/2025,Linha Branca (Washing Machines),19,20,Vendas,URGENTE
+29/05/2025,Total faturado (USD),15038,15000,Financeiro,NORMAL
+29/05/2025,Suporte (Tickets),24,30,Atendimento,CRÍTICA
+29/05/2025,Tempo de Entrega (Horas),44,24,Logística,NORMAL
+29/05/2025,Novos Leads B2B,15,15,Marketing,ALERTA
+29/05/2025,Disponibilidade Site (%),80,99,TI,ALERTA
+30/05/2025,Eletrônicos (Laptops),59,80,Vendas,ALERTA
+30/05/2025,Acessórios (Cabos/Baterias),257,250,Logística,NORMAL
+30/05/2025,Linha Branca (Washing Machines),20,20,Vendas,URGENTE
+30/05/2025,Total faturado (USD),13458,15000,Financeiro,URGENTE
+30/05/2025,Suporte (Tickets),23,30,Atendimento,URGENTE
+30/05/2025,Tempo de Entrega (Horas),22,24,Logística,ALERTA
+30/05/2025,Novos Leads B2B,53,15,Marketing,NORMAL
+30/05/2025,Disponibilidade Site (%),111,99,TI,NORMAL
+31/05/2025,Eletrônicos (Laptops),61,80,Vendas,CRÍTICA
+31/05/2025,Acessórios (Cabos/Baterias),245,250,Logística,URGENTE
+31/05/2025,Linha Branca (Washing Machines),44,20,Vendas,NORMAL
+31/05/2025,Total faturado (USD),15037,15000,Financeiro,NORMAL
+31/05/2025,Suporte (Tickets),30,30,Atendimento,URGENTE
+31/05/2025,Tempo de Entrega (Horas),24,24,Logística,URGENTE
+31/05/2025,Novos Leads B2B,49,15,Marketing,NORMAL
+31/05/2025,Disponibilidade Site (%),95,99,TI,ALERTA
+01/06/2025,Eletrônicos (Laptops),87,80,Vendas,NORMAL
+01/06/2025,Acessórios (Cabos/Baterias),241,250,Logística,URGENTE
+01/06/2025,Linha Branca (Washing Machines),59,20,Vendas,NORMAL
+01/06/2025,Total faturado (USD),14991,15000,Financeiro,URGENTE
+01/06/2025,Suporte (Tickets),23,30,Atendimento,URGENTE
+01/06/2025,Tempo de Entrega (Horas),55,24,Logística,NORMAL
+01/06/2025,Novos Leads B2B,14,15,Marketing,ALERTA
+01/06/2025,Disponibilidade Site (%),88,99,TI,URGENTE
+02/06/2025,Eletrônicos (Laptops),101,80,Vendas,NORMAL
+02/06/2025,Acessórios (Cabos/Baterias),244,250,Logística,URGENTE
+02/06/2025,Linha Branca (Washing Machines),22,20,Vendas,NORMAL
+02/06/2025,Total faturado (USD),14379,15000,Financeiro,URGENTE
+02/06/2025,Suporte (Tickets),21,30,Atendimento,ALERTA
+02/06/2025,Tempo de Entrega (Horas),22,24,Logística,CRÍTICA
+02/06/2025,Novos Leads B2B,14,15,Marketing,CRÍTICA
+02/06/2025,Disponibilidade Site (%),144,99,TI,NORMAL
+03/06/2025,Eletrônicos (Laptops),79,80,Vendas,URGENTE
+03/06/2025,Acessórios (Cabos/Baterias),275,250,Logística,NORMAL
+03/06/2025,Linha Branca (Washing Machines),14,20,Vendas,URGENTE
+03/06/2025,Total faturado (USD),13446,15000,Financeiro,ALERTA
+03/06/2025,Suporte (Tickets),22,30,Atendimento,ALERTA
+03/06/2025,Tempo de Entrega (Horas),57,24,Logística,NORMAL
+03/06/2025,Novos Leads B2B,11,15,Marketing,CRÍTICA
+03/06/2025,Disponibilidade Site (%),135,99,TI,NORMAL
+04/06/2025,Eletrônicos (Laptops),67,80,Vendas,ALERTA
+04/06/2025,Acessórios (Cabos/Baterias),276,250,Logística,NORMAL
+04/06/2025,Linha Branca (Washing Machines),20,20,Vendas,URGENTE
+04/06/2025,Total faturado (USD),14256,15000,Financeiro,CRÍTICA
+04/06/2025,Suporte (Tickets),24,30,Atendimento,CRÍTICA
+04/06/2025,Tempo de Entrega (Horas),17,24,Logística,URGENTE
+04/06/2025,Novos Leads B2B,12,15,Marketing,URGENTE
+04/06/2025,Disponibilidade Site (%),86,99,TI,CRÍTICA
+05/06/2025,Eletrônicos (Laptops),91,80,Vendas,NORMAL
+05/06/2025,Acessórios (Cabos/Baterias),220,250,Logística,ALERTA
+05/06/2025,Linha Branca (Washing Machines),16,20,Vendas,CRÍTICA
+05/06/2025,Total faturado (USD),10644,15000,Financeiro,URGENTE
+05/06/2025,Suporte (Tickets),31,30,Atendimento,NORMAL
+05/06/2025,Tempo de Entrega (Horas),57,24,Logística,NORMAL
+05/06/2025,Novos Leads B2B,13,15,Marketing,URGENTE
+05/06/2025,Disponibilidade Site (%),72,99,TI,URGENTE
+06/06/2025,Eletrônicos (Laptops),99,80,Vendas,NORMAL
+06/06/2025,Acessórios (Cabos/Baterias),176,250,Logística,URGENTE
+06/06/2025,Linha Branca (Washing Machines),69,20,Vendas,NORMAL
+06/06/2025,Total faturado (USD),12312,15000,Financeiro,CRÍTICA
+06/06/2025,Suporte (Tickets),24,30,Atendimento,ALERTA
+06/06/2025,Tempo de Entrega (Horas),24,24,Logística,ALERTA
+06/06/2025,Novos Leads B2B,11,15,Marketing,URGENTE
+06/06/2025,Disponibilidade Site (%),105,99,TI,NORMAL
+07/06/2025,Eletrônicos (Laptops),115,80,Vendas,NORMAL
+07/06/2025,Acessórios (Cabos/Baterias),255,250,Logística,NORMAL
+07/06/2025,Linha Branca (Washing Machines),26,20,Vendas,NORMAL
+07/06/2025,Total faturado (USD),13405,15000,Financeiro,URGENTE
+07/06/2025,Suporte (Tickets),29,30,Atendimento,CRÍTICA
+07/06/2025,Tempo de Entrega (Horas),20,24,Logística,CRÍTICA
+07/06/2025,Novos Leads B2B,13,15,Marketing,ALERTA
+07/06/2025,Disponibilidade Site (%),90,99,TI,ALERTA
+08/06/2025,Eletrônicos (Laptops),68,80,Vendas,ALERTA
+08/06/2025,Acessórios (Cabos/Baterias),250,250,Logística,CRÍTICA
+08/06/2025,Linha Branca (Washing Machines),15,20,Vendas,CRÍTICA
+08/06/2025,Total faturado (USD),11309,15000,Financeiro,ALERTA
+08/06/2025,Suporte (Tickets),77,30,Atendimento,NORMAL
+08/06/2025,Tempo de Entrega (Horas),20,24,Logística,ALERTA
+08/06/2025,Novos Leads B2B,14,15,Marketing,CRÍTICA
+08/06/2025,Disponibilidade Site (%),100,99,TI,NORMAL
+09/06/2025,Eletrônicos (Laptops),69,80,Vendas,URGENTE
+09/06/2025,Acessórios (Cabos/Baterias),263,250,Logística,NORMAL
+09/06/2025,Linha Branca (Washing Machines),20,20,Vendas,CRÍTICA
+09/06/2025,Total faturado (USD),14983,15000,Financeiro,ALERTA
+09/06/2025,Suporte (Tickets),23,30,Atendimento,URGENTE
+09/06/2025,Tempo de Entrega (Horas),66,24,Logística,NORMAL
+09/06/2025,Novos Leads B2B,11,15,Marketing,URGENTE
+09/06/2025,Disponibilidade Site (%),77,99,TI,URGENTE
+10/06/2025,Eletrônicos (Laptops),72,80,Vendas,ALERTA
+10/06/2025,Acessórios (Cabos/Baterias),229,250,Logística,CRÍTICA
+10/06/2025,Linha Branca (Washing Machines),17,20,Vendas,URGENTE
+10/06/2025,Total faturado (USD),12881,15000,Financeiro,URGENTE
+10/06/2025,Suporte (Tickets),27,30,Atendimento,ALERTA
+10/06/2025,Tempo de Entrega (Horas),46,24,Logística,NORMAL
+10/06/2025,Novos Leads B2B,14,15,Marketing,URGENTE
+10/06/2025,Disponibilidade Site (%),143,99,TI,NORMAL
+11/06/2025,Eletrônicos (Laptops),56,80,Vendas,ALERTA
+11/06/2025,Acessórios (Cabos/Baterias),218,250,Logística,URGENTE
+11/06/2025,Linha Branca (Washing Machines),55,20,Vendas,NORMAL
+11/06/2025,Total faturado (USD),13161,15000,Financeiro,ALERTA
+11/06/2025,Suporte (Tickets),30,30,Atendimento,CRÍTICA
+11/06/2025,Tempo de Entrega (Horas),73,24,Logística,NORMAL
+11/06/2025,Novos Leads B2B,11,15,Marketing,ALERTA
+11/06/2025,Disponibilidade Site (%),122,99,TI,NORMAL
+12/06/2025,Eletrônicos (Laptops),110,80,Vendas,NORMAL
+12/06/2025,Acessórios (Cabos/Baterias),252,250,Logística,NORMAL
+12/06/2025,Linha Branca (Washing Machines),17,20,Vendas,URGENTE
+12/06/2025,Total faturado (USD),10682,15000,Financeiro,ALERTA
+12/06/2025,Suporte (Tickets),22,30,Atendimento,ALERTA
+12/06/2025,Tempo de Entrega (Horas),70,24,Logística,NORMAL
+12/06/2025,Novos Leads B2B,62,15,Marketing,NORMAL
+12/06/2025,Disponibilidade Site (%),148,99,TI,NORMAL
+13/06/2025,Eletrônicos (Laptops),56,80,Vendas,ALERTA
+13/06/2025,Acessórios (Cabos/Baterias),231,250,Logística,ALERTA
+13/06/2025,Linha Branca (Washing Machines),14,20,Vendas,URGENTE
+13/06/2025,Total faturado (USD),15024,15000,Financeiro,NORMAL
+13/06/2025,Suporte (Tickets),68,30,Atendimento,NORMAL
+13/06/2025,Tempo de Entrega (Horas),20,24,Logística,URGENTE
+13/06/2025,Novos Leads B2B,64,15,Marketing,NORMAL
+13/06/2025,Disponibilidade Site (%),131,99,TI,NORMAL
+14/06/2025,Eletrônicos (Laptops),77,80,Vendas,CRÍTICA
+14/06/2025,Acessórios (Cabos/Baterias),289,250,Logística,NORMAL
+14/06/2025,Linha Branca (Washing Machines),17,20,Vendas,URGENTE
+14/06/2025,Total faturado (USD),10761,15000,Financeiro,ALERTA
+14/06/2025,Suporte (Tickets),78,30,Atendimento,NORMAL
+14/06/2025,Tempo de Entrega (Horas),23,24,Logística,ALERTA
+14/06/2025,Novos Leads B2B,14,15,Marketing,CRÍTICA
+14/06/2025,Disponibilidade Site (%),72,99,TI,ALERTA
+15/06/2025,Eletrônicos (Laptops),69,80,Vendas,URGENTE
+15/06/2025,Acessórios (Cabos/Baterias),186,250,Logística,URGENTE
+15/06/2025,Linha Branca (Washing Machines),14,20,Vendas,URGENTE
+15/06/2025,Total faturado (USD),15028,15000,Financeiro,NORMAL
+15/06/2025,Suporte (Tickets),24,30,Atendimento,CRÍTICA
+15/06/2025,Tempo de Entrega (Horas),26,24,Logística,NORMAL
+15/06/2025,Novos Leads B2B,23,15,Marketing,NORMAL
+15/06/2025,Disponibilidade Site (%),95,99,TI,ALERTA
+16/06/2025,Eletrônicos (Laptops),66,80,Vendas,URGENTE
+16/06/2025,Acessórios (Cabos/Baterias),270,250,Logística,NORMAL
+16/06/2025,Linha Branca (Washing Machines),17,20,Vendas,URGENTE
+16/06/2025,Total faturado (USD),11826,15000,Financeiro,URGENTE
+16/06/2025,Suporte (Tickets),25,30,Atendimento,URGENTE
+16/06/2025,Tempo de Entrega (Horas),35,24,Logística,NORMAL
+16/06/2025,Novos Leads B2B,32,15,Marketing,NORMAL
+16/06/2025,Disponibilidade Site (%),132,99,TI,NORMAL
+17/06/2025,Eletrônicos (Laptops),66,80,Vendas,ALERTA
+17/06/2025,Acessórios (Cabos/Baterias),223,250,Logística,ALERTA
+17/06/2025,Linha Branca (Washing Machines),56,20,Vendas,NORMAL
+17/06/2025,Total faturado (USD),10759,15000,Financeiro,ALERTA
+17/06/2025,Suporte (Tickets),29,30,Atendimento,URGENTE
+17/06/2025,Tempo de Entrega (Horas),69,24,Logística,NORMAL
+17/06/2025,Novos Leads B2B,49,15,Marketing,NORMAL
+17/06/2025,Disponibilidade Site (%),75,99,TI,URGENTE
+18/06/2025,Eletrônicos (Laptops),125,80,Vendas,NORMAL
+18/06/2025,Acessórios (Cabos/Baterias),200,250,Logística,URGENTE
+18/06/2025,Linha Branca (Washing Machines),16,20,Vendas,URGENTE
+18/06/2025,Total faturado (USD),10567,15000,Financeiro,ALERTA
+18/06/2025,Suporte (Tickets),74,30,Atendimento,NORMAL
+18/06/2025,Tempo de Entrega (Horas),23,24,Logística,URGENTE
+18/06/2025,Novos Leads B2B,11,15,Marketing,ALERTA
+18/06/2025,Disponibilidade Site (%),122,99,TI,NORMAL
+19/06/2025,Eletrônicos (Laptops),67,80,Vendas,URGENTE
+19/06/2025,Acessórios (Cabos/Baterias),207,250,Logística,CRÍTICA
+19/06/2025,Linha Branca (Washing Machines),16,20,Vendas,URGENTE
+19/06/2025,Total faturado (USD),15017,15000,Financeiro,NORMAL
+19/06/2025,Suporte (Tickets),23,30,Atendimento,CRÍTICA
+19/06/2025,Tempo de Entrega (Horas),23,24,Logística,CRÍTICA
+19/06/2025,Novos Leads B2B,12,15,Marketing,URGENTE
+19/06/2025,Disponibilidade Site (%),88,99,TI,URGENTE
+20/06/2025,Eletrônicos (Laptops),68,80,Vendas,CRÍTICA
+20/06/2025,Acessórios (Cabos/Baterias),271,250,Logística,NORMAL
+20/06/2025,Linha Branca (Washing Machines),14,20,Vendas,ALERTA
+20/06/2025,Total faturado (USD),15032,15000,Financeiro,NORMAL
+20/06/2025,Suporte (Tickets),23,30,Atendimento,URGENTE
+20/06/2025,Tempo de Entrega (Horas),21,24,Logística,CRÍTICA
+20/06/2025,Novos Leads B2B,11,15,Marketing,CRÍTICA
+20/06/2025,Disponibilidade Site (%),79,99,TI,CRÍTICA
+21/06/2025,Eletrônicos (Laptops),79,80,Vendas,ALERTA
+21/06/2025,Acessórios (Cabos/Baterias),286,250,Logística,NORMAL
+21/06/2025,Linha Branca (Washing Machines),15,20,Vendas,ALERTA
+21/06/2025,Total faturado (USD),10986,15000,Financeiro,URGENTE
+21/06/2025,Suporte (Tickets),22,30,Atendimento,URGENTE
+21/06/2025,Tempo de Entrega (Horas),24,24,Logística,ALERTA
+21/06/2025,Novos Leads B2B,13,15,Marketing,ALERTA
+21/06/2025,Disponibilidade Site (%),70,99,TI,URGENTE
+22/06/2025,Eletrônicos (Laptops),114,80,Vendas,NORMAL
+22/06/2025,Acessórios (Cabos/Baterias),261,250,Logística,NORMAL
+22/06/2025,Linha Branca (Washing Machines),49,20,Vendas,NORMAL
+22/06/2025,Total faturado (USD),13416,15000,Financeiro,CRÍTICA
+22/06/2025,Suporte (Tickets),45,30,Atendimento,NORMAL
+22/06/2025,Tempo de Entrega (Horas),22,24,Logística,ALERTA
+22/06/2025,Novos Leads B2B,48,15,Marketing,NORMAL
+22/06/2025,Disponibilidade Site (%),84,99,TI,URGENTE
+23/06/2025,Eletrônicos (Laptops),129,80,Vendas,NORMAL
+23/06/2025,Acessórios (Cabos/Baterias),189,250,Logística,ALERTA
+23/06/2025,Linha Branca (Washing Machines),59,20,Vendas,NORMAL
+23/06/2025,Total faturado (USD),11940,15000,Financeiro,URGENTE
+23/06/2025,Suporte (Tickets),39,30,Atendimento,NORMAL
+23/06/2025,Tempo de Entrega (Horas),22,24,Logística,ALERTA
+23/06/2025,Novos Leads B2B,24,15,Marketing,NORMAL
+23/06/2025,Disponibilidade Site (%),77,99,TI,CRÍTICA
+24/06/2025,Eletrônicos (Laptops),64,80,Vendas,ALERTA
+24/06/2025,Acessórios (Cabos/Baterias),179,250,Logística,ALERTA
+24/06/2025,Linha Branca (Washing Machines),68,20,Vendas,NORMAL
+24/06/2025,Total faturado (USD),12465,15000,Financeiro,ALERTA
+24/06/2025,Suporte (Tickets),22,30,Atendimento,URGENTE
+24/06/2025,Tempo de Entrega (Horas),72,24,Logística,NORMAL
+24/06/2025,Novos Leads B2B,57,15,Marketing,NORMAL
+24/06/2025,Disponibilidade Site (%),86,99,TI,ALERTA
+25/06/2025,Eletrônicos (Laptops),74,80,Vendas,URGENTE
+25/06/2025,Acessórios (Cabos/Baterias),226,250,Logística,ALERTA
+25/06/2025,Linha Branca (Washing Machines),23,20,Vendas,NORMAL
+25/06/2025,Total faturado (USD),11676,15000,Financeiro,ALERTA
+25/06/2025,Suporte (Tickets),29,30,Atendimento,URGENTE
+25/06/2025,Tempo de Entrega (Horas),53,24,Logística,NORMAL
+25/06/2025,Novos Leads B2B,61,15,Marketing,NORMAL
+25/06/2025,Disponibilidade Site (%),71,99,TI,URGENTE
+26/06/2025,Eletrônicos (Laptops),59,80,Vendas,URGENTE
+26/06/2025,Acessórios (Cabos/Baterias),260,250,Logística,NORMAL
+26/06/2025,Linha Branca (Washing Machines),16,20,Vendas,ALERTA
+26/06/2025,Total faturado (USD),15031,15000,Financeiro,NORMAL
+26/06/2025,Suporte (Tickets),45,30,Atendimento,NORMAL
+26/06/2025,Tempo de Entrega (Horas),19,24,Logística,CRÍTICA
+26/06/2025,Novos Leads B2B,13,15,Marketing,ALERTA
+26/06/2025,Disponibilidade Site (%),79,99,TI,CRÍTICA
+27/06/2025,Eletrônicos (Laptops),56,80,Vendas,URGENTE
+27/06/2025,Acessórios (Cabos/Baterias),209,250,Logística,URGENTE
+27/06/2025,Linha Branca (Washing Machines),17,20,Vendas,ALERTA
+27/06/2025,Total faturado (USD),12484,15000,Financeiro,URGENTE
+27/06/2025,Suporte (Tickets),44,30,Atendimento,NORMAL
+27/06/2025,Tempo de Entrega (Horas),28,24,Logística,NORMAL
+27/06/2025,Novos Leads B2B,11,15,Marketing,URGENTE
+27/06/2025,Disponibilidade Site (%),87,99,TI,ALERTA
+28/06/2025,Eletrônicos (Laptops),67,80,Vendas,CRÍTICA
+28/06/2025,Acessórios (Cabos/Baterias),272,250,Logística,NORMAL
+28/06/2025,Linha Branca (Washing Machines),20,20,Vendas,URGENTE
+28/06/2025,Total faturado (USD),14001,15000,Financeiro,URGENTE
+28/06/2025,Suporte (Tickets),35,30,Atendimento,NORMAL
+28/06/2025,Tempo de Entrega (Horas),17,24,Logística,URGENTE
+28/06/2025,Novos Leads B2B,54,15,Marketing,NORMAL
+28/06/2025,Disponibilidade Site (%),99,99,TI,ALERTA
+29/06/2025,Eletrônicos (Laptops),122,80,Vendas,NORMAL
+29/06/2025,Acessórios (Cabos/Baterias),243,250,Logística,URGENTE
+29/06/2025,Linha Branca (Washing Machines),15,20,Vendas,ALERTA
+29/06/2025,Total faturado (USD),13686,15000,Financeiro,URGENTE
+29/06/2025,Suporte (Tickets),38,30,Atendimento,NORMAL
+29/06/2025,Tempo de Entrega (Horas),18,24,Logística,CRÍTICA
+29/06/2025,Novos Leads B2B,14,15,Marketing,ALERTA
+29/06/2025,Disponibilidade Site (%),73,99,TI,URGENTE
+30/06/2025,Eletrônicos (Laptops),109,80,Vendas,NORMAL
+30/06/2025,Acessórios (Cabos/Baterias),217,250,Logística,URGENTE
+30/06/2025,Linha Branca (Washing Machines),44,20,Vendas,NORMAL
+30/06/2025,Total faturado (USD),15017,15000,Financeiro,NORMAL
+30/06/2025,Suporte (Tickets),28,30,Atendimento,URGENTE
+30/06/2025,Tempo de Entrega (Horas),46,24,Logística,NORMAL
+30/06/2025,Novos Leads B2B,43,15,Marketing,NORMAL
+30/06/2025,Disponibilidade Site (%),111,99,TI,NORMAL
+01/07/2025,Eletrônicos (Laptops),76,80,Vendas,URGENTE
+01/07/2025,Acessórios (Cabos/Baterias),256,250,Logística,NORMAL
+01/07/2025,Linha Branca (Washing Machines),16,20,Vendas,ALERTA
+01/07/2025,Total faturado (USD),15020,15000,Financeiro,NORMAL
+01/07/2025,Suporte (Tickets),27,30,Atendimento,CRÍTICA
+01/07/2025,Tempo de Entrega (Horas),18,24,Logística,URGENTE
+01/07/2025,Novos Leads B2B,50,15,Marketing,NORMAL
+01/07/2025,Disponibilidade Site (%),76,99,TI,CRÍTICA
+02/07/2025,Eletrônicos (Laptops),72,80,Vendas,URGENTE
+02/07/2025,Acessórios (Cabos/Baterias),299,250,Logística,NORMAL
+02/07/2025,Linha Branca (Washing Machines),40,20,Vendas,NORMAL
+02/07/2025,Total faturado (USD),12891,15000,Financeiro,URGENTE
+02/07/2025,Suporte (Tickets),53,30,Atendimento,NORMAL
+02/07/2025,Tempo de Entrega (Horas),19,24,Logística,URGENTE
+02/07/2025,Novos Leads B2B,15,15,Marketing,URGENTE
+02/07/2025,Disponibilidade Site (%),96,99,TI,URGENTE
+03/07/2025,Eletrônicos (Laptops),92,80,Vendas,NORMAL
+03/07/2025,Acessórios (Cabos/Baterias),204,250,Logística,ALERTA
+03/07/2025,Linha Branca (Washing Machines),18,20,Vendas,URGENTE
+03/07/2025,Total faturado (USD),15028,15000,Financeiro,NORMAL
+03/07/2025,Suporte (Tickets),36,30,Atendimento,NORMAL
+03/07/2025,Tempo de Entrega (Horas),69,24,Logística,NORMAL
+03/07/2025,Novos Leads B2B,14,15,Marketing,ALERTA
+03/07/2025,Disponibilidade Site (%),86,99,TI,URGENTE
+04/07/2025,Eletrônicos (Laptops),75,80,Vendas,CRÍTICA
+04/07/2025,Acessórios (Cabos/Baterias),291,250,Logística,NORMAL
+04/07/2025,Linha Branca (Washing Machines),15,20,Vendas,ALERTA
+04/07/2025,Total faturado (USD),11852,15000,Financeiro,CRÍTICA
+04/07/2025,Suporte (Tickets),29,30,Atendimento,ALERTA
+04/07/2025,Tempo de Entrega (Horas),21,24,Logística,ALERTA
+04/07/2025,Novos Leads B2B,54,15,Marketing,NORMAL
+04/07/2025,Disponibilidade Site (%),106,99,TI,NORMAL
+05/07/2025,Eletrônicos (Laptops),103,80,Vendas,NORMAL
+05/07/2025,Acessórios (Cabos/Baterias),190,250,Logística,ALERTA
+05/07/2025,Linha Branca (Washing Machines),62,20,Vendas,NORMAL
+05/07/2025,Total faturado (USD),12647,15000,Financeiro,URGENTE
+05/07/2025,Suporte (Tickets),30,30,Atendimento,URGENTE
+05/07/2025,Tempo de Entrega (Horas),19,24,Logística,ALERTA
+05/07/2025,Novos Leads B2B,13,15,Marketing,URGENTE
+05/07/2025,Disponibilidade Site (%),80,99,TI,ALERTA
+06/07/2025,Eletrônicos (Laptops),109,80,Vendas,NORMAL
+06/07/2025,Acessórios (Cabos/Baterias),273,250,Logística,NORMAL
+06/07/2025,Linha Branca (Washing Machines),15,20,Vendas,URGENTE
+06/07/2025,Total faturado (USD),15042,15000,Financeiro,NORMAL
+06/07/2025,Suporte (Tickets),45,30,Atendimento,NORMAL
+06/07/2025,Tempo de Entrega (Horas),19,24,Logística,URGENTE
+06/07/2025,Novos Leads B2B,35,15,Marketing,NORMAL
+06/07/2025,Disponibilidade Site (%),77,99,TI,ALERTA
+07/07/2025,Eletrônicos (Laptops),60,80,Vendas,URGENTE
+07/07/2025,Acessórios (Cabos/Baterias),178,250,Logística,ALERTA
+07/07/2025,Linha Branca (Washing Machines),19,20,Vendas,URGENTE
+07/07/2025,Total faturado (USD),15030,15000,Financeiro,NORMAL
+07/07/2025,Suporte (Tickets),21,30,Atendimento,URGENTE
+07/07/2025,Tempo de Entrega (Horas),24,24,Logística,CRÍTICA
+07/07/2025,Novos Leads B2B,14,15,Marketing,URGENTE
+07/07/2025,Disponibilidade Site (%),95,99,TI,ALERTA
+08/07/2025,Eletrônicos (Laptops),67,80,Vendas,URGENTE
+08/07/2025,Acessórios (Cabos/Baterias),186,250,Logística,ALERTA
+08/07/2025,Linha Branca (Washing Machines),20,20,Vendas,ALERTA
+08/07/2025,Total faturado (USD),15046,15000,Financeiro,NORMAL
+08/07/2025,Suporte (Tickets),25,30,Atendimento,URGENTE
+08/07/2025,Tempo de Entrega (Horas),68,24,Logística,NORMAL
+08/07/2025,Novos Leads B2B,11,15,Marketing,URGENTE
+08/07/2025,Disponibilidade Site (%),93,99,TI,ALERTA
+09/07/2025,Eletrônicos (Laptops),90,80,Vendas,NORMAL
+09/07/2025,Acessórios (Cabos/Baterias),249,250,Logística,URGENTE
+09/07/2025,Linha Branca (Washing Machines),39,20,Vendas,NORMAL
+09/07/2025,Total faturado (USD),15027,15000,Financeiro,NORMAL
+09/07/2025,Suporte (Tickets),73,30,Atendimento,NORMAL
+09/07/2025,Tempo de Entrega (Horas),23,24,Logística,URGENTE
+09/07/2025,Novos Leads B2B,25,15,Marketing,NORMAL
+09/07/2025,Disponibilidade Site (%),93,99,TI,ALERTA
+10/07/2025,Eletrônicos (Laptops),58,80,Vendas,CRÍTICA
+10/07/2025,Acessórios (Cabos/Baterias),231,250,Logística,URGENTE
+10/07/2025,Linha Branca (Washing Machines),64,20,Vendas,NORMAL
+10/07/2025,Total faturado (USD),11643,15000,Financeiro,URGENTE
+10/07/2025,Suporte (Tickets),29,30,Atendimento,URGENTE
+10/07/2025,Tempo de Entrega (Horas),18,24,Logística,ALERTA
+10/07/2025,Novos Leads B2B,32,15,Marketing,NORMAL
+10/07/2025,Disponibilidade Site (%),119,99,TI,NORMAL
+11/07/2025,Eletrônicos (Laptops),64,80,Vendas,URGENTE
+11/07/2025,Acessórios (Cabos/Baterias),238,250,Logística,URGENTE
+11/07/2025,Linha Branca (Washing Machines),20,20,Vendas,URGENTE
+11/07/2025,Total faturado (USD),13142,15000,Financeiro,URGENTE
+11/07/2025,Suporte (Tickets),62,30,Atendimento,NORMAL
+11/07/2025,Tempo de Entrega (Horas),22,24,Logística,ALERTA
+11/07/2025,Novos Leads B2B,14,15,Marketing,ALERTA
+11/07/2025,Disponibilidade Site (%),72,99,TI,URGENTE
+12/07/2025,Eletrônicos (Laptops),58,80,Vendas,URGENTE
+12/07/2025,Acessórios (Cabos/Baterias),288,250,Logística,NORMAL
+12/07/2025,Linha Branca (Washing Machines),16,20,Vendas,CRÍTICA
+12/07/2025,Total faturado (USD),13538,15000,Financeiro,ALERTA
+12/07/2025,Suporte (Tickets),54,30,Atendimento,NORMAL
+12/07/2025,Tempo de Entrega (Horas),23,24,Logística,CRÍTICA
+12/07/2025,Novos Leads B2B,37,15,Marketing,NORMAL
+12/07/2025,Disponibilidade Site (%),85,99,TI,ALERTA
+13/07/2025,Eletrônicos (Laptops),85,80,Vendas,NORMAL
+13/07/2025,Acessórios (Cabos/Baterias),289,250,Logística,NORMAL
+13/07/2025,Linha Branca (Washing Machines),14,20,Vendas,URGENTE
+13/07/2025,Total faturado (USD),15016,15000,Financeiro,NORMAL
+13/07/2025,Suporte (Tickets),24,30,Atendimento,URGENTE
+13/07/2025,Tempo de Entrega (Horas),21,24,Logística,URGENTE
+13/07/2025,Novos Leads B2B,47,15,Marketing,NORMAL
+13/07/2025,Disponibilidade Site (%),129,99,TI,NORMAL
+14/07/2025,Eletrônicos (Laptops),79,80,Vendas,URGENTE
+14/07/2025,Acessórios (Cabos/Baterias),218,250,Logística,URGENTE
+14/07/2025,Linha Branca (Washing Machines),19,20,Vendas,URGENTE
+14/07/2025,Total faturado (USD),14015,15000,Financeiro,URGENTE
+14/07/2025,Suporte (Tickets),47,30,Atendimento,NORMAL
+14/07/2025,Tempo de Entrega (Horas),20,24,Logística,ALERTA
+14/07/2025,Novos Leads B2B,12,15,Marketing,URGENTE
+14/07/2025,Disponibilidade Site (%),77,99,TI,CRÍTICA
+15/07/2025,Eletrônicos (Laptops),117,80,Vendas,NORMAL
+15/07/2025,Acessórios (Cabos/Baterias),238,250,Logística,URGENTE
+15/07/2025,Linha Branca (Washing Machines),17,20,Vendas,URGENTE
+15/07/2025,Total faturado (USD),14835,15000,Financeiro,URGENTE
+15/07/2025,Suporte (Tickets),25,30,Atendimento,URGENTE
+15/07/2025,Tempo de Entrega (Horas),45,24,Logística,NORMAL
+15/07/2025,Novos Leads B2B,12,15,Marketing,URGENTE
+15/07/2025,Disponibilidade Site (%),98,99,TI,URGENTE
+16/07/2025,Eletrônicos (Laptops),59,80,Vendas,URGENTE
+16/07/2025,Acessórios (Cabos/Baterias),255,250,Logística,NORMAL
+16/07/2025,Linha Branca (Washing Machines),46,20,Vendas,NORMAL
+16/07/2025,Total faturado (USD),13459,15000,Financeiro,URGENTE
+16/07/2025,Suporte (Tickets),54,30,Atendimento,NORMAL
+16/07/2025,Tempo de Entrega (Horas),21,24,Logística,URGENTE
+16/07/2025,Novos Leads B2B,37,15,Marketing,NORMAL
+16/07/2025,Disponibilidade Site (%),130,99,TI,NORMAL
+17/07/2025,Eletrônicos (Laptops),79,80,Vendas,CRÍTICA
+17/07/2025,Acessórios (Cabos/Baterias),228,250,Logística,URGENTE
+17/07/2025,Linha Branca (Washing Machines),17,20,Vendas,URGENTE
+17/07/2025,Total faturado (USD),15018,15000,Financeiro,NORMAL
+17/07/2025,Suporte (Tickets),45,30,Atendimento,NORMAL
+17/07/2025,Tempo de Entrega (Horas),23,24,Logística,ALERTA
+17/07/2025,Novos Leads B2B,58,15,Marketing,NORMAL
+17/07/2025,Disponibilidade Site (%),101,99,TI,NORMAL
+18/07/2025,Eletrônicos (Laptops),116,80,Vendas,NORMAL
+18/07/2025,Acessórios (Cabos/Baterias),279,250,Logística,NORMAL
+18/07/2025,Linha Branca (Washing Machines),62,20,Vendas,NORMAL
+18/07/2025,Total faturado (USD),15014,15000,Financeiro,NORMAL
+18/07/2025,Suporte (Tickets),59,30,Atendimento,NORMAL
+18/07/2025,Tempo de Entrega (Horas),29,24,Logística,NORMAL
+18/07/2025,Novos Leads B2B,19,15,Marketing,NORMAL
+18/07/2025,Disponibilidade Site (%),74,99,TI,ALERTA
+19/07/2025,Eletrônicos (Laptops),73,80,Vendas,URGENTE
+19/07/2025,Acessórios (Cabos/Baterias),179,250,Logística,ALERTA
+19/07/2025,Linha Branca (Washing Machines),20,20,Vendas,URGENTE
+19/07/2025,Total faturado (USD),15033,15000,Financeiro,NORMAL
+19/07/2025,Suporte (Tickets),24,30,Atendimento,ALERTA
+19/07/2025,Tempo de Entrega (Horas),67,24,Logística,NORMAL
+19/07/2025,Novos Leads B2B,14,15,Marketing,ALERTA
+19/07/2025,Disponibilidade Site (%),74,99,TI,CRÍTICA
+20/07/2025,Eletrônicos (Laptops),87,80,Vendas,NORMAL
+20/07/2025,Acessórios (Cabos/Baterias),202,250,Logística,URGENTE
+20/07/2025,Linha Branca (Washing Machines),19,20,Vendas,URGENTE
+20/07/2025,Total faturado (USD),15033,15000,Financeiro,NORMAL
+20/07/2025,Suporte (Tickets),28,30,Atendimento,URGENTE
+20/07/2025,Tempo de Entrega (Horas),17,24,Logística,ALERTA
+20/07/2025,Novos Leads B2B,24,15,Marketing,NORMAL
+20/07/2025,Disponibilidade Site (%),93,99,TI,URGENTE
+21/07/2025,Eletrônicos (Laptops),60,80,Vendas,ALERTA
+21/07/2025,Acessórios (Cabos/Baterias),296,250,Logística,NORMAL
+21/07/2025,Linha Branca (Washing Machines),56,20,Vendas,NORMAL
+21/07/2025,Total faturado (USD),15024,15000,Financeiro,NORMAL
+21/07/2025,Suporte (Tickets),80,30,Atendimento,NORMAL
+21/07/2025,Tempo de Entrega (Horas),19,24,Logística,URGENTE
+21/07/2025,Novos Leads B2B,14,15,Marketing,ALERTA
+21/07/2025,Disponibilidade Site (%),149,99,TI,NORMAL
+22/07/2025,Eletrônicos (Laptops),73,80,Vendas,URGENTE
+22/07/2025,Acessórios (Cabos/Baterias),186,250,Logística,URGENTE
+22/07/2025,Linha Branca (Washing Machines),16,20,Vendas,URGENTE
+22/07/2025,Total faturado (USD),15034,15000,Financeiro,NORMAL
+22/07/2025,Suporte (Tickets),23,30,Atendimento,CRÍTICA
+22/07/2025,Tempo de Entrega (Horas),23,24,Logística,URGENTE
+22/07/2025,Novos Leads B2B,11,15,Marketing,URGENTE
+22/07/2025,Disponibilidade Site (%),123,99,TI,NORMAL
+23/07/2025,Eletrônicos (Laptops),56,80,Vendas,ALERTA
+23/07/2025,Acessórios (Cabos/Baterias),282,250,Logística,NORMAL
+23/07/2025,Linha Branca (Washing Machines),16,20,Vendas,URGENTE
+23/07/2025,Total faturado (USD),14360,15000,Financeiro,URGENTE
+23/07/2025,Suporte (Tickets),27,30,Atendimento,URGENTE
+23/07/2025,Tempo de Entrega (Horas),22,24,Logística,URGENTE
+23/07/2025,Novos Leads B2B,13,15,Marketing,CRÍTICA
+23/07/2025,Disponibilidade Site (%),71,99,TI,URGENTE
+24/07/2025,Eletrônicos (Laptops),63,80,Vendas,ALERTA
+24/07/2025,Acessórios (Cabos/Baterias),262,250,Logística,NORMAL
+24/07/2025,Linha Branca (Washing Machines),20,20,Vendas,CRÍTICA
+24/07/2025,Total faturado (USD),11957,15000,Financeiro,URGENTE
+24/07/2025,Suporte (Tickets),39,30,Atendimento,NORMAL
+24/07/2025,Tempo de Entrega (Horas),19,24,Logística,URGENTE
+24/07/2025,Novos Leads B2B,11,15,Marketing,URGENTE
+24/07/2025,Disponibilidade Site (%),140,99,TI,NORMAL
+25/07/2025,Eletrônicos (Laptops),71,80,Vendas,ALERTA
+25/07/2025,Acessórios (Cabos/Baterias),198,250,Logística,URGENTE
+25/07/2025,Linha Branca (Washing Machines),18,20,Vendas,URGENTE
+25/07/2025,Total faturado (USD),14920,15000,Financeiro,URGENTE
+25/07/2025,Suporte (Tickets),39,30,Atendimento,NORMAL
+25/07/2025,Tempo de Entrega (Horas),20,24,Logística,URGENTE
+25/07/2025,Novos Leads B2B,12,15,Marketing,ALERTA
+25/07/2025,Disponibilidade Site (%),106,99,TI,NORMAL
+26/07/2025,Eletrônicos (Laptops),109,80,Vendas,NORMAL
+26/07/2025,Acessórios (Cabos/Baterias),192,250,Logística,URGENTE
+26/07/2025,Linha Branca (Washing Machines),19,20,Vendas,URGENTE
+26/07/2025,Total faturado (USD),14126,15000,Financeiro,URGENTE
+26/07/2025,Suporte (Tickets),25,30,Atendimento,URGENTE
+26/07/2025,Tempo de Entrega (Horas),22,24,Logística,URGENTE
+26/07/2025,Novos Leads B2B,34,15,Marketing,NORMAL
+26/07/2025,Disponibilidade Site (%),123,99,TI,NORMAL
+27/07/2025,Eletrônicos (Laptops),123,80,Vendas,NORMAL
+27/07/2025,Acessórios (Cabos/Baterias),284,250,Logística,NORMAL
+27/07/2025,Linha Branca (Washing Machines),20,20,Vendas,URGENTE
+27/07/2025,Total faturado (USD),15023,15000,Financeiro,NORMAL
+27/07/2025,Suporte (Tickets),27,30,Atendimento,URGENTE
+27/07/2025,Tempo de Entrega (Horas),21,24,Logística,URGENTE
+27/07/2025,Novos Leads B2B,39,15,Marketing,NORMAL
+27/07/2025,Disponibilidade Site (%),124,99,TI,NORMAL
+28/07/2025,Eletrônicos (Laptops),121,80,Vendas,NORMAL
+28/07/2025,Acessórios (Cabos/Baterias),207,250,Logística,URGENTE
+28/07/2025,Linha Branca (Washing Machines),20,20,Vendas,URGENTE
+28/07/2025,Total faturado (USD),13198,15000,Financeiro,URGENTE
+28/07/2025,Suporte (Tickets),23,30,Atendimento,URGENTE
+28/07/2025,Tempo de Entrega (Horas),43,24,Logística,NORMAL
+28/07/2025,Novos Leads B2B,13,15,Marketing,URGENTE
+28/07/2025,Disponibilidade Site (%),82,99,TI,URGENTE
+29/07/2025,Eletrônicos (Laptops),61,80,Vendas,URGENTE
+29/07/2025,Acessórios (Cabos/Baterias),237,250,Logística,ALERTA
+29/07/2025,Linha Branca (Washing Machines),16,20,Vendas,CRÍTICA
+29/07/2025,Total faturado (USD),15031,15000,Financeiro,NORMAL
+29/07/2025,Suporte (Tickets),25,30,Atendimento,URGENTE
+29/07/2025,Tempo de Entrega (Horas),18,24,Logística,CRÍTICA
+29/07/2025,Novos Leads B2B,12,15,Marketing,URGENTE
+29/07/2025,Disponibilidade Site (%),130,99,TI,NORMAL
+30/07/2025,Eletrônicos (Laptops),64,80,Vendas,CRÍTICA
+30/07/2025,Acessórios (Cabos/Baterias),200,250,Logística,CRÍTICA
+30/07/2025,Linha Branca (Washing Machines),19,20,Vendas,URGENTE
+30/07/2025,Total faturado (USD),15010,15000,Financeiro,NORMAL
+30/07/2025,Suporte (Tickets),75,30,Atendimento,NORMAL
+30/07/2025,Tempo de Entrega (Horas),66,24,Logística,NORMAL
+30/07/2025,Novos Leads B2B,28,15,Marketing,NORMAL
+30/07/2025,Disponibilidade Site (%),92,99,TI,ALERTA
+31/07/2025,Eletrônicos (Laptops),78,80,Vendas,CRÍTICA
+31/07/2025,Acessórios (Cabos/Baterias),177,250,Logística,CRÍTICA
+31/07/2025,Linha Branca (Washing Machines),67,20,Vendas,NORMAL
+31/07/2025,Total faturado (USD),15004,15000,Financeiro,NORMAL
+31/07/2025,Suporte (Tickets),21,30,Atendimento,URGENTE
+31/07/2025,Tempo de Entrega (Horas),17,24,Logística,CRÍTICA
+31/07/2025,Novos Leads B2B,15,15,Marketing,CRÍTICA
+31/07/2025,Disponibilidade Site (%),121,99,TI,NORMAL
+01/08/2025,Eletrônicos (Laptops),96,80,Vendas,NORMAL
+01/08/2025,Acessórios (Cabos/Baterias),300,250,Logística,NORMAL
+01/08/2025,Linha Branca (Washing Machines),16,20,Vendas,URGENTE
+01/08/2025,Total faturado (USD),11266,15000,Financeiro,URGENTE
+01/08/2025,Suporte (Tickets),37,30,Atendimento,NORMAL
+01/08/2025,Tempo de Entrega (Horas),31,24,Logística,NORMAL
+01/08/2025,Novos Leads B2B,12,15,Marketing,URGENTE
+01/08/2025,Disponibilidade Site (%),109,99,TI,NORMAL
+02/08/2025,Eletrônicos (Laptops),75,80,Vendas,URGENTE
+02/08/2025,Acessórios (Cabos/Baterias),203,250,Logística,URGENTE
+02/08/2025,Linha Branca (Washing Machines),16,20,Vendas,ALERTA
+02/08/2025,Total faturado (USD),15010,15000,Financeiro,NORMAL
+02/08/2025,Suporte (Tickets),60,30,Atendimento,NORMAL
+02/08/2025,Tempo de Entrega (Horas),20,24,Logística,URGENTE
+02/08/2025,Novos Leads B2B,49,15,Marketing,NORMAL
+02/08/2025,Disponibilidade Site (%),146,99,TI,NORMAL
+03/08/2025,Eletrônicos (Laptops),62,80,Vendas,URGENTE
+03/08/2025,Acessórios (Cabos/Baterias),288,250,Logística,NORMAL
+03/08/2025,Linha Branca (Washing Machines),16,20,Vendas,URGENTE
+03/08/2025,Total faturado (USD),15019,15000,Financeiro,NORMAL
+03/08/2025,Suporte (Tickets),23,30,Atendimento,ALERTA
+03/08/2025,Tempo de Entrega (Horas),18,24,Logística,URGENTE
+03/08/2025,Novos Leads B2B,60,15,Marketing,NORMAL
+03/08/2025,Disponibilidade Site (%),81,99,TI,ALERTA
+04/08/2025,Eletrônicos (Laptops),79,80,Vendas,ALERTA
+04/08/2025,Acessórios (Cabos/Baterias),266,250,Logística,NORMAL
+04/08/2025,Linha Branca (Washing Machines),20,20,Vendas,URGENTE
+04/08/2025,Total faturado (USD),14229,15000,Financeiro,ALERTA
+04/08/2025,Suporte (Tickets),25,30,Atendimento,ALERTA
+04/08/2025,Tempo de Entrega (Horas),74,24,Logística,NORMAL
+04/08/2025,Novos Leads B2B,15,15,Marketing,URGENTE
+04/08/2025,Disponibilidade Site (%),101,99,TI,NORMAL
+05/08/2025,Eletrônicos (Laptops),91,80,Vendas,NORMAL
+05/08/2025,Acessórios (Cabos/Baterias),288,250,Logística,NORMAL
+05/08/2025,Linha Branca (Washing Machines),29,20,Vendas,NORMAL
+05/08/2025,Total faturado (USD),14180,15000,Financeiro,URGENTE
+05/08/2025,Suporte (Tickets),24,30,Atendimento,CRÍTICA
+05/08/2025,Tempo de Entrega (Horas),67,24,Logística,NORMAL
+05/08/2025,Novos Leads B2B,50,15,Marketing,NORMAL
+05/08/2025,Disponibilidade Site (%),130,99,TI,NORMAL
+06/08/2025,Eletrônicos (Laptops),70,80,Vendas,CRÍTICA
+06/08/2025,Acessórios (Cabos/Baterias),191,250,Logística,URGENTE
+06/08/2025,Linha Branca (Washing Machines),16,20,Vendas,CRÍTICA
+06/08/2025,Total faturado (USD),14526,15000,Financeiro,URGENTE
+06/08/2025,Suporte (Tickets),69,30,Atendimento,NORMAL
+06/08/2025,Tempo de Entrega (Horas),74,24,Logística,NORMAL
+06/08/2025,Novos Leads B2B,15,15,Marketing,CRÍTICA
+06/08/2025,Disponibilidade Site (%),72,99,TI,CRÍTICA
+07/08/2025,Eletrônicos (Laptops),61,80,Vendas,CRÍTICA
+07/08/2025,Acessórios (Cabos/Baterias),278,250,Logística,NORMAL
+07/08/2025,Linha Branca (Washing Machines),19,20,Vendas,URGENTE
+07/08/2025,Total faturado (USD),12456,15000,Financeiro,ALERTA
+07/08/2025,Suporte (Tickets),29,30,Atendimento,URGENTE
+07/08/2025,Tempo de Entrega (Horas),27,24,Logística,NORMAL
+07/08/2025,Novos Leads B2B,12,15,Marketing,URGENTE
+07/08/2025,Disponibilidade Site (%),135,99,TI,NORMAL
+08/08/2025,Eletrônicos (Laptops),66,80,Vendas,ALERTA
+08/08/2025,Acessórios (Cabos/Baterias),259,250,Logística,NORMAL
+08/08/2025,Linha Branca (Washing Machines),21,20,Vendas,NORMAL
+08/08/2025,Total faturado (USD),15019,15000,Financeiro,NORMAL
+08/08/2025,Suporte (Tickets),21,30,Atendimento,URGENTE
+08/08/2025,Tempo de Entrega (Horas),19,24,Logística,URGENTE
+08/08/2025,Novos Leads B2B,11,15,Marketing,ALERTA
+08/08/2025,Disponibilidade Site (%),83,99,TI,URGENTE
+09/08/2025,Eletrônicos (Laptops),77,80,Vendas,URGENTE
+09/08/2025,Acessórios (Cabos/Baterias),260,250,Logística,NORMAL
+09/08/2025,Linha Branca (Washing Machines),19,20,Vendas,CRÍTICA
+09/08/2025,Total faturado (USD),13404,15000,Financeiro,ALERTA
+09/08/2025,Suporte (Tickets),64,30,Atendimento,NORMAL
+09/08/2025,Tempo de Entrega (Horas),32,24,Logística,NORMAL
+09/08/2025,Novos Leads B2B,12,15,Marketing,URGENTE
+09/08/2025,Disponibilidade Site (%),133,99,TI,NORMAL
+10/08/2025,Eletrônicos (Laptops),115,80,Vendas,NORMAL
+10/08/2025,Acessórios (Cabos/Baterias),261,250,Logística,NORMAL
+10/08/2025,Linha Branca (Washing Machines),20,20,Vendas,CRÍTICA
+10/08/2025,Total faturado (USD),15042,15000,Financeiro,NORMAL
+10/08/2025,Suporte (Tickets),22,30,Atendimento,ALERTA
+10/08/2025,Tempo de Entrega (Horas),22,24,Logística,URGENTE
+10/08/2025,Novos Leads B2B,12,15,Marketing,ALERTA
+10/08/2025,Disponibilidade Site (%),135,99,TI,NORMAL
+11/08/2025,Eletrônicos (Laptops),86,80,Vendas,NORMAL
+11/08/2025,Acessórios (Cabos/Baterias),209,250,Logística,ALERTA
+11/08/2025,Linha Branca (Washing Machines),50,20,Vendas,NORMAL
+11/08/2025,Total faturado (USD),13844,15000,Financeiro,URGENTE
+11/08/2025,Suporte (Tickets),30,30,Atendimento,ALERTA
+11/08/2025,Tempo de Entrega (Horas),22,24,Logística,URGENTE
+11/08/2025,Novos Leads B2B,13,15,Marketing,URGENTE
+11/08/2025,Disponibilidade Site (%),87,99,TI,URGENTE
+12/08/2025,Eletrônicos (Laptops),63,80,Vendas,ALERTA
+12/08/2025,Acessórios (Cabos/Baterias),254,250,Logística,NORMAL
+12/08/2025,Linha Branca (Washing Machines),21,20,Vendas,NORMAL
+12/08/2025,Total faturado (USD),12974,15000,Financeiro,CRÍTICA
+12/08/2025,Suporte (Tickets),27,30,Atendimento,CRÍTICA
+12/08/2025,Tempo de Entrega (Horas),20,24,Logística,ALERTA
+12/08/2025,Novos Leads B2B,34,15,Marketing,NORMAL
+12/08/2025,Disponibilidade Site (%),107,99,TI,NORMAL
+13/08/2025,Eletrônicos (Laptops),130,80,Vendas,NORMAL
+13/08/2025,Acessórios (Cabos/Baterias),262,250,Logística,NORMAL
+13/08/2025,Linha Branca (Washing Machines),60,20,Vendas,NORMAL
+13/08/2025,Total faturado (USD),13446,15000,Financeiro,CRÍTICA
+13/08/2025,Suporte (Tickets),58,30,Atendimento,NORMAL
+13/08/2025,Tempo de Entrega (Horas),21,24,Logística,ALERTA
+13/08/2025,Novos Leads B2B,58,15,Marketing,NORMAL
+13/08/2025,Disponibilidade Site (%),135,99,TI,NORMAL
+14/08/2025,Eletrônicos (Laptops),70,80,Vendas,URGENTE
+14/08/2025,Acessórios (Cabos/Baterias),188,250,Logística,CRÍTICA
+14/08/2025,Linha Branca (Washing Machines),19,20,Vendas,ALERTA
+14/08/2025,Total faturado (USD),11600,15000,Financeiro,CRÍTICA
+14/08/2025,Suporte (Tickets),27,30,Atendimento,CRÍTICA
+14/08/2025,Tempo de Entrega (Horas),18,24,Logística,URGENTE
+14/08/2025,Novos Leads B2B,14,15,Marketing,URGENTE
+14/08/2025,Disponibilidade Site (%),82,99,TI,ALERTA
+15/08/2025,Eletrônicos (Laptops),117,80,Vendas,NORMAL
+15/08/2025,Acessórios (Cabos/Baterias),186,250,Logística,ALERTA
+15/08/2025,Linha Branca (Washing Machines),25,20,Vendas,NORMAL
+15/08/2025,Total faturado (USD),15006,15000,Financeiro,NORMAL
+15/08/2025,Suporte (Tickets),43,30,Atendimento,NORMAL
+15/08/2025,Tempo de Entrega (Horas),40,24,Logística,NORMAL
+15/08/2025,Novos Leads B2B,14,15,Marketing,CRÍTICA
+15/08/2025,Disponibilidade Site (%),78,99,TI,CRÍTICA
+16/08/2025,Eletrônicos (Laptops),106,80,Vendas,NORMAL
+16/08/2025,Acessórios (Cabos/Baterias),222,250,Logística,ALERTA
+16/08/2025,Linha Branca (Washing Machines),56,20,Vendas,NORMAL
+16/08/2025,Total faturado (USD),14203,15000,Financeiro,CRÍTICA
+16/08/2025,Suporte (Tickets),29,30,Atendimento,ALERTA
+16/08/2025,Tempo de Entrega (Horas),24,24,Logística,CRÍTICA
+16/08/2025,Novos Leads B2B,15,15,Marketing,ALERTA
+16/08/2025,Disponibilidade Site (%),73,99,TI,CRÍTICA
+17/08/2025,Eletrônicos (Laptops),117,80,Vendas,NORMAL
+17/08/2025,Acessórios (Cabos/Baterias),207,250,Logística,ALERTA
+17/08/2025,Linha Branca (Washing Machines),20,20,Vendas,ALERTA
+17/08/2025,Total faturado (USD),15016,15000,Financeiro,NORMAL
+17/08/2025,Suporte (Tickets),58,30,Atendimento,NORMAL
+17/08/2025,Tempo de Entrega (Horas),17,24,Logística,ALERTA
+17/08/2025,Novos Leads B2B,11,15,Marketing,CRÍTICA
+17/08/2025,Disponibilidade Site (%),77,99,TI,ALERTA
+18/08/2025,Eletrônicos (Laptops),56,80,Vendas,ALERTA
+18/08/2025,Acessórios (Cabos/Baterias),211,250,Logística,CRÍTICA
+18/08/2025,Linha Branca (Washing Machines),59,20,Vendas,NORMAL
+18/08/2025,Total faturado (USD),15019,15000,Financeiro,NORMAL
+18/08/2025,Suporte (Tickets),30,30,Atendimento,URGENTE
+18/08/2025,Tempo de Entrega (Horas),21,24,Logística,URGENTE
+18/08/2025,Novos Leads B2B,11,15,Marketing,URGENTE
+18/08/2025,Disponibilidade Site (%),117,99,TI,NORMAL
+19/08/2025,Eletrônicos (Laptops),67,80,Vendas,CRÍTICA
+19/08/2025,Acessórios (Cabos/Baterias),175,250,Logística,URGENTE
+19/08/2025,Linha Branca (Washing Machines),46,20,Vendas,NORMAL
+19/08/2025,Total faturado (USD),13735,15000,Financeiro,ALERTA
+19/08/2025,Suporte (Tickets),28,30,Atendimento,CRÍTICA
+19/08/2025,Tempo de Entrega (Horas),24,24,Logística,CRÍTICA
+19/08/2025,Novos Leads B2B,52,15,Marketing,NORMAL
+19/08/2025,Disponibilidade Site (%),114,99,TI,NORMAL
+20/08/2025,Eletrônicos (Laptops),66,80,Vendas,URGENTE
+20/08/2025,Acessórios (Cabos/Baterias),246,250,Logística,URGENTE
+20/08/2025,Linha Branca (Washing Machines),16,20,Vendas,URGENTE
+20/08/2025,Total faturado (USD),15026,15000,Financeiro,NORMAL
+20/08/2025,Suporte (Tickets),29,30,Atendimento,URGENTE
+20/08/2025,Tempo de Entrega (Horas),18,24,Logística,URGENTE
+20/08/2025,Novos Leads B2B,15,15,Marketing,URGENTE
+20/08/2025,Disponibilidade Site (%),75,99,TI,URGENTE
+21/08/2025,Eletrônicos (Laptops),80,80,Vendas,URGENTE
+21/08/2025,Acessórios (Cabos/Baterias),274,250,Logística,NORMAL
+21/08/2025,Linha Branca (Washing Machines),14,20,Vendas,ALERTA
+21/08/2025,Total faturado (USD),15005,15000,Financeiro,NORMAL
+21/08/2025,Suporte (Tickets),73,30,Atendimento,NORMAL
+21/08/2025,Tempo de Entrega (Horas),22,24,Logística,URGENTE
+21/08/2025,Novos Leads B2B,15,15,Marketing,CRÍTICA
+21/08/2025,Disponibilidade Site (%),122,99,TI,NORMAL
+22/08/2025,Eletrônicos (Laptops),80,80,Vendas,CRÍTICA
+22/08/2025,Acessórios (Cabos/Baterias),252,250,Logística,NORMAL
+22/08/2025,Linha Branca (Washing Machines),15,20,Vendas,ALERTA
+22/08/2025,Total faturado (USD),15014,15000,Financeiro,NORMAL
+22/08/2025,Suporte (Tickets),40,30,Atendimento,NORMAL
+22/08/2025,Tempo de Entrega (Horas),18,24,Logística,URGENTE
+22/08/2025,Novos Leads B2B,15,15,Marketing,URGENTE
+22/08/2025,Disponibilidade Site (%),82,99,TI,URGENTE
+23/08/2025,Eletrônicos (Laptops),76,80,Vendas,URGENTE
+23/08/2025,Acessórios (Cabos/Baterias),241,250,Logística,URGENTE
+23/08/2025,Linha Branca (Washing Machines),15,20,Vendas,URGENTE
+23/08/2025,Total faturado (USD),12449,15000,Financeiro,ALERTA
+23/08/2025,Suporte (Tickets),67,30,Atendimento,NORMAL
+23/08/2025,Tempo de Entrega (Horas),17,24,Logística,URGENTE
+23/08/2025,Novos Leads B2B,12,15,Marketing,CRÍTICA
+23/08/2025,Disponibilidade Site (%),89,99,TI,URGENTE
+24/08/2025,Eletrônicos (Laptops),73,80,Vendas,CRÍTICA
+24/08/2025,Acessórios (Cabos/Baterias),230,250,Logística,URGENTE
+24/08/2025,Linha Branca (Washing Machines),15,20,Vendas,URGENTE
+24/08/2025,Total faturado (USD),15016,15000,Financeiro,NORMAL
+24/08/2025,Suporte (Tickets),25,30,Atendimento,URGENTE
+24/08/2025,Tempo de Entrega (Horas),21,24,Logística,URGENTE
+24/08/2025,Novos Leads B2B,38,15,Marketing,NORMAL
+24/08/2025,Disponibilidade Site (%),130,99,TI,NORMAL
+25/08/2025,Eletrônicos (Laptops),78,80,Vendas,ALERTA
+25/08/2025,Acessórios (Cabos/Baterias),257,250,Logística,NORMAL
+25/08/2025,Linha Branca (Washing Machines),19,20,Vendas,ALERTA
+25/08/2025,Total faturado (USD),14814,15000,Financeiro,URGENTE
+25/08/2025,Suporte (Tickets),26,30,Atendimento,URGENTE
+25/08/2025,Tempo de Entrega (Horas),18,24,Logística,URGENTE
+25/08/2025,Novos Leads B2B,12,15,Marketing,URGENTE
+25/08/2025,Disponibilidade Site (%),120,99,TI,NORMAL
+26/08/2025,Eletrônicos (Laptops),66,80,Vendas,CRÍTICA
+26/08/2025,Acessórios (Cabos/Baterias),283,250,Logística,NORMAL
+26/08/2025,Linha Branca (Washing Machines),58,20,Vendas,NORMAL
+26/08/2025,Total faturado (USD),15034,15000,Financeiro,NORMAL
+26/08/2025,Suporte (Tickets),36,30,Atendimento,NORMAL
+26/08/2025,Tempo de Entrega (Horas),63,24,Logística,NORMAL
+26/08/2025,Novos Leads B2B,11,15,Marketing,URGENTE
+26/08/2025,Disponibilidade Site (%),84,99,TI,CRÍTICA
+27/08/2025,Eletrônicos (Laptops),57,80,Vendas,URGENTE
+27/08/2025,Acessórios (Cabos/Baterias),231,250,Logística,URGENTE
+27/08/2025,Linha Branca (Washing Machines),16,20,Vendas,ALERTA
+27/08/2025,Total faturado (USD),14961,15000,Financeiro,ALERTA
+27/08/2025,Suporte (Tickets),32,30,Atendimento,NORMAL
+27/08/2025,Tempo de Entrega (Horas),18,24,Logística,URGENTE
+27/08/2025,Novos Leads B2B,51,15,Marketing,NORMAL
+27/08/2025,Disponibilidade Site (%),120,99,TI,NORMAL
+28/08/2025,Eletrônicos (Laptops),128,80,Vendas,NORMAL
+28/08/2025,Acessórios (Cabos/Baterias),233,250,Logística,CRÍTICA
+28/08/2025,Linha Branca (Washing Machines),55,20,Vendas,NORMAL
+28/08/2025,Total faturado (USD),15046,15000,Financeiro,NORMAL
+28/08/2025,Suporte (Tickets),23,30,Atendimento,URGENTE
+28/08/2025,Tempo de Entrega (Horas),65,24,Logística,NORMAL
+28/08/2025,Novos Leads B2B,51,15,Marketing,NORMAL
+28/08/2025,Disponibilidade Site (%),123,99,TI,NORMAL
+29/08/2025,Eletrônicos (Laptops),102,80,Vendas,NORMAL
+29/08/2025,Acessórios (Cabos/Baterias),250,250,Logística,ALERTA
+29/08/2025,Linha Branca (Washing Machines),61,20,Vendas,NORMAL
+29/08/2025,Total faturado (USD),10676,15000,Financeiro,ALERTA
+29/08/2025,Suporte (Tickets),76,30,Atendimento,NORMAL
+29/08/2025,Tempo de Entrega (Horas),18,24,Logística,ALERTA
+29/08/2025,Novos Leads B2B,11,15,Marketing,CRÍTICA
+29/08/2025,Disponibilidade Site (%),71,99,TI,ALERTA
+30/08/2025,Eletrônicos (Laptops),72,80,Vendas,ALERTA
+30/08/2025,Acessórios (Cabos/Baterias),292,250,Logística,NORMAL
+30/08/2025,Linha Branca (Washing Machines),16,20,Vendas,ALERTA
+30/08/2025,Total faturado (USD),15006,15000,Financeiro,NORMAL
+30/08/2025,Suporte (Tickets),61,30,Atendimento,NORMAL
+30/08/2025,Tempo de Entrega (Horas),24,24,Logística,URGENTE
+30/08/2025,Novos Leads B2B,13,15,Marketing,CRÍTICA
+30/08/2025,Disponibilidade Site (%),94,99,TI,CRÍTICA
+31/08/2025,Eletrônicos (Laptops),59,80,Vendas,ALERTA
+31/08/2025,Acessórios (Cabos/Baterias),219,250,Logística,URGENTE
+31/08/2025,Linha Branca (Washing Machines),19,20,Vendas,URGENTE
+31/08/2025,Total faturado (USD),15030,15000,Financeiro,NORMAL
+31/08/2025,Suporte (Tickets),25,30,Atendimento,URGENTE
+31/08/2025,Tempo de Entrega (Horas),17,24,Logística,ALERTA
+31/08/2025,Novos Leads B2B,39,15,Marketing,NORMAL
+31/08/2025,Disponibilidade Site (%),111,99,TI,NORMAL
+01/09/2025,Eletrônicos (Laptops),87,80,Vendas,NORMAL
+01/09/2025,Acessórios (Cabos/Baterias),273,250,Logística,NORMAL
+01/09/2025,Linha Branca (Washing Machines),20,20,Vendas,URGENTE
+01/09/2025,Total faturado (USD),10663,15000,Financeiro,URGENTE
+01/09/2025,Suporte (Tickets),68,30,Atendimento,NORMAL
+01/09/2025,Tempo de Entrega (Horas),23,24,Logística,URGENTE
+01/09/2025,Novos Leads B2B,12,15,Marketing,CRÍTICA
+01/09/2025,Disponibilidade Site (%),107,99,TI,NORMAL
+02/09/2025,Eletrônicos (Laptops),72,80,Vendas,URGENTE
+02/09/2025,Acessórios (Cabos/Baterias),241,250,Logística,CRÍTICA
+02/09/2025,Linha Branca (Washing Machines),19,20,Vendas,ALERTA
+02/09/2025,Total faturado (USD),12625,15000,Financeiro,URGENTE
+02/09/2025,Suporte (Tickets),43,30,Atendimento,NORMAL
+02/09/2025,Tempo de Entrega (Horas),40,24,Logística,NORMAL
+02/09/2025,Novos Leads B2B,24,15,Marketing,NORMAL
+02/09/2025,Disponibilidade Site (%),131,99,TI,NORMAL
+03/09/2025,Eletrônicos (Laptops),88,80,Vendas,NORMAL
+03/09/2025,Acessórios (Cabos/Baterias),176,250,Logística,URGENTE
+03/09/2025,Linha Branca (Washing Machines),60,20,Vendas,NORMAL
+03/09/2025,Total faturado (USD),15015,15000,Financeiro,NORMAL
+03/09/2025,Suporte (Tickets),26,30,Atendimento,CRÍTICA
+03/09/2025,Tempo de Entrega (Horas),24,24,Logística,CRÍTICA
+03/09/2025,Novos Leads B2B,49,15,Marketing,NORMAL
+03/09/2025,Disponibilidade Site (%),112,99,TI,NORMAL
+04/09/2025,Eletrônicos (Laptops),67,80,Vendas,CRÍTICA
+04/09/2025,Acessórios (Cabos/Baterias),260,250,Logística,NORMAL
+04/09/2025,Linha Branca (Washing Machines),19,20,Vendas,CRÍTICA
+04/09/2025,Total faturado (USD),15023,15000,Financeiro,NORMAL
+04/09/2025,Suporte (Tickets),26,30,Atendimento,URGENTE
+04/09/2025,Tempo de Entrega (Horas),70,24,Logística,NORMAL
+04/09/2025,Novos Leads B2B,45,15,Marketing,NORMAL
+04/09/2025,Disponibilidade Site (%),85,99,TI,URGENTE
+05/09/2025,Eletrônicos (Laptops),69,80,Vendas,ALERTA
+05/09/2025,Acessórios (Cabos/Baterias),239,250,Logística,ALERTA
+05/09/2025,Linha Branca (Washing Machines),58,20,Vendas,NORMAL
+05/09/2025,Total faturado (USD),15047,15000,Financeiro,NORMAL
+05/09/2025,Suporte (Tickets),67,30,Atendimento,NORMAL
+05/09/2025,Tempo de Entrega (Horas),19,24,Logística,ALERTA
+05/09/2025,Novos Leads B2B,14,15,Marketing,CRÍTICA
+05/09/2025,Disponibilidade Site (%),81,99,TI,ALERTA
+06/09/2025,Eletrônicos (Laptops),57,80,Vendas,URGENTE
+06/09/2025,Acessórios (Cabos/Baterias),225,250,Logística,URGENTE
+06/09/2025,Linha Branca (Washing Machines),16,20,Vendas,URGENTE
+06/09/2025,Total faturado (USD),14573,15000,Financeiro,CRÍTICA
+06/09/2025,Suporte (Tickets),28,30,Atendimento,URGENTE
+06/09/2025,Tempo de Entrega (Horas),61,24,Logística,NORMAL
+06/09/2025,Novos Leads B2B,11,15,Marketing,URGENTE
+06/09/2025,Disponibilidade Site (%),109,99,TI,NORMAL
+07/09/2025,Eletrônicos (Laptops),70,80,Vendas,CRÍTICA
+07/09/2025,Acessórios (Cabos/Baterias),264,250,Logística,NORMAL
+07/09/2025,Linha Branca (Washing Machines),14,20,Vendas,URGENTE
+07/09/2025,Total faturado (USD),11145,15000,Financeiro,URGENTE
+07/09/2025,Suporte (Tickets),29,30,Atendimento,URGENTE
+07/09/2025,Tempo de Entrega (Horas),20,24,Logística,CRÍTICA
+07/09/2025,Novos Leads B2B,41,15,Marketing,NORMAL
+07/09/2025,Disponibilidade Site (%),114,99,TI,NORMAL
+08/09/2025,Eletrônicos (Laptops),88,80,Vendas,NORMAL
+08/09/2025,Acessórios (Cabos/Baterias),262,250,Logística,NORMAL
+08/09/2025,Linha Branca (Washing Machines),17,20,Vendas,URGENTE
+08/09/2025,Total faturado (USD),10764,15000,Financeiro,CRÍTICA
+08/09/2025,Suporte (Tickets),23,30,Atendimento,URGENTE
+08/09/2025,Tempo de Entrega (Horas),41,24,Logística,NORMAL
+08/09/2025,Novos Leads B2B,50,15,Marketing,NORMAL
+08/09/2025,Disponibilidade Site (%),127,99,TI,NORMAL
+09/09/2025,Eletrônicos (Laptops),57,80,Vendas,URGENTE
+09/09/2025,Acessórios (Cabos/Baterias),191,250,Logística,ALERTA
+09/09/2025,Linha Branca (Washing Machines),15,20,Vendas,URGENTE
+09/09/2025,Total faturado (USD),14201,15000,Financeiro,ALERTA
+09/09/2025,Suporte (Tickets),30,30,Atendimento,ALERTA
+09/09/2025,Tempo de Entrega (Horas),18,24,Logística,CRÍTICA
+09/09/2025,Novos Leads B2B,13,15,Marketing,URGENTE
+09/09/2025,Disponibilidade Site (%),123,99,TI,NORMAL
+10/09/2025,Eletrônicos (Laptops),68,80,Vendas,CRÍTICA
+10/09/2025,Acessórios (Cabos/Baterias),285,250,Logística,NORMAL
+10/09/2025,Linha Branca (Washing Machines),20,20,Vendas,CRÍTICA
+10/09/2025,Total faturado (USD),15047,15000,Financeiro,NORMAL
+10/09/2025,Suporte (Tickets),44,30,Atendimento,NORMAL
+10/09/2025,Tempo de Entrega (Horas),18,24,Logística,CRÍTICA
+10/09/2025,Novos Leads B2B,11,15,Marketing,CRÍTICA
+10/09/2025,Disponibilidade Site (%),87,99,TI,ALERTA
+11/09/2025,Eletrônicos (Laptops),118,80,Vendas,NORMAL
+11/09/2025,Acessórios (Cabos/Baterias),180,250,Logística,URGENTE
+11/09/2025,Linha Branca (Washing Machines),16,20,Vendas,URGENTE
+11/09/2025,Total faturado (USD),15038,15000,Financeiro,NORMAL
+11/09/2025,Suporte (Tickets),29,30,Atendimento,URGENTE
+11/09/2025,Tempo de Entrega (Horas),18,24,Logística,CRÍTICA
+11/09/2025,Novos Leads B2B,12,15,Marketing,ALERTA
+11/09/2025,Disponibilidade Site (%),97,99,TI,ALERTA
+12/09/2025,Eletrônicos (Laptops),57,80,Vendas,ALERTA
+12/09/2025,Acessórios (Cabos/Baterias),205,250,Logística,ALERTA
+12/09/2025,Linha Branca (Washing Machines),18,20,Vendas,URGENTE
+12/09/2025,Total faturado (USD),15040,15000,Financeiro,NORMAL
+12/09/2025,Suporte (Tickets),28,30,Atendimento,CRÍTICA
+12/09/2025,Tempo de Entrega (Horas),22,24,Logística,CRÍTICA
+12/09/2025,Novos Leads B2B,13,15,Marketing,ALERTA
+12/09/2025,Disponibilidade Site (%),94,99,TI,URGENTE
+13/09/2025,Eletrônicos (Laptops),122,80,Vendas,NORMAL
+13/09/2025,Acessórios (Cabos/Baterias),291,250,Logística,NORMAL
+13/09/2025,Linha Branca (Washing Machines),19,20,Vendas,CRÍTICA
+13/09/2025,Total faturado (USD),13748,15000,Financeiro,URGENTE
+13/09/2025,Suporte (Tickets),25,30,Atendimento,URGENTE
+13/09/2025,Tempo de Entrega (Horas),41,24,Logística,NORMAL
+13/09/2025,Novos Leads B2B,16,15,Marketing,NORMAL
+13/09/2025,Disponibilidade Site (%),81,99,TI,URGENTE
+14/09/2025,Eletrônicos (Laptops),72,80,Vendas,URGENTE
+14/09/2025,Acessórios (Cabos/Baterias),221,250,Logística,ALERTA
+14/09/2025,Linha Branca (Washing Machines),22,20,Vendas,NORMAL
+14/09/2025,Total faturado (USD),12786,15000,Financeiro,URGENTE
+14/09/2025,Suporte (Tickets),29,30,Atendimento,URGENTE
+14/09/2025,Tempo de Entrega (Horas),21,24,Logística,ALERTA
+14/09/2025,Novos Leads B2B,13,15,Marketing,ALERTA
+14/09/2025,Disponibilidade Site (%),96,99,TI,CRÍTICA
+15/09/2025,Eletrônicos (Laptops),118,80,Vendas,NORMAL
+15/09/2025,Acessórios (Cabos/Baterias),264,250,Logística,NORMAL
+15/09/2025,Linha Branca (Washing Machines),19,20,Vendas,ALERTA
+15/09/2025,Total faturado (USD),15022,15000,Financeiro,NORMAL
+15/09/2025,Suporte (Tickets),27,30,Atendimento,ALERTA
+15/09/2025,Tempo de Entrega (Horas),23,24,Logística,ALERTA
+15/09/2025,Novos Leads B2B,11,15,Marketing,ALERTA
+15/09/2025,Disponibilidade Site (%),88,99,TI,URGENTE
+16/09/2025,Eletrônicos (Laptops),103,80,Vendas,NORMAL
+16/09/2025,Acessórios (Cabos/Baterias),220,250,Logística,URGENTE
+16/09/2025,Linha Branca (Washing Machines),15,20,Vendas,URGENTE
+16/09/2025,Total faturado (USD),14222,15000,Financeiro,CRÍTICA
+16/09/2025,Suporte (Tickets),35,30,Atendimento,NORMAL
+16/09/2025,Tempo de Entrega (Horas),24,24,Logística,URGENTE
+16/09/2025,Novos Leads B2B,11,15,Marketing,ALERTA
+16/09/2025,Disponibilidade Site (%),92,99,TI,CRÍTICA
+17/09/2025,Eletrônicos (Laptops),128,80,Vendas,NORMAL
+17/09/2025,Acessórios (Cabos/Baterias),254,250,Logística,NORMAL
+17/09/2025,Linha Branca (Washing Machines),19,20,Vendas,ALERTA
+17/09/2025,Total faturado (USD),10956,15000,Financeiro,CRÍTICA
+17/09/2025,Suporte (Tickets),28,30,Atendimento,ALERTA
+17/09/2025,Tempo de Entrega (Horas),17,24,Logística,ALERTA
+17/09/2025,Novos Leads B2B,23,15,Marketing,NORMAL
+17/09/2025,Disponibilidade Site (%),125,99,TI,NORMAL
+18/09/2025,Eletrônicos (Laptops),114,80,Vendas,NORMAL
+18/09/2025,Acessórios (Cabos/Baterias),295,250,Logística,NORMAL
+18/09/2025,Linha Branca (Washing Machines),45,20,Vendas,NORMAL
+18/09/2025,Total faturado (USD),15027,15000,Financeiro,NORMAL
+18/09/2025,Suporte (Tickets),70,30,Atendimento,NORMAL
+18/09/2025,Tempo de Entrega (Horas),27,24,Logística,NORMAL
+18/09/2025,Novos Leads B2B,11,15,Marketing,CRÍTICA
+18/09/2025,Disponibilidade Site (%),105,99,TI,NORMAL
+19/09/2025,Eletrônicos (Laptops),104,80,Vendas,NORMAL
+19/09/2025,Acessórios (Cabos/Baterias),283,250,Logística,NORMAL
+19/09/2025,Linha Branca (Washing Machines),36,20,Vendas,NORMAL
+19/09/2025,Total faturado (USD),14975,15000,Financeiro,ALERTA
+19/09/2025,Suporte (Tickets),28,30,Atendimento,URGENTE
+19/09/2025,Tempo de Entrega (Horas),23,24,Logística,ALERTA
+19/09/2025,Novos Leads B2B,15,15,Marketing,URGENTE
+19/09/2025,Disponibilidade Site (%),113,99,TI,NORMAL
+20/09/2025,Eletrônicos (Laptops),64,80,Vendas,ALERTA
+20/09/2025,Acessórios (Cabos/Baterias),275,250,Logística,NORMAL
+20/09/2025,Linha Branca (Washing Machines),25,20,Vendas,NORMAL
+20/09/2025,Total faturado (USD),10590,15000,Financeiro,URGENTE
+20/09/2025,Suporte (Tickets),21,30,Atendimento,URGENTE
+20/09/2025,Tempo de Entrega (Horas),17,24,Logística,ALERTA
+20/09/2025,Novos Leads B2B,32,15,Marketing,NORMAL
+20/09/2025,Disponibilidade Site (%),141,99,TI,NORMAL
+21/09/2025,Eletrônicos (Laptops),75,80,Vendas,ALERTA
+21/09/2025,Acessórios (Cabos/Baterias),299,250,Logística,NORMAL
+21/09/2025,Linha Branca (Washing Machines),20,20,Vendas,URGENTE
+21/09/2025,Total faturado (USD),14117,15000,Financeiro,CRÍTICA
+21/09/2025,Suporte (Tickets),39,30,Atendimento,NORMAL
+21/09/2025,Tempo de Entrega (Horas),69,24,Logística,NORMAL
+21/09/2025,Novos Leads B2B,14,15,Marketing,ALERTA
+21/09/2025,Disponibilidade Site (%),95,99,TI,URGENTE
+22/09/2025,Eletrônicos (Laptops),108,80,Vendas,NORMAL
+22/09/2025,Acessórios (Cabos/Baterias),235,250,Logística,URGENTE
+22/09/2025,Linha Branca (Washing Machines),19,20,Vendas,ALERTA
+22/09/2025,Total faturado (USD),14854,15000,Financeiro,ALERTA
+22/09/2025,Suporte (Tickets),43,30,Atendimento,NORMAL
+22/09/2025,Tempo de Entrega (Horas),20,24,Logística,ALERTA
+22/09/2025,Novos Leads B2B,12,15,Marketing,ALERTA
+22/09/2025,Disponibilidade Site (%),91,99,TI,CRÍTICA
+23/09/2025,Eletrônicos (Laptops),59,80,Vendas,URGENTE
+23/09/2025,Acessórios (Cabos/Baterias),254,250,Logística,NORMAL
+23/09/2025,Linha Branca (Washing Machines),18,20,Vendas,ALERTA
+23/09/2025,Total faturado (USD),11146,15000,Financeiro,ALERTA
+23/09/2025,Suporte (Tickets),25,30,Atendimento,URGENTE
+23/09/2025,Tempo de Entrega (Horas),21,24,Logística,ALERTA
+23/09/2025,Novos Leads B2B,13,15,Marketing,CRÍTICA
+23/09/2025,Disponibilidade Site (%),106,99,TI,NORMAL
+24/09/2025,Eletrônicos (Laptops),100,80,Vendas,NORMAL
+24/09/2025,Acessórios (Cabos/Baterias),223,250,Logística,URGENTE
+24/09/2025,Linha Branca (Washing Machines),31,20,Vendas,NORMAL
+24/09/2025,Total faturado (USD),15039,15000,Financeiro,NORMAL
+24/09/2025,Suporte (Tickets),24,30,Atendimento,ALERTA
+24/09/2025,Tempo de Entrega (Horas),22,24,Logística,URGENTE
+24/09/2025,Novos Leads B2B,13,15,Marketing,ALERTA
+24/09/2025,Disponibilidade Site (%),148,99,TI,NORMAL
+25/09/2025,Eletrônicos (Laptops),59,80,Vendas,CRÍTICA
+25/09/2025,Acessórios (Cabos/Baterias),228,250,Logística,CRÍTICA
+25/09/2025,Linha Branca (Washing Machines),20,20,Vendas,CRÍTICA
+25/09/2025,Total faturado (USD),14167,15000,Financeiro,ALERTA
+25/09/2025,Suporte (Tickets),71,30,Atendimento,NORMAL
+25/09/2025,Tempo de Entrega (Horas),20,24,Logística,ALERTA
+25/09/2025,Novos Leads B2B,47,15,Marketing,NORMAL
+25/09/2025,Disponibilidade Site (%),115,99,TI,NORMAL
+26/09/2025,Eletrônicos (Laptops),74,80,Vendas,CRÍTICA
+26/09/2025,Acessórios (Cabos/Baterias),256,250,Logística,NORMAL
+26/09/2025,Linha Branca (Washing Machines),60,20,Vendas,NORMAL
+26/09/2025,Total faturado (USD),15021,15000,Financeiro,NORMAL
+26/09/2025,Suporte (Tickets),23,30,Atendimento,ALERTA
+26/09/2025,Tempo de Entrega (Horas),60,24,Logística,NORMAL
+26/09/2025,Novos Leads B2B,52,15,Marketing,NORMAL
+26/09/2025,Disponibilidade Site (%),77,99,TI,CRÍTICA
+27/09/2025,Eletrônicos (Laptops),119,80,Vendas,NORMAL
+27/09/2025,Acessórios (Cabos/Baterias),179,250,Logística,URGENTE
+27/09/2025,Linha Branca (Washing Machines),17,20,Vendas,ALERTA
+27/09/2025,Total faturado (USD),15035,15000,Financeiro,NORMAL
+27/09/2025,Suporte (Tickets),23,30,Atendimento,ALERTA
+27/09/2025,Tempo de Entrega (Horas),17,24,Logística,URGENTE
+27/09/2025,Novos Leads B2B,14,15,Marketing,ALERTA
+27/09/2025,Disponibilidade Site (%),74,99,TI,URGENTE
+28/09/2025,Eletrônicos (Laptops),76,80,Vendas,CRÍTICA
+28/09/2025,Acessórios (Cabos/Baterias),207,250,Logística,URGENTE
+28/09/2025,Linha Branca (Washing Machines),55,20,Vendas,NORMAL
+28/09/2025,Total faturado (USD),15028,15000,Financeiro,NORMAL
+28/09/2025,Suporte (Tickets),27,30,Atendimento,URGENTE
+28/09/2025,Tempo de Entrega (Horas),24,24,Logística,URGENTE
+28/09/2025,Novos Leads B2B,22,15,Marketing,NORMAL
+28/09/2025,Disponibilidade Site (%),80,99,TI,URGENTE
+29/09/2025,Eletrônicos (Laptops),70,80,Vendas,ALERTA
+29/09/2025,Acessórios (Cabos/Baterias),218,250,Logística,URGENTE
+29/09/2025,Linha Branca (Washing Machines),68,20,Vendas,NORMAL
+29/09/2025,Total faturado (USD),14153,15000,Financeiro,CRÍTICA
+29/09/2025,Suporte (Tickets),67,30,Atendimento,NORMAL
+29/09/2025,Tempo de Entrega (Horas),19,24,Logística,ALERTA
+29/09/2025,Novos Leads B2B,12,15,Marketing,CRÍTICA
+29/09/2025,Disponibilidade Site (%),132,99,TI,NORMAL
+30/09/2025,Eletrônicos (Laptops),70,80,Vendas,URGENTE
+30/09/2025,Acessórios (Cabos/Baterias),223,250,Logística,CRÍTICA
+30/09/2025,Linha Branca (Washing Machines),70,20,Vendas,NORMAL
+30/09/2025,Total faturado (USD),10672,15000,Financeiro,ALERTA
+30/09/2025,Suporte (Tickets),43,30,Atendimento,NORMAL
+30/09/2025,Tempo de Entrega (Horas),17,24,Logística,URGENTE
+30/09/2025,Novos Leads B2B,13,15,Marketing,URGENTE
+30/09/2025,Disponibilidade Site (%),79,99,TI,CRÍTICA
+01/10/2025,Eletrônicos (Laptops),109,80,Vendas,NORMAL
+01/10/2025,Acessórios (Cabos/Baterias),247,250,Logística,CRÍTICA
+01/10/2025,Linha Branca (Washing Machines),20,20,Vendas,CRÍTICA
+01/10/2025,Total faturado (USD),15004,15000,Financeiro,NORMAL
+01/10/2025,Suporte (Tickets),26,30,Atendimento,URGENTE
+01/10/2025,Tempo de Entrega (Horas),36,24,Logística,NORMAL
+01/10/2025,Novos Leads B2B,13,15,Marketing,URGENTE
+01/10/2025,Disponibilidade Site (%),98,99,TI,ALERTA
+02/10/2025,Eletrônicos (Laptops),116,80,Vendas,NORMAL
+02/10/2025,Acessórios (Cabos/Baterias),186,250,Logística,CRÍTICA
+02/10/2025,Linha Branca (Washing Machines),40,20,Vendas,NORMAL
+02/10/2025,Total faturado (USD),13519,15000,Financeiro,URGENTE
+02/10/2025,Suporte (Tickets),21,30,Atendimento,URGENTE
+02/10/2025,Tempo de Entrega (Horas),70,24,Logística,NORMAL
+02/10/2025,Novos Leads B2B,45,15,Marketing,NORMAL
+02/10/2025,Disponibilidade Site (%),121,99,TI,NORMAL
+03/10/2025,Eletrônicos (Laptops),61,80,Vendas,URGENTE
+03/10/2025,Acessórios (Cabos/Baterias),259,250,Logística,NORMAL
+03/10/2025,Linha Branca (Washing Machines),41,20,Vendas,NORMAL
+03/10/2025,Total faturado (USD),12340,15000,Financeiro,ALERTA
+03/10/2025,Suporte (Tickets),29,30,Atendimento,URGENTE
+03/10/2025,Tempo de Entrega (Horas),57,24,Logística,NORMAL
+03/10/2025,Novos Leads B2B,12,15,Marketing,URGENTE
+03/10/2025,Disponibilidade Site (%),114,99,TI,NORMAL
+04/10/2025,Eletrônicos (Laptops),58,80,Vendas,CRÍTICA
+04/10/2025,Acessórios (Cabos/Baterias),277,250,Logística,NORMAL
+04/10/2025,Linha Branca (Washing Machines),15,20,Vendas,URGENTE
+04/10/2025,Total faturado (USD),10678,15000,Financeiro,URGENTE
+04/10/2025,Suporte (Tickets),23,30,Atendimento,URGENTE
+04/10/2025,Tempo de Entrega (Horas),23,24,Logística,CRÍTICA
+04/10/2025,Novos Leads B2B,11,15,Marketing,URGENTE
+04/10/2025,Disponibilidade Site (%),73,99,TI,ALERTA
+05/10/2025,Eletrônicos (Laptops),76,80,Vendas,ALERTA
+05/10/2025,Acessórios (Cabos/Baterias),181,250,Logística,URGENTE
+05/10/2025,Linha Branca (Washing Machines),36,20,Vendas,NORMAL
+05/10/2025,Total faturado (USD),14640,15000,Financeiro,URGENTE
+05/10/2025,Suporte (Tickets),31,30,Atendimento,NORMAL
+05/10/2025,Tempo de Entrega (Horas),21,24,Logística,URGENTE
+05/10/2025,Novos Leads B2B,12,15,Marketing,ALERTA
+05/10/2025,Disponibilidade Site (%),145,99,TI,NORMAL
+06/10/2025,Eletrônicos (Laptops),89,80,Vendas,NORMAL
+06/10/2025,Acessórios (Cabos/Baterias),209,250,Logística,CRÍTICA
+06/10/2025,Linha Branca (Washing Machines),44,20,Vendas,NORMAL
+06/10/2025,Total faturado (USD),15043,15000,Financeiro,NORMAL
+06/10/2025,Suporte (Tickets),24,30,Atendimento,ALERTA
+06/10/2025,Tempo de Entrega (Horas),20,24,Logística,URGENTE
+06/10/2025,Novos Leads B2B,13,15,Marketing,ALERTA
+06/10/2025,Disponibilidade Site (%),141,99,TI,NORMAL
+07/10/2025,Eletrônicos (Laptops),76,80,Vendas,ALERTA
+07/10/2025,Acessórios (Cabos/Baterias),255,250,Logística,NORMAL
+07/10/2025,Linha Branca (Washing Machines),35,20,Vendas,NORMAL
+07/10/2025,Total faturado (USD),15032,15000,Financeiro,NORMAL
+07/10/2025,Suporte (Tickets),78,30,Atendimento,NORMAL
+07/10/2025,Tempo de Entrega (Horas),33,24,Logística,NORMAL
+07/10/2025,Novos Leads B2B,13,15,Marketing,URGENTE
+07/10/2025,Disponibilidade Site (%),117,99,TI,NORMAL
+08/10/2025,Eletrônicos (Laptops),117,80,Vendas,NORMAL
+08/10/2025,Acessórios (Cabos/Baterias),236,250,Logística,URGENTE
+08/10/2025,Linha Branca (Washing Machines),18,20,Vendas,URGENTE
+08/10/2025,Total faturado (USD),15029,15000,Financeiro,NORMAL
+08/10/2025,Suporte (Tickets),28,30,Atendimento,URGENTE
+08/10/2025,Tempo de Entrega (Horas),41,24,Logística,NORMAL
+08/10/2025,Novos Leads B2B,12,15,Marketing,URGENTE
+08/10/2025,Disponibilidade Site (%),121,99,TI,NORMAL
+09/10/2025,Eletrônicos (Laptops),61,80,Vendas,URGENTE
+09/10/2025,Acessórios (Cabos/Baterias),204,250,Logística,URGENTE
+09/10/2025,Linha Branca (Washing Machines),34,20,Vendas,NORMAL
+09/10/2025,Total faturado (USD),15004,15000,Financeiro,NORMAL
+09/10/2025,Suporte (Tickets),25,30,Atendimento,ALERTA
+09/10/2025,Tempo de Entrega (Horas),29,24,Logística,NORMAL
+09/10/2025,Novos Leads B2B,14,15,Marketing,URGENTE
+09/10/2025,Disponibilidade Site (%),133,99,TI,NORMAL
+10/10/2025,Eletrônicos (Laptops),79,80,Vendas,URGENTE
+10/10/2025,Acessórios (Cabos/Baterias),232,250,Logística,URGENTE
+10/10/2025,Linha Branca (Washing Machines),55,20,Vendas,NORMAL
+10/10/2025,Total faturado (USD),12119,15000,Financeiro,URGENTE
+10/10/2025,Suporte (Tickets),29,30,Atendimento,ALERTA
+10/10/2025,Tempo de Entrega (Horas),33,24,Logística,NORMAL
+10/10/2025,Novos Leads B2B,15,15,Marketing,URGENTE
+10/10/2025,Disponibilidade Site (%),147,99,TI,NORMAL
+11/10/2025,Eletrônicos (Laptops),121,80,Vendas,NORMAL
+11/10/2025,Acessórios (Cabos/Baterias),250,250,Logística,CRÍTICA
+11/10/2025,Linha Branca (Washing Machines),14,20,Vendas,URGENTE
+11/10/2025,Total faturado (USD),15004,15000,Financeiro,NORMAL
+11/10/2025,Suporte (Tickets),69,30,Atendimento,NORMAL
+11/10/2025,Tempo de Entrega (Horas),49,24,Logística,NORMAL
+11/10/2025,Novos Leads B2B,50,15,Marketing,NORMAL
+11/10/2025,Disponibilidade Site (%),87,99,TI,URGENTE
+12/10/2025,Eletrônicos (Laptops),56,80,Vendas,URGENTE
+12/10/2025,Acessórios (Cabos/Baterias),212,250,Logística,ALERTA
+12/10/2025,Linha Branca (Washing Machines),53,20,Vendas,NORMAL
+12/10/2025,Total faturado (USD),13965,15000,Financeiro,CRÍTICA
+12/10/2025,Suporte (Tickets),72,30,Atendimento,NORMAL
+12/10/2025,Tempo de Entrega (Horas),23,24,Logística,CRÍTICA
+12/10/2025,Novos Leads B2B,15,15,Marketing,URGENTE
+12/10/2025,Disponibilidade Site (%),79,99,TI,URGENTE
+13/10/2025,Eletrônicos (Laptops),68,80,Vendas,ALERTA
+13/10/2025,Acessórios (Cabos/Baterias),259,250,Logística,NORMAL
+13/10/2025,Linha Branca (Washing Machines),25,20,Vendas,NORMAL
+13/10/2025,Total faturado (USD),15042,15000,Financeiro,NORMAL
+13/10/2025,Suporte (Tickets),68,30,Atendimento,NORMAL
+13/10/2025,Tempo de Entrega (Horas),17,24,Logística,URGENTE
+13/10/2025,Novos Leads B2B,13,15,Marketing,URGENTE
+13/10/2025,Disponibilidade Site (%),75,99,TI,URGENTE
+14/10/2025,Eletrônicos (Laptops),77,80,Vendas,ALERTA
+14/10/2025,Acessórios (Cabos/Baterias),279,250,Logística,NORMAL
+14/10/2025,Linha Branca (Washing Machines),65,20,Vendas,NORMAL
+14/10/2025,Total faturado (USD),12606,15000,Financeiro,ALERTA
+14/10/2025,Suporte (Tickets),22,30,Atendimento,URGENTE
+14/10/2025,Tempo de Entrega (Horas),36,24,Logística,NORMAL
+14/10/2025,Novos Leads B2B,51,15,Marketing,NORMAL
+14/10/2025,Disponibilidade Site (%),108,99,TI,NORMAL
+15/10/2025,Eletrônicos (Laptops),97,80,Vendas,NORMAL
+15/10/2025,Acessórios (Cabos/Baterias),200,250,Logística,URGENTE
+15/10/2025,Linha Branca (Washing Machines),15,20,Vendas,ALERTA
+15/10/2025,Total faturado (USD),15014,15000,Financeiro,NORMAL
+15/10/2025,Suporte (Tickets),69,30,Atendimento,NORMAL
+15/10/2025,Tempo de Entrega (Horas),20,24,Logística,URGENTE
+15/10/2025,Novos Leads B2B,65,15,Marketing,NORMAL
+15/10/2025,Disponibilidade Site (%),83,99,TI,CRÍTICA
+16/10/2025,Eletrônicos (Laptops),72,80,Vendas,ALERTA
+16/10/2025,Acessórios (Cabos/Baterias),232,250,Logística,CRÍTICA
+16/10/2025,Linha Branca (Washing Machines),62,20,Vendas,NORMAL
+16/10/2025,Total faturado (USD),13766,15000,Financeiro,ALERTA
+16/10/2025,Suporte (Tickets),27,30,Atendimento,CRÍTICA
+16/10/2025,Tempo de Entrega (Horas),21,24,Logística,ALERTA
+16/10/2025,Novos Leads B2B,26,15,Marketing,NORMAL
+16/10/2025,Disponibilidade Site (%),143,99,TI,NORMAL
+17/10/2025,Eletrônicos (Laptops),66,80,Vendas,URGENTE
+17/10/2025,Acessórios (Cabos/Baterias),194,250,Logística,URGENTE
+17/10/2025,Linha Branca (Washing Machines),15,20,Vendas,CRÍTICA
+17/10/2025,Total faturado (USD),15037,15000,Financeiro,NORMAL
+17/10/2025,Suporte (Tickets),26,30,Atendimento,ALERTA
+17/10/2025,Tempo de Entrega (Horas),17,24,Logística,ALERTA
+17/10/2025,Novos Leads B2B,11,15,Marketing,URGENTE
+17/10/2025,Disponibilidade Site (%),71,99,TI,URGENTE
+18/10/2025,Eletrônicos (Laptops),63,80,Vendas,ALERTA
+18/10/2025,Acessórios (Cabos/Baterias),270,250,Logística,NORMAL
+18/10/2025,Linha Branca (Washing Machines),24,20,Vendas,NORMAL
+18/10/2025,Total faturado (USD),14652,15000,Financeiro,ALERTA
+18/10/2025,Suporte (Tickets),46,30,Atendimento,NORMAL
+18/10/2025,Tempo de Entrega (Horas),23,24,Logística,ALERTA
+18/10/2025,Novos Leads B2B,15,15,Marketing,CRÍTICA
+18/10/2025,Disponibilidade Site (%),100,99,TI,NORMAL
+19/10/2025,Eletrônicos (Laptops),60,80,Vendas,URGENTE
+19/10/2025,Acessórios (Cabos/Baterias),245,250,Logística,URGENTE
+19/10/2025,Linha Branca (Washing Machines),18,20,Vendas,URGENTE
+19/10/2025,Total faturado (USD),15044,15000,Financeiro,NORMAL
+19/10/2025,Suporte (Tickets),43,30,Atendimento,NORMAL
+19/10/2025,Tempo de Entrega (Horas),21,24,Logística,ALERTA
+19/10/2025,Novos Leads B2B,14,15,Marketing,URGENTE
+19/10/2025,Disponibilidade Site (%),73,99,TI,ALERTA
+20/10/2025,Eletrônicos (Laptops),81,80,Vendas,NORMAL
+20/10/2025,Acessórios (Cabos/Baterias),189,250,Logística,ALERTA
+20/10/2025,Linha Branca (Washing Machines),16,20,Vendas,CRÍTICA
+20/10/2025,Total faturado (USD),13317,15000,Financeiro,CRÍTICA
+20/10/2025,Suporte (Tickets),50,30,Atendimento,NORMAL
+20/10/2025,Tempo de Entrega (Horas),71,24,Logística,NORMAL
+20/10/2025,Novos Leads B2B,13,15,Marketing,URGENTE
+20/10/2025,Disponibilidade Site (%),82,99,TI,CRÍTICA
+21/10/2025,Eletrônicos (Laptops),69,80,Vendas,ALERTA
+21/10/2025,Acessórios (Cabos/Baterias),188,250,Logística,URGENTE
+21/10/2025,Linha Branca (Washing Machines),19,20,Vendas,URGENTE
+21/10/2025,Total faturado (USD),13038,15000,Financeiro,URGENTE
+21/10/2025,Suporte (Tickets),64,30,Atendimento,NORMAL
+21/10/2025,Tempo de Entrega (Horas),21,24,Logística,ALERTA
+21/10/2025,Novos Leads B2B,14,15,Marketing,ALERTA
+21/10/2025,Disponibilidade Site (%),74,99,TI,URGENTE
+22/10/2025,Eletrônicos (Laptops),121,80,Vendas,NORMAL
+22/10/2025,Acessórios (Cabos/Baterias),297,250,Logística,NORMAL
+22/10/2025,Linha Branca (Washing Machines),18,20,Vendas,URGENTE
+22/10/2025,Total faturado (USD),13064,15000,Financeiro,ALERTA
+22/10/2025,Suporte (Tickets),24,30,Atendimento,URGENTE
+22/10/2025,Tempo de Entrega (Horas),51,24,Logística,NORMAL
+22/10/2025,Novos Leads B2B,13,15,Marketing,CRÍTICA
+22/10/2025,Disponibilidade Site (%),94,99,TI,CRÍTICA
+23/10/2025,Eletrônicos (Laptops),63,80,Vendas,CRÍTICA
+23/10/2025,Acessórios (Cabos/Baterias),224,250,Logística,CRÍTICA
+23/10/2025,Linha Branca (Washing Machines),16,20,Vendas,URGENTE
+23/10/2025,Total faturado (USD),13536,15000,Financeiro,URGENTE
+23/10/2025,Suporte (Tickets),25,30,Atendimento,URGENTE
+23/10/2025,Tempo de Entrega (Horas),17,24,Logística,URGENTE
+23/10/2025,Novos Leads B2B,23,15,Marketing,NORMAL
+23/10/2025,Disponibilidade Site (%),117,99,TI,NORMAL
+24/10/2025,Eletrônicos (Laptops),78,80,Vendas,CRÍTICA
+24/10/2025,Acessórios (Cabos/Baterias),212,250,Logística,URGENTE
+24/10/2025,Linha Branca (Washing Machines),14,20,Vendas,ALERTA
+24/10/2025,Total faturado (USD),14696,15000,Financeiro,URGENTE
+24/10/2025,Suporte (Tickets),27,30,Atendimento,ALERTA
+24/10/2025,Tempo de Entrega (Horas),18,24,Logística,URGENTE
+24/10/2025,Novos Leads B2B,13,15,Marketing,ALERTA
+24/10/2025,Disponibilidade Site (%),99,99,TI,ALERTA
+25/10/2025,Eletrônicos (Laptops),58,80,Vendas,ALERTA
+25/10/2025,Acessórios (Cabos/Baterias),199,250,Logística,URGENTE
+25/10/2025,Linha Branca (Washing Machines),14,20,Vendas,URGENTE
+25/10/2025,Total faturado (USD),14627,15000,Financeiro,CRÍTICA
+25/10/2025,Suporte (Tickets),70,30,Atendimento,NORMAL
+25/10/2025,Tempo de Entrega (Horas),22,24,Logística,ALERTA
+25/10/2025,Novos Leads B2B,27,15,Marketing,NORMAL
+25/10/2025,Disponibilidade Site (%),107,99,TI,NORMAL
+26/10/2025,Eletrônicos (Laptops),113,80,Vendas,NORMAL
+26/10/2025,Acessórios (Cabos/Baterias),284,250,Logística,NORMAL
+26/10/2025,Linha Branca (Washing Machines),20,20,Vendas,ALERTA
+26/10/2025,Total faturado (USD),15045,15000,Financeiro,NORMAL
+26/10/2025,Suporte (Tickets),35,30,Atendimento,NORMAL
+26/10/2025,Tempo de Entrega (Horas),17,24,Logística,URGENTE
+26/10/2025,Novos Leads B2B,40,15,Marketing,NORMAL
+26/10/2025,Disponibilidade Site (%),86,99,TI,URGENTE
+27/10/2025,Eletrônicos (Laptops),119,80,Vendas,NORMAL
+27/10/2025,Acessórios (Cabos/Baterias),175,250,Logística,ALERTA
+27/10/2025,Linha Branca (Washing Machines),60,20,Vendas,NORMAL
+27/10/2025,Total faturado (USD),15034,15000,Financeiro,NORMAL
+27/10/2025,Suporte (Tickets),58,30,Atendimento,NORMAL
+27/10/2025,Tempo de Entrega (Horas),59,24,Logística,NORMAL
+27/10/2025,Novos Leads B2B,11,15,Marketing,CRÍTICA
+27/10/2025,Disponibilidade Site (%),83,99,TI,ALERTA
+28/10/2025,Eletrônicos (Laptops),104,80,Vendas,NORMAL
+28/10/2025,Acessórios (Cabos/Baterias),245,250,Logística,ALERTA
+28/10/2025,Linha Branca (Washing Machines),34,20,Vendas,NORMAL
+28/10/2025,Total faturado (USD),12243,15000,Financeiro,CRÍTICA
+28/10/2025,Suporte (Tickets),24,30,Atendimento,URGENTE
+28/10/2025,Tempo de Entrega (Horas),64,24,Logística,NORMAL
+28/10/2025,Novos Leads B2B,12,15,Marketing,URGENTE
+28/10/2025,Disponibilidade Site (%),89,99,TI,ALERTA
+29/10/2025,Eletrônicos (Laptops),79,80,Vendas,URGENTE
+29/10/2025,Acessórios (Cabos/Baterias),260,250,Logística,NORMAL
+29/10/2025,Linha Branca (Washing Machines),14,20,Vendas,CRÍTICA
+29/10/2025,Total faturado (USD),15045,15000,Financeiro,NORMAL
+29/10/2025,Suporte (Tickets),22,30,Atendimento,URGENTE
+29/10/2025,Tempo de Entrega (Horas),17,24,Logística,URGENTE
+29/10/2025,Novos Leads B2B,11,15,Marketing,ALERTA
+29/10/2025,Disponibilidade Site (%),80,99,TI,URGENTE
+30/10/2025,Eletrônicos (Laptops),121,80,Vendas,NORMAL
+30/10/2025,Acessórios (Cabos/Baterias),182,250,Logística,URGENTE
+30/10/2025,Linha Branca (Washing Machines),18,20,Vendas,URGENTE
+30/10/2025,Total faturado (USD),15033,15000,Financeiro,NORMAL
+30/10/2025,Suporte (Tickets),28,30,Atendimento,URGENTE
+30/10/2025,Tempo de Entrega (Horas),24,24,Logística,URGENTE
+30/10/2025,Novos Leads B2B,15,15,Marketing,URGENTE
+30/10/2025,Disponibilidade Site (%),71,99,TI,ALERTA
+31/10/2025,Eletrônicos (Laptops),120,80,Vendas,NORMAL
+31/10/2025,Acessórios (Cabos/Baterias),213,250,Logística,URGENTE
+31/10/2025,Linha Branca (Washing Machines),17,20,Vendas,URGENTE
+31/10/2025,Total faturado (USD),12426,15000,Financeiro,URGENTE
+31/10/2025,Suporte (Tickets),36,30,Atendimento,NORMAL
+31/10/2025,Tempo de Entrega (Horas),23,24,Logística,URGENTE
+31/10/2025,Novos Leads B2B,11,15,Marketing,CRÍTICA
+31/10/2025,Disponibilidade Site (%),93,99,TI,URGENTE
+01/11/2025,Eletrônicos (Laptops),74,80,Vendas,ALERTA
+01/11/2025,Acessórios (Cabos/Baterias),187,250,Logística,URGENTE
+01/11/2025,Linha Branca (Washing Machines),30,20,Vendas,NORMAL
+01/11/2025,Total faturado (USD),15011,15000,Financeiro,NORMAL
+01/11/2025,Suporte (Tickets),66,30,Atendimento,NORMAL
+01/11/2025,Tempo de Entrega (Horas),31,24,Logística,NORMAL
+01/11/2025,Novos Leads B2B,11,15,Marketing,URGENTE
+01/11/2025,Disponibilidade Site (%),71,99,TI,CRÍTICA
+02/11/2025,Eletrônicos (Laptops),81,80,Vendas,NORMAL
+02/11/2025,Acessórios (Cabos/Baterias),298,250,Logística,NORMAL
+02/11/2025,Linha Branca (Washing Machines),14,20,Vendas,CRÍTICA
+02/11/2025,Total faturado (USD),15016,15000,Financeiro,NORMAL
+02/11/2025,Suporte (Tickets),26,30,Atendimento,CRÍTICA
+02/11/2025,Tempo de Entrega (Horas),17,24,Logística,URGENTE
+02/11/2025,Novos Leads B2B,24,15,Marketing,NORMAL
+02/11/2025,Disponibilidade Site (%),122,99,TI,NORMAL
+03/11/2025,Eletrônicos (Laptops),73,80,Vendas,ALERTA
+03/11/2025,Acessórios (Cabos/Baterias),245,250,Logística,CRÍTICA
+03/11/2025,Linha Branca (Washing Machines),20,20,Vendas,ALERTA
+03/11/2025,Total faturado (USD),12314,15000,Financeiro,ALERTA
+03/11/2025,Suporte (Tickets),64,30,Atendimento,NORMAL
+03/11/2025,Tempo de Entrega (Horas),18,24,Logística,URGENTE
+03/11/2025,Novos Leads B2B,11,15,Marketing,ALERTA
+03/11/2025,Disponibilidade Site (%),115,99,TI,NORMAL
+04/11/2025,Eletrônicos (Laptops),69,80,Vendas,URGENTE
+04/11/2025,Acessórios (Cabos/Baterias),253,250,Logística,NORMAL
+04/11/2025,Linha Branca (Washing Machines),28,20,Vendas,NORMAL
+04/11/2025,Total faturado (USD),15039,15000,Financeiro,NORMAL
+04/11/2025,Suporte (Tickets),24,30,Atendimento,ALERTA
+04/11/2025,Tempo de Entrega (Horas),42,24,Logística,NORMAL
+04/11/2025,Novos Leads B2B,11,15,Marketing,URGENTE
+04/11/2025,Disponibilidade Site (%),84,99,TI,ALERTA
+05/11/2025,Eletrônicos (Laptops),56,80,Vendas,URGENTE
+05/11/2025,Acessórios (Cabos/Baterias),280,250,Logística,NORMAL
+05/11/2025,Linha Branca (Washing Machines),15,20,Vendas,CRÍTICA
+05/11/2025,Total faturado (USD),15025,15000,Financeiro,NORMAL
+05/11/2025,Suporte (Tickets),32,30,Atendimento,NORMAL
+05/11/2025,Tempo de Entrega (Horas),18,24,Logística,CRÍTICA
+05/11/2025,Novos Leads B2B,27,15,Marketing,NORMAL
+05/11/2025,Disponibilidade Site (%),82,99,TI,ALERTA
+06/11/2025,Eletrônicos (Laptops),70,80,Vendas,CRÍTICA
+06/11/2025,Acessórios (Cabos/Baterias),214,250,Logística,ALERTA
+06/11/2025,Linha Branca (Washing Machines),17,20,Vendas,URGENTE
+06/11/2025,Total faturado (USD),12628,15000,Financeiro,CRÍTICA
+06/11/2025,Suporte (Tickets),26,30,Atendimento,CRÍTICA
+06/11/2025,Tempo de Entrega (Horas),19,24,Logística,CRÍTICA
+06/11/2025,Novos Leads B2B,14,15,Marketing,CRÍTICA
+06/11/2025,Disponibilidade Site (%),73,99,TI,ALERTA
+07/11/2025,Eletrônicos (Laptops),106,80,Vendas,NORMAL
+07/11/2025,Acessórios (Cabos/Baterias),250,250,Logística,CRÍTICA
+07/11/2025,Linha Branca (Washing Machines),15,20,Vendas,URGENTE
+07/11/2025,Total faturado (USD),15015,15000,Financeiro,NORMAL
+07/11/2025,Suporte (Tickets),30,30,Atendimento,URGENTE
+07/11/2025,Tempo de Entrega (Horas),17,24,Logística,URGENTE
+07/11/2025,Novos Leads B2B,25,15,Marketing,NORMAL
+07/11/2025,Disponibilidade Site (%),86,99,TI,URGENTE
+08/11/2025,Eletrônicos (Laptops),59,80,Vendas,URGENTE
+08/11/2025,Acessórios (Cabos/Baterias),294,250,Logística,NORMAL
+08/11/2025,Linha Branca (Washing Machines),16,20,Vendas,ALERTA
+08/11/2025,Total faturado (USD),10548,15000,Financeiro,CRÍTICA
+08/11/2025,Suporte (Tickets),58,30,Atendimento,NORMAL
+08/11/2025,Tempo de Entrega (Horas),61,24,Logística,NORMAL
+08/11/2025,Novos Leads B2B,39,15,Marketing,NORMAL
+08/11/2025,Disponibilidade Site (%),73,99,TI,ALERTA
+09/11/2025,Eletrônicos (Laptops),92,80,Vendas,NORMAL
+09/11/2025,Acessórios (Cabos/Baterias),281,250,Logística,NORMAL
+09/11/2025,Linha Branca (Washing Machines),29,20,Vendas,NORMAL
+09/11/2025,Total faturado (USD),13691,15000,Financeiro,URGENTE
+09/11/2025,Suporte (Tickets),30,30,Atendimento,ALERTA
+09/11/2025,Tempo de Entrega (Horas),17,24,Logística,URGENTE
+09/11/2025,Novos Leads B2B,14,15,Marketing,CRÍTICA
+09/11/2025,Disponibilidade Site (%),87,99,TI,CRÍTICA
+10/11/2025,Eletrônicos (Laptops),68,80,Vendas,CRÍTICA
+10/11/2025,Acessórios (Cabos/Baterias),284,250,Logística,NORMAL
+10/11/2025,Linha Branca (Washing Machines),24,20,Vendas,NORMAL
+10/11/2025,Total faturado (USD),13439,15000,Financeiro,CRÍTICA
+10/11/2025,Suporte (Tickets),27,30,Atendimento,URGENTE
+10/11/2025,Tempo de Entrega (Horas),18,24,Logística,CRÍTICA
+10/11/2025,Novos Leads B2B,12,15,Marketing,ALERTA
+10/11/2025,Disponibilidade Site (%),75,99,TI,ALERTA
+11/11/2025,Eletrônicos (Laptops),80,80,Vendas,URGENTE
+11/11/2025,Acessórios (Cabos/Baterias),178,250,Logística,CRÍTICA
+11/11/2025,Linha Branca (Washing Machines),18,20,Vendas,URGENTE
+11/11/2025,Total faturado (USD),11888,15000,Financeiro,URGENTE
+11/11/2025,Suporte (Tickets),39,30,Atendimento,NORMAL
+11/11/2025,Tempo de Entrega (Horas),17,24,Logística,CRÍTICA
+11/11/2025,Novos Leads B2B,64,15,Marketing,NORMAL
+11/11/2025,Disponibilidade Site (%),144,99,TI,NORMAL
+12/11/2025,Eletrônicos (Laptops),78,80,Vendas,CRÍTICA
+12/11/2025,Acessórios (Cabos/Baterias),182,250,Logística,URGENTE
+12/11/2025,Linha Branca (Washing Machines),55,20,Vendas,NORMAL
+12/11/2025,Total faturado (USD),12238,15000,Financeiro,ALERTA
+12/11/2025,Suporte (Tickets),23,30,Atendimento,URGENTE
+12/11/2025,Tempo de Entrega (Horas),47,24,Logística,NORMAL
+12/11/2025,Novos Leads B2B,11,15,Marketing,ALERTA
+12/11/2025,Disponibilidade Site (%),84,99,TI,ALERTA
+13/11/2025,Eletrônicos (Laptops),56,80,Vendas,URGENTE
+13/11/2025,Acessórios (Cabos/Baterias),187,250,Logística,URGENTE
+13/11/2025,Linha Branca (Washing Machines),15,20,Vendas,ALERTA
+13/11/2025,Total faturado (USD),15012,15000,Financeiro,NORMAL
+13/11/2025,Suporte (Tickets),45,30,Atendimento,NORMAL
+13/11/2025,Tempo de Entrega (Horas),31,24,Logística,NORMAL
+13/11/2025,Novos Leads B2B,53,15,Marketing,NORMAL
+13/11/2025,Disponibilidade Site (%),95,99,TI,URGENTE
+14/11/2025,Eletrônicos (Laptops),86,80,Vendas,NORMAL
+14/11/2025,Acessórios (Cabos/Baterias),183,250,Logística,URGENTE
+14/11/2025,Linha Branca (Washing Machines),63,20,Vendas,NORMAL
+14/11/2025,Total faturado (USD),15035,15000,Financeiro,NORMAL
+14/11/2025,Suporte (Tickets),28,30,Atendimento,ALERTA
+14/11/2025,Tempo de Entrega (Horas),21,24,Logística,ALERTA
+14/11/2025,Novos Leads B2B,11,15,Marketing,ALERTA
+14/11/2025,Disponibilidade Site (%),106,99,TI,NORMAL
+15/11/2025,Eletrônicos (Laptops),129,80,Vendas,NORMAL
+15/11/2025,Acessórios (Cabos/Baterias),254,250,Logística,NORMAL
+15/11/2025,Linha Branca (Washing Machines),49,20,Vendas,NORMAL
+15/11/2025,Total faturado (USD),13933,15000,Financeiro,URGENTE
+15/11/2025,Suporte (Tickets),24,30,Atendimento,URGENTE
+15/11/2025,Tempo de Entrega (Horas),53,24,Logística,NORMAL
+15/11/2025,Novos Leads B2B,14,15,Marketing,URGENTE
+15/11/2025,Disponibilidade Site (%),107,99,TI,NORMAL
+16/11/2025,Eletrônicos (Laptops),65,80,Vendas,URGENTE
+16/11/2025,Acessórios (Cabos/Baterias),258,250,Logística,NORMAL
+16/11/2025,Linha Branca (Washing Machines),16,20,Vendas,URGENTE
+16/11/2025,Total faturado (USD),15019,15000,Financeiro,NORMAL
+16/11/2025,Suporte (Tickets),55,30,Atendimento,NORMAL
+16/11/2025,Tempo de Entrega (Horas),61,24,Logística,NORMAL
+16/11/2025,Novos Leads B2B,11,15,Marketing,ALERTA
+16/11/2025,Disponibilidade Site (%),139,99,TI,NORMAL
+17/11/2025,Eletrônicos (Laptops),67,80,Vendas,URGENTE
+17/11/2025,Acessórios (Cabos/Baterias),175,250,Logística,ALERTA
+17/11/2025,Linha Branca (Washing Machines),16,20,Vendas,URGENTE
+17/11/2025,Total faturado (USD),15023,15000,Financeiro,NORMAL
+17/11/2025,Suporte (Tickets),25,30,Atendimento,URGENTE
+17/11/2025,Tempo de Entrega (Horas),18,24,Logística,URGENTE
+17/11/2025,Novos Leads B2B,12,15,Marketing,CRÍTICA
+17/11/2025,Disponibilidade Site (%),139,99,TI,NORMAL
+18/11/2025,Eletrônicos (Laptops),74,80,Vendas,URGENTE
+18/11/2025,Acessórios (Cabos/Baterias),275,250,Logística,NORMAL
+18/11/2025,Linha Branca (Washing Machines),63,20,Vendas,NORMAL
+18/11/2025,Total faturado (USD),12705,15000,Financeiro,ALERTA
+18/11/2025,Suporte (Tickets),27,30,Atendimento,CRÍTICA
+18/11/2025,Tempo de Entrega (Horas),18,24,Logística,URGENTE
+18/11/2025,Novos Leads B2B,13,15,Marketing,URGENTE
+18/11/2025,Disponibilidade Site (%),92,99,TI,ALERTA
+19/11/2025,Eletrônicos (Laptops),59,80,Vendas,CRÍTICA
+19/11/2025,Acessórios (Cabos/Baterias),256,250,Logística,NORMAL
+19/11/2025,Linha Branca (Washing Machines),21,20,Vendas,NORMAL
+19/11/2025,Total faturado (USD),11639,15000,Financeiro,ALERTA
+19/11/2025,Suporte (Tickets),26,30,Atendimento,URGENTE
+19/11/2025,Tempo de Entrega (Horas),22,24,Logística,URGENTE
+19/11/2025,Novos Leads B2B,13,15,Marketing,ALERTA
+19/11/2025,Disponibilidade Site (%),88,99,TI,URGENTE
+20/11/2025,Eletrônicos (Laptops),128,80,Vendas,NORMAL
+20/11/2025,Acessórios (Cabos/Baterias),283,250,Logística,NORMAL
+20/11/2025,Linha Branca (Washing Machines),14,20,Vendas,ALERTA
+20/11/2025,Total faturado (USD),14831,15000,Financeiro,URGENTE
+20/11/2025,Suporte (Tickets),52,30,Atendimento,NORMAL
+20/11/2025,Tempo de Entrega (Horas),31,24,Logística,NORMAL
+20/11/2025,Novos Leads B2B,14,15,Marketing,ALERTA
+20/11/2025,Disponibilidade Site (%),76,99,TI,ALERTA
+21/11/2025,Eletrônicos (Laptops),103,80,Vendas,NORMAL
+21/11/2025,Acessórios (Cabos/Baterias),257,250,Logística,NORMAL
+21/11/2025,Linha Branca (Washing Machines),18,20,Vendas,CRÍTICA
+21/11/2025,Total faturado (USD),10554,15000,Financeiro,URGENTE
+21/11/2025,Suporte (Tickets),21,30,Atendimento,CRÍTICA
+21/11/2025,Tempo de Entrega (Horas),21,24,Logística,URGENTE
+21/11/2025,Novos Leads B2B,13,15,Marketing,URGENTE
+21/11/2025,Disponibilidade Site (%),110,99,TI,NORMAL
+22/11/2025,Eletrônicos (Laptops),69,80,Vendas,CRÍTICA
+22/11/2025,Acessórios (Cabos/Baterias),297,250,Logística,NORMAL
+22/11/2025,Linha Branca (Washing Machines),39,20,Vendas,NORMAL
+22/11/2025,Total faturado (USD),13870,15000,Financeiro,URGENTE
+22/11/2025,Suporte (Tickets),57,30,Atendimento,NORMAL
+22/11/2025,Tempo de Entrega (Horas),39,24,Logística,NORMAL
+22/11/2025,Novos Leads B2B,56,15,Marketing,NORMAL
+22/11/2025,Disponibilidade Site (%),91,99,TI,CRÍTICA
+23/11/2025,Eletrônicos (Laptops),105,80,Vendas,NORMAL
+23/11/2025,Acessórios (Cabos/Baterias),263,250,Logística,NORMAL
+23/11/2025,Linha Branca (Washing Machines),17,20,Vendas,ALERTA
+23/11/2025,Total faturado (USD),13503,15000,Financeiro,URGENTE
+23/11/2025,Suporte (Tickets),71,30,Atendimento,NORMAL
+23/11/2025,Tempo de Entrega (Horas),20,24,Logística,URGENTE
+23/11/2025,Novos Leads B2B,14,15,Marketing,URGENTE
+23/11/2025,Disponibilidade Site (%),85,99,TI,URGENTE
+24/11/2025,Eletrônicos (Laptops),56,80,Vendas,URGENTE
+24/11/2025,Acessórios (Cabos/Baterias),250,250,Logística,ALERTA
+24/11/2025,Linha Branca (Washing Machines),38,20,Vendas,NORMAL
+24/11/2025,Total faturado (USD),14504,15000,Financeiro,ALERTA
+24/11/2025,Suporte (Tickets),26,30,Atendimento,URGENTE
+24/11/2025,Tempo de Entrega (Horas),23,24,Logística,URGENTE
+24/11/2025,Novos Leads B2B,31,15,Marketing,NORMAL
+24/11/2025,Disponibilidade Site (%),89,99,TI,URGENTE
+25/11/2025,Eletrônicos (Laptops),66,80,Vendas,URGENTE
+25/11/2025,Acessórios (Cabos/Baterias),253,250,Logística,NORMAL
+25/11/2025,Linha Branca (Washing Machines),69,20,Vendas,NORMAL
+25/11/2025,Total faturado (USD),15017,15000,Financeiro,NORMAL
+25/11/2025,Suporte (Tickets),34,30,Atendimento,NORMAL
+25/11/2025,Tempo de Entrega (Horas),22,24,Logística,ALERTA
+25/11/2025,Novos Leads B2B,16,15,Marketing,NORMAL
+25/11/2025,Disponibilidade Site (%),76,99,TI,ALERTA
+26/11/2025,Eletrônicos (Laptops),108,80,Vendas,NORMAL
+26/11/2025,Acessórios (Cabos/Baterias),298,250,Logística,NORMAL
+26/11/2025,Linha Branca (Washing Machines),20,20,Vendas,CRÍTICA
+26/11/2025,Total faturado (USD),14860,15000,Financeiro,URGENTE
+26/11/2025,Suporte (Tickets),80,30,Atendimento,NORMAL
+26/11/2025,Tempo de Entrega (Horas),19,24,Logística,ALERTA
+26/11/2025,Novos Leads B2B,11,15,Marketing,URGENTE
+26/11/2025,Disponibilidade Site (%),95,99,TI,URGENTE
+27/11/2025,Eletrônicos (Laptops),68,80,Vendas,URGENTE
+27/11/2025,Acessórios (Cabos/Baterias),214,250,Logística,URGENTE
+27/11/2025,Linha Branca (Washing Machines),15,20,Vendas,URGENTE
+27/11/2025,Total faturado (USD),15011,15000,Financeiro,NORMAL
+27/11/2025,Suporte (Tickets),39,30,Atendimento,NORMAL
+27/11/2025,Tempo de Entrega (Horas),17,24,Logística,URGENTE
+27/11/2025,Novos Leads B2B,50,15,Marketing,NORMAL
+27/11/2025,Disponibilidade Site (%),88,99,TI,URGENTE
+28/11/2025,Eletrônicos (Laptops),57,80,Vendas,URGENTE
+28/11/2025,Acessórios (Cabos/Baterias),239,250,Logística,URGENTE
+28/11/2025,Linha Branca (Washing Machines),20,20,Vendas,URGENTE
+28/11/2025,Total faturado (USD),14174,15000,Financeiro,URGENTE
+28/11/2025,Suporte (Tickets),51,30,Atendimento,NORMAL
+28/11/2025,Tempo de Entrega (Horas),56,24,Logística,NORMAL
+28/11/2025,Novos Leads B2B,12,15,Marketing,URGENTE
+28/11/2025,Disponibilidade Site (%),85,99,TI,URGENTE
+29/11/2025,Eletrônicos (Laptops),68,80,Vendas,CRÍTICA
+29/11/2025,Acessórios (Cabos/Baterias),250,250,Logística,ALERTA
+29/11/2025,Linha Branca (Washing Machines),17,20,Vendas,URGENTE
+29/11/2025,Total faturado (USD),13147,15000,Financeiro,URGENTE
+29/11/2025,Suporte (Tickets),30,30,Atendimento,URGENTE
+29/11/2025,Tempo de Entrega (Horas),63,24,Logística,NORMAL
+29/11/2025,Novos Leads B2B,24,15,Marketing,NORMAL
+29/11/2025,Disponibilidade Site (%),78,99,TI,CRÍTICA
+30/11/2025,Eletrônicos (Laptops),99,80,Vendas,NORMAL
+30/11/2025,Acessórios (Cabos/Baterias),198,250,Logística,URGENTE
+30/11/2025,Linha Branca (Washing Machines),14,20,Vendas,URGENTE
+30/11/2025,Total faturado (USD),11230,15000,Financeiro,ALERTA
+30/11/2025,Suporte (Tickets),80,30,Atendimento,NORMAL
+30/11/2025,Tempo de Entrega (Horas),24,24,Logística,URGENTE
+30/11/2025,Novos Leads B2B,61,15,Marketing,NORMAL
+30/11/2025,Disponibilidade Site (%),113,99,TI,NORMAL
+01/12/2025,Eletrônicos (Laptops),63,80,Vendas,URGENTE
+01/12/2025,Acessórios (Cabos/Baterias),205,250,Logística,URGENTE
+01/12/2025,Linha Branca (Washing Machines),54,20,Vendas,NORMAL
+01/12/2025,Total faturado (USD),10901,15000,Financeiro,URGENTE
+01/12/2025,Suporte (Tickets),21,30,Atendimento,CRÍTICA
+01/12/2025,Tempo de Entrega (Horas),50,24,Logística,NORMAL
+01/12/2025,Novos Leads B2B,11,15,Marketing,CRÍTICA
+01/12/2025,Disponibilidade Site (%),103,99,TI,NORMAL
+02/12/2025,Eletrônicos (Laptops),63,80,Vendas,ALERTA
+02/12/2025,Acessórios (Cabos/Baterias),240,250,Logística,ALERTA
+02/12/2025,Linha Branca (Washing Machines),47,20,Vendas,NORMAL
+02/12/2025,Total faturado (USD),12820,15000,Financeiro,CRÍTICA
+02/12/2025,Suporte (Tickets),21,30,Atendimento,ALERTA
+02/12/2025,Tempo de Entrega (Horas),21,24,Logística,URGENTE
+02/12/2025,Novos Leads B2B,30,15,Marketing,NORMAL
+02/12/2025,Disponibilidade Site (%),115,99,TI,NORMAL
+03/12/2025,Eletrônicos (Laptops),94,80,Vendas,NORMAL
+03/12/2025,Acessórios (Cabos/Baterias),286,250,Logística,NORMAL
+03/12/2025,Linha Branca (Washing Machines),19,20,Vendas,ALERTA
+03/12/2025,Total faturado (USD),14091,15000,Financeiro,ALERTA
+03/12/2025,Suporte (Tickets),28,30,Atendimento,URGENTE
+03/12/2025,Tempo de Entrega (Horas),20,24,Logística,URGENTE
+03/12/2025,Novos Leads B2B,46,15,Marketing,NORMAL
+03/12/2025,Disponibilidade Site (%),125,99,TI,NORMAL
+04/12/2025,Eletrônicos (Laptops),69,80,Vendas,CRÍTICA
+04/12/2025,Acessórios (Cabos/Baterias),175,250,Logística,URGENTE
+04/12/2025,Linha Branca (Washing Machines),17,20,Vendas,ALERTA
+04/12/2025,Total faturado (USD),10966,15000,Financeiro,CRÍTICA
+04/12/2025,Suporte (Tickets),27,30,Atendimento,ALERTA
+04/12/2025,Tempo de Entrega (Horas),17,24,Logística,ALERTA
+04/12/2025,Novos Leads B2B,43,15,Marketing,NORMAL
+04/12/2025,Disponibilidade Site (%),93,99,TI,URGENTE
+05/12/2025,Eletrônicos (Laptops),130,80,Vendas,NORMAL
+05/12/2025,Acessórios (Cabos/Baterias),198,250,Logística,ALERTA
+05/12/2025,Linha Branca (Washing Machines),69,20,Vendas,NORMAL
+05/12/2025,Total faturado (USD),11105,15000,Financeiro,URGENTE
+05/12/2025,Suporte (Tickets),27,30,Atendimento,URGENTE
+05/12/2025,Tempo de Entrega (Horas),31,24,Logística,NORMAL
+05/12/2025,Novos Leads B2B,15,15,Marketing,ALERTA
+05/12/2025,Disponibilidade Site (%),127,99,TI,NORMAL
+06/12/2025,Eletrônicos (Laptops),66,80,Vendas,ALERTA
+06/12/2025,Acessórios (Cabos/Baterias),183,250,Logística,URGENTE
+06/12/2025,Linha Branca (Washing Machines),40,20,Vendas,NORMAL
+06/12/2025,Total faturado (USD),14690,15000,Financeiro,URGENTE
+06/12/2025,Suporte (Tickets),28,30,Atendimento,URGENTE
+06/12/2025,Tempo de Entrega (Horas),17,24,Logística,ALERTA
+06/12/2025,Novos Leads B2B,40,15,Marketing,NORMAL
+06/12/2025,Disponibilidade Site (%),142,99,TI,NORMAL
+07/12/2025,Eletrônicos (Laptops),74,80,Vendas,URGENTE
+07/12/2025,Acessórios (Cabos/Baterias),218,250,Logística,URGENTE
+07/12/2025,Linha Branca (Washing Machines),19,20,Vendas,URGENTE
+07/12/2025,Total faturado (USD),15036,15000,Financeiro,NORMAL
+07/12/2025,Suporte (Tickets),28,30,Atendimento,URGENTE
+07/12/2025,Tempo de Entrega (Horas),49,24,Logística,NORMAL
+07/12/2025,Novos Leads B2B,14,15,Marketing,URGENTE
+07/12/2025,Disponibilidade Site (%),78,99,TI,URGENTE
+08/12/2025,Eletrônicos (Laptops),58,80,Vendas,CRÍTICA
+08/12/2025,Acessórios (Cabos/Baterias),236,250,Logística,CRÍTICA
+08/12/2025,Linha Branca (Washing Machines),16,20,Vendas,URGENTE
+08/12/2025,Total faturado (USD),15020,15000,Financeiro,NORMAL
+08/12/2025,Suporte (Tickets),25,30,Atendimento,URGENTE
+08/12/2025,Tempo de Entrega (Horas),17,24,Logística,URGENTE
+08/12/2025,Novos Leads B2B,13,15,Marketing,CRÍTICA
+08/12/2025,Disponibilidade Site (%),136,99,TI,NORMAL
+09/12/2025,Eletrônicos (Laptops),89,80,Vendas,NORMAL
+09/12/2025,Acessórios (Cabos/Baterias),239,250,Logística,URGENTE
+09/12/2025,Linha Branca (Washing Machines),16,20,Vendas,ALERTA
+09/12/2025,Total faturado (USD),12345,15000,Financeiro,URGENTE
+09/12/2025,Suporte (Tickets),65,30,Atendimento,NORMAL
+09/12/2025,Tempo de Entrega (Horas),20,24,Logística,URGENTE
+09/12/2025,Novos Leads B2B,13,15,Marketing,URGENTE
+09/12/2025,Disponibilidade Site (%),145,99,TI,NORMAL
+10/12/2025,Eletrônicos (Laptops),67,80,Vendas,URGENTE
+10/12/2025,Acessórios (Cabos/Baterias),185,250,Logística,URGENTE
+10/12/2025,Linha Branca (Washing Machines),18,20,Vendas,CRÍTICA
+10/12/2025,Total faturado (USD),13587,15000,Financeiro,ALERTA
+10/12/2025,Suporte (Tickets),24,30,Atendimento,URGENTE
+10/12/2025,Tempo de Entrega (Horas),29,24,Logística,NORMAL
+10/12/2025,Novos Leads B2B,20,15,Marketing,NORMAL
+10/12/2025,Disponibilidade Site (%),75,99,TI,ALERTA
+11/12/2025,Eletrônicos (Laptops),89,80,Vendas,NORMAL
+11/12/2025,Acessórios (Cabos/Baterias),295,250,Logística,NORMAL
+11/12/2025,Linha Branca (Washing Machines),34,20,Vendas,NORMAL
+11/12/2025,Total faturado (USD),14093,15000,Financeiro,ALERTA
+11/12/2025,Suporte (Tickets),23,30,Atendimento,URGENTE
+11/12/2025,Tempo de Entrega (Horas),22,24,Logística,URGENTE
+11/12/2025,Novos Leads B2B,29,15,Marketing,NORMAL
+11/12/2025,Disponibilidade Site (%),96,99,TI,URGENTE
+12/12/2025,Eletrônicos (Laptops),56,80,Vendas,URGENTE
+12/12/2025,Acessórios (Cabos/Baterias),221,250,Logística,CRÍTICA
+12/12/2025,Linha Branca (Washing Machines),14,20,Vendas,CRÍTICA
+12/12/2025,Total faturado (USD),15038,15000,Financeiro,NORMAL
+12/12/2025,Suporte (Tickets),26,30,Atendimento,URGENTE
+12/12/2025,Tempo de Entrega (Horas),19,24,Logística,CRÍTICA
+12/12/2025,Novos Leads B2B,12,15,Marketing,ALERTA
+12/12/2025,Disponibilidade Site (%),105,99,TI,NORMAL
+13/12/2025,Eletrônicos (Laptops),79,80,Vendas,URGENTE
+13/12/2025,Acessórios (Cabos/Baterias),247,250,Logística,CRÍTICA
+13/12/2025,Linha Branca (Washing Machines),16,20,Vendas,ALERTA
+13/12/2025,Total faturado (USD),14862,15000,Financeiro,CRÍTICA
+13/12/2025,Suporte (Tickets),27,30,Atendimento,URGENTE
+13/12/2025,Tempo de Entrega (Horas),19,24,Logística,URGENTE
+13/12/2025,Novos Leads B2B,11,15,Marketing,URGENTE
+13/12/2025,Disponibilidade Site (%),71,99,TI,CRÍTICA
+14/12/2025,Eletrônicos (Laptops),70,80,Vendas,CRÍTICA
+14/12/2025,Acessórios (Cabos/Baterias),235,250,Logística,ALERTA
+14/12/2025,Linha Branca (Washing Machines),18,20,Vendas,ALERTA
+14/12/2025,Total faturado (USD),15032,15000,Financeiro,NORMAL
+14/12/2025,Suporte (Tickets),23,30,Atendimento,ALERTA
+14/12/2025,Tempo de Entrega (Horas),37,24,Logística,NORMAL
+14/12/2025,Novos Leads B2B,14,15,Marketing,URGENTE
+14/12/2025,Disponibilidade Site (%),143,99,TI,NORMAL
+15/12/2025,Eletrônicos (Laptops),60,80,Vendas,URGENTE
+15/12/2025,Acessórios (Cabos/Baterias),297,250,Logística,NORMAL
+15/12/2025,Linha Branca (Washing Machines),19,20,Vendas,URGENTE
+15/12/2025,Total faturado (USD),15014,15000,Financeiro,NORMAL
+15/12/2025,Suporte (Tickets),25,30,Atendimento,URGENTE
+15/12/2025,Tempo de Entrega (Horas),21,24,Logística,ALERTA
+15/12/2025,Novos Leads B2B,14,15,Marketing,URGENTE
+15/12/2025,Disponibilidade Site (%),93,99,TI,URGENTE
+16/12/2025,Eletrônicos (Laptops),69,80,Vendas,CRÍTICA
+16/12/2025,Acessórios (Cabos/Baterias),256,250,Logística,NORMAL
+16/12/2025,Linha Branca (Washing Machines),65,20,Vendas,NORMAL
+16/12/2025,Total faturado (USD),12108,15000,Financeiro,URGENTE
+16/12/2025,Suporte (Tickets),30,30,Atendimento,ALERTA
+16/12/2025,Tempo de Entrega (Horas),17,24,Logística,CRÍTICA
+16/12/2025,Novos Leads B2B,54,15,Marketing,NORMAL
+16/12/2025,Disponibilidade Site (%),131,99,TI,NORMAL
+17/12/2025,Eletrônicos (Laptops),85,80,Vendas,NORMAL
+17/12/2025,Acessórios (Cabos/Baterias),216,250,Logística,ALERTA
+17/12/2025,Linha Branca (Washing Machines),18,20,Vendas,URGENTE
+17/12/2025,Total faturado (USD),15004,15000,Financeiro,NORMAL
+17/12/2025,Suporte (Tickets),25,30,Atendimento,URGENTE
+17/12/2025,Tempo de Entrega (Horas),68,24,Logística,NORMAL
+17/12/2025,Novos Leads B2B,11,15,Marketing,CRÍTICA
+17/12/2025,Disponibilidade Site (%),81,99,TI,CRÍTICA
+18/12/2025,Eletrônicos (Laptops),79,80,Vendas,URGENTE
+18/12/2025,Acessórios (Cabos/Baterias),253,250,Logística,NORMAL
+18/12/2025,Linha Branca (Washing Machines),55,20,Vendas,NORMAL
+18/12/2025,Total faturado (USD),15020,15000,Financeiro,NORMAL
+18/12/2025,Suporte (Tickets),77,30,Atendimento,NORMAL
+18/12/2025,Tempo de Entrega (Horas),21,24,Logística,URGENTE
+18/12/2025,Novos Leads B2B,13,15,Marketing,CRÍTICA
+18/12/2025,Disponibilidade Site (%),89,99,TI,URGENTE
+19/12/2025,Eletrônicos (Laptops),71,80,Vendas,ALERTA
+19/12/2025,Acessórios (Cabos/Baterias),235,250,Logística,URGENTE
+19/12/2025,Linha Branca (Washing Machines),19,20,Vendas,CRÍTICA
+19/12/2025,Total faturado (USD),12153,15000,Financeiro,URGENTE
+19/12/2025,Suporte (Tickets),21,30,Atendimento,CRÍTICA
+19/12/2025,Tempo de Entrega (Horas),21,24,Logística,URGENTE
+19/12/2025,Novos Leads B2B,27,15,Marketing,NORMAL
+19/12/2025,Disponibilidade Site (%),86,99,TI,CRÍTICA
+20/12/2025,Eletrônicos (Laptops),99,80,Vendas,NORMAL
+20/12/2025,Acessórios (Cabos/Baterias),197,250,Logística,URGENTE
+20/12/2025,Linha Branca (Washing Machines),25,20,Vendas,NORMAL
+20/12/2025,Total faturado (USD),15044,15000,Financeiro,NORMAL
+20/12/2025,Suporte (Tickets),21,30,Atendimento,URGENTE
+20/12/2025,Tempo de Entrega (Horas),23,24,Logística,ALERTA
+20/12/2025,Novos Leads B2B,13,15,Marketing,URGENTE
+20/12/2025,Disponibilidade Site (%),90,99,TI,URGENTE
+21/12/2025,Eletrônicos (Laptops),76,80,Vendas,ALERTA
+21/12/2025,Acessórios (Cabos/Baterias),229,250,Logística,URGENTE
+21/12/2025,Linha Branca (Washing Machines),17,20,Vendas,CRÍTICA
+21/12/2025,Total faturado (USD),11897,15000,Financeiro,URGENTE
+21/12/2025,Suporte (Tickets),28,30,Atendimento,ALERTA
+21/12/2025,Tempo de Entrega (Horas),20,24,Logística,URGENTE
+21/12/2025,Novos Leads B2B,43,15,Marketing,NORMAL
+21/12/2025,Disponibilidade Site (%),137,99,TI,NORMAL
+22/12/2025,Eletrônicos (Laptops),93,80,Vendas,NORMAL
+22/12/2025,Acessórios (Cabos/Baterias),207,250,Logística,URGENTE
+22/12/2025,Linha Branca (Washing Machines),57,20,Vendas,NORMAL
+22/12/2025,Total faturado (USD),15035,15000,Financeiro,NORMAL
+22/12/2025,Suporte (Tickets),39,30,Atendimento,NORMAL
+22/12/2025,Tempo de Entrega (Horas),38,24,Logística,NORMAL
+22/12/2025,Novos Leads B2B,11,15,Marketing,CRÍTICA
+22/12/2025,Disponibilidade Site (%),70,99,TI,ALERTA
+23/12/2025,Eletrônicos (Laptops),113,80,Vendas,NORMAL
+23/12/2025,Acessórios (Cabos/Baterias),202,250,Logística,URGENTE
+23/12/2025,Linha Branca (Washing Machines),17,20,Vendas,URGENTE
+23/12/2025,Total faturado (USD),13911,15000,Financeiro,URGENTE
+23/12/2025,Suporte (Tickets),79,30,Atendimento,NORMAL
+23/12/2025,Tempo de Entrega (Horas),24,24,Logística,CRÍTICA
+23/12/2025,Novos Leads B2B,13,15,Marketing,URGENTE
+23/12/2025,Disponibilidade Site (%),73,99,TI,CRÍTICA
+24/12/2025,Eletrônicos (Laptops),110,80,Vendas,NORMAL
+24/12/2025,Acessórios (Cabos/Baterias),232,250,Logística,URGENTE
+24/12/2025,Linha Branca (Washing Machines),18,20,Vendas,URGENTE
+24/12/2025,Total faturado (USD),13707,15000,Financeiro,ALERTA
+24/12/2025,Suporte (Tickets),23,30,Atendimento,ALERTA
+24/12/2025,Tempo de Entrega (Horas),24,24,Logística,URGENTE
+24/12/2025,Novos Leads B2B,12,15,Marketing,ALERTA
+24/12/2025,Disponibilidade Site (%),86,99,TI,ALERTA
+25/12/2025,Eletrônicos (Laptops),63,80,Vendas,ALERTA
+25/12/2025,Acessórios (Cabos/Baterias),253,250,Logística,NORMAL
+25/12/2025,Linha Branca (Washing Machines),18,20,Vendas,URGENTE
+25/12/2025,Total faturado (USD),15013,15000,Financeiro,NORMAL
+25/12/2025,Suporte (Tickets),68,30,Atendimento,NORMAL
+25/12/2025,Tempo de Entrega (Horas),26,24,Logística,NORMAL
+25/12/2025,Novos Leads B2B,24,15,Marketing,NORMAL
+25/12/2025,Disponibilidade Site (%),105,99,TI,NORMAL
+26/12/2025,Eletrônicos (Laptops),110,80,Vendas,NORMAL
+26/12/2025,Acessórios (Cabos/Baterias),243,250,Logística,ALERTA
+26/12/2025,Linha Branca (Washing Machines),63,20,Vendas,NORMAL
+26/12/2025,Total faturado (USD),12639,15000,Financeiro,CRÍTICA
+26/12/2025,Suporte (Tickets),23,30,Atendimento,URGENTE
+26/12/2025,Tempo de Entrega (Horas),24,24,Logística,ALERTA
+26/12/2025,Novos Leads B2B,16,15,Marketing,NORMAL
+26/12/2025,Disponibilidade Site (%),121,99,TI,NORMAL
+27/12/2025,Eletrônicos (Laptops),64,80,Vendas,CRÍTICA
+27/12/2025,Acessórios (Cabos/Baterias),268,250,Logística,NORMAL
+27/12/2025,Linha Branca (Washing Machines),17,20,Vendas,URGENTE
+27/12/2025,Total faturado (USD),13368,15000,Financeiro,URGENTE
+27/12/2025,Suporte (Tickets),24,30,Atendimento,URGENTE
+27/12/2025,Tempo de Entrega (Horas),18,24,Logística,CRÍTICA
+27/12/2025,Novos Leads B2B,12,15,Marketing,URGENTE
+27/12/2025,Disponibilidade Site (%),97,99,TI,URGENTE
+28/12/2025,Eletrônicos (Laptops),58,80,Vendas,CRÍTICA
+28/12/2025,Acessórios (Cabos/Baterias),223,250,Logística,URGENTE
+28/12/2025,Linha Branca (Washing Machines),20,20,Vendas,URGENTE
+28/12/2025,Total faturado (USD),15026,15000,Financeiro,NORMAL
+28/12/2025,Suporte (Tickets),22,30,Atendimento,ALERTA
+28/12/2025,Tempo de Entrega (Horas),69,24,Logística,NORMAL
+28/12/2025,Novos Leads B2B,15,15,Marketing,CRÍTICA
+28/12/2025,Disponibilidade Site (%),95,99,TI,URGENTE
+29/12/2025,Eletrônicos (Laptops),118,80,Vendas,NORMAL
+29/12/2025,Acessórios (Cabos/Baterias),180,250,Logística,CRÍTICA
+29/12/2025,Linha Branca (Washing Machines),17,20,Vendas,CRÍTICA
+29/12/2025,Total faturado (USD),12522,15000,Financeiro,URGENTE
+29/12/2025,Suporte (Tickets),23,30,Atendimento,URGENTE
+29/12/2025,Tempo de Entrega (Horas),25,24,Logística,NORMAL
+29/12/2025,Novos Leads B2B,24,15,Marketing,NORMAL
+29/12/2025,Disponibilidade Site (%),90,99,TI,URGENTE
+30/12/2025,Eletrônicos (Laptops),91,80,Vendas,NORMAL
+30/12/2025,Acessórios (Cabos/Baterias),248,250,Logística,ALERTA
+30/12/2025,Linha Branca (Washing Machines),16,20,Vendas,URGENTE
+30/12/2025,Total faturado (USD),14602,15000,Financeiro,ALERTA
+30/12/2025,Suporte (Tickets),21,30,Atendimento,URGENTE
+30/12/2025,Tempo de Entrega (Horas),30,24,Logística,NORMAL
+30/12/2025,Novos Leads B2B,27,15,Marketing,NORMAL
+30/12/2025,Disponibilidade Site (%),72,99,TI,CRÍTICA
+31/12/2025,Eletrônicos (Laptops),87,80,Vendas,NORMAL
+31/12/2025,Acessórios (Cabos/Baterias),293,250,Logística,NORMAL
+31/12/2025,Linha Branca (Washing Machines),18,20,Vendas,CRÍTICA
+31/12/2025,Total faturado (USD),12279,15000,Financeiro,URGENTE
+31/12/2025,Suporte (Tickets),23,30,Atendimento,URGENTE
+31/12/2025,Tempo de Entrega (Horas),24,24,Logística,CRÍTICA
+31/12/2025,Novos Leads B2B,11,15,Marketing,URGENTE
+31/12/2025,Disponibilidade Site (%),144,99,TI,NORMAL
+01/01/2026,Eletrônicos (Laptops),67,80,Vendas,ALERTA
+01/01/2026,Acessórios (Cabos/Baterias),292,250,Logística,NORMAL
+01/01/2026,Linha Branca (Washing Machines),15,20,Vendas,ALERTA
+01/01/2026,Total faturado (USD),15046,15000,Financeiro,NORMAL
+01/01/2026,Suporte (Tickets),24,30,Atendimento,CRÍTICA
+01/01/2026,Tempo de Entrega (Horas),23,24,Logística,CRÍTICA
+01/01/2026,Novos Leads B2B,16,15,Marketing,NORMAL
+01/01/2026,Disponibilidade Site (%),92,99,TI,URGENTE
+02/01/2026,Eletrônicos (Laptops),75,80,Vendas,ALERTA
+02/01/2026,Acessórios (Cabos/Baterias),270,250,Logística,NORMAL
+02/01/2026,Linha Branca (Washing Machines),16,20,Vendas,ALERTA
+02/01/2026,Total faturado (USD),11311,15000,Financeiro,URGENTE
+02/01/2026,Suporte (Tickets),53,30,Atendimento,NORMAL
+02/01/2026,Tempo de Entrega (Horas),20,24,Logística,ALERTA
+02/01/2026,Novos Leads B2B,36,15,Marketing,NORMAL
+02/01/2026,Disponibilidade Site (%),70,99,TI,ALERTA
+03/01/2026,Eletrônicos (Laptops),75,80,Vendas,URGENTE
+03/01/2026,Acessórios (Cabos/Baterias),202,250,Logística,CRÍTICA
+03/01/2026,Linha Branca (Washing Machines),20,20,Vendas,ALERTA
+03/01/2026,Total faturado (USD),14251,15000,Financeiro,CRÍTICA
+03/01/2026,Suporte (Tickets),22,30,Atendimento,URGENTE
+03/01/2026,Tempo de Entrega (Horas),54,24,Logística,NORMAL
+03/01/2026,Novos Leads B2B,39,15,Marketing,NORMAL
+03/01/2026,Disponibilidade Site (%),100,99,TI,NORMAL
+04/01/2026,Eletrônicos (Laptops),58,80,Vendas,ALERTA
+04/01/2026,Acessórios (Cabos/Baterias),263,250,Logística,NORMAL
+04/01/2026,Linha Branca (Washing Machines),15,20,Vendas,URGENTE
+04/01/2026,Total faturado (USD),12190,15000,Financeiro,URGENTE
+04/01/2026,Suporte (Tickets),27,30,Atendimento,CRÍTICA
+04/01/2026,Tempo de Entrega (Horas),22,24,Logística,URGENTE
+04/01/2026,Novos Leads B2B,14,15,Marketing,URGENTE
+04/01/2026,Disponibilidade Site (%),111,99,TI,NORMAL
+05/01/2026,Eletrônicos (Laptops),70,80,Vendas,CRÍTICA
+05/01/2026,Acessórios (Cabos/Baterias),298,250,Logística,NORMAL
+05/01/2026,Linha Branca (Washing Machines),24,20,Vendas,NORMAL
+05/01/2026,Total faturado (USD),14672,15000,Financeiro,URGENTE
+05/01/2026,Suporte (Tickets),28,30,Atendimento,CRÍTICA
+05/01/2026,Tempo de Entrega (Horas),22,24,Logística,URGENTE
+05/01/2026,Novos Leads B2B,15,15,Marketing,URGENTE
+05/01/2026,Disponibilidade Site (%),146,99,TI,NORMAL
+06/01/2026,Eletrônicos (Laptops),56,80,Vendas,ALERTA
+06/01/2026,Acessórios (Cabos/Baterias),224,250,Logística,CRÍTICA
+06/01/2026,Linha Branca (Washing Machines),18,20,Vendas,CRÍTICA
+06/01/2026,Total faturado (USD),12912,15000,Financeiro,ALERTA
+06/01/2026,Suporte (Tickets),24,30,Atendimento,ALERTA
+06/01/2026,Tempo de Entrega (Horas),19,24,Logística,CRÍTICA
+06/01/2026,Novos Leads B2B,61,15,Marketing,NORMAL
+06/01/2026,Disponibilidade Site (%),80,99,TI,CRÍTICA
+07/01/2026,Eletrônicos (Laptops),91,80,Vendas,NORMAL
+07/01/2026,Acessórios (Cabos/Baterias),252,250,Logística,NORMAL
+07/01/2026,Linha Branca (Washing Machines),17,20,Vendas,URGENTE
+07/01/2026,Total faturado (USD),15018,15000,Financeiro,NORMAL
+07/01/2026,Suporte (Tickets),75,30,Atendimento,NORMAL
+07/01/2026,Tempo de Entrega (Horas),20,24,Logística,URGENTE
+07/01/2026,Novos Leads B2B,14,15,Marketing,ALERTA
+07/01/2026,Disponibilidade Site (%),130,99,TI,NORMAL
+08/01/2026,Eletrônicos (Laptops),80,80,Vendas,URGENTE
+08/01/2026,Acessórios (Cabos/Baterias),183,250,Logística,URGENTE
+08/01/2026,Linha Branca (Washing Machines),19,20,Vendas,URGENTE
+08/01/2026,Total faturado (USD),15013,15000,Financeiro,NORMAL
+08/01/2026,Suporte (Tickets),22,30,Atendimento,CRÍTICA
+08/01/2026,Tempo de Entrega (Horas),23,24,Logística,URGENTE
+08/01/2026,Novos Leads B2B,15,15,Marketing,URGENTE
+08/01/2026,Disponibilidade Site (%),97,99,TI,ALERTA
+09/01/2026,Eletrônicos (Laptops),77,80,Vendas,URGENTE
+09/01/2026,Acessórios (Cabos/Baterias),242,250,Logística,URGENTE
+09/01/2026,Linha Branca (Washing Machines),19,20,Vendas,URGENTE
+09/01/2026,Total faturado (USD),15032,15000,Financeiro,NORMAL
+09/01/2026,Suporte (Tickets),24,30,Atendimento,CRÍTICA
+09/01/2026,Tempo de Entrega (Horas),19,24,Logística,CRÍTICA
+09/01/2026,Novos Leads B2B,50,15,Marketing,NORMAL
+09/01/2026,Disponibilidade Site (%),78,99,TI,ALERTA
+10/01/2026,Eletrônicos (Laptops),65,80,Vendas,CRÍTICA
+10/01/2026,Acessórios (Cabos/Baterias),259,250,Logística,NORMAL
+10/01/2026,Linha Branca (Washing Machines),53,20,Vendas,NORMAL
+10/01/2026,Total faturado (USD),12140,15000,Financeiro,URGENTE
+10/01/2026,Suporte (Tickets),25,30,Atendimento,ALERTA
+10/01/2026,Tempo de Entrega (Horas),18,24,Logística,CRÍTICA
+10/01/2026,Novos Leads B2B,13,15,Marketing,ALERTA
+10/01/2026,Disponibilidade Site (%),144,99,TI,NORMAL
+11/01/2026,Eletrônicos (Laptops),76,80,Vendas,CRÍTICA
+11/01/2026,Acessórios (Cabos/Baterias),175,250,Logística,CRÍTICA
+11/01/2026,Linha Branca (Washing Machines),58,20,Vendas,NORMAL
+11/01/2026,Total faturado (USD),15028,15000,Financeiro,NORMAL
+11/01/2026,Suporte (Tickets),23,30,Atendimento,URGENTE
+11/01/2026,Tempo de Entrega (Horas),55,24,Logística,NORMAL
+11/01/2026,Novos Leads B2B,55,15,Marketing,NORMAL
+11/01/2026,Disponibilidade Site (%),135,99,TI,NORMAL
+12/01/2026,Eletrônicos (Laptops),111,80,Vendas,NORMAL
+12/01/2026,Acessórios (Cabos/Baterias),215,250,Logística,ALERTA
+12/01/2026,Linha Branca (Washing Machines),15,20,Vendas,URGENTE
+12/01/2026,Total faturado (USD),15040,15000,Financeiro,NORMAL
+12/01/2026,Suporte (Tickets),23,30,Atendimento,ALERTA
+12/01/2026,Tempo de Entrega (Horas),26,24,Logística,NORMAL
+12/01/2026,Novos Leads B2B,12,15,Marketing,URGENTE
+12/01/2026,Disponibilidade Site (%),99,99,TI,ALERTA
+13/01/2026,Eletrônicos (Laptops),128,80,Vendas,NORMAL
+13/01/2026,Acessórios (Cabos/Baterias),195,250,Logística,CRÍTICA
+13/01/2026,Linha Branca (Washing Machines),28,20,Vendas,NORMAL
+13/01/2026,Total faturado (USD),15036,15000,Financeiro,NORMAL
+13/01/2026,Suporte (Tickets),40,30,Atendimento,NORMAL
+13/01/2026,Tempo de Entrega (Horas),24,24,Logística,ALERTA
+13/01/2026,Novos Leads B2B,13,15,Marketing,URGENTE
+13/01/2026,Disponibilidade Site (%),94,99,TI,URGENTE
+14/01/2026,Eletrônicos (Laptops),91,80,Vendas,NORMAL
+14/01/2026,Acessórios (Cabos/Baterias),178,250,Logística,ALERTA
+14/01/2026,Linha Branca (Washing Machines),15,20,Vendas,ALERTA
+14/01/2026,Total faturado (USD),15006,15000,Financeiro,NORMAL
+14/01/2026,Suporte (Tickets),24,30,Atendimento,URGENTE
+14/01/2026,Tempo de Entrega (Horas),22,24,Logística,CRÍTICA
+14/01/2026,Novos Leads B2B,13,15,Marketing,URGENTE
+14/01/2026,Disponibilidade Site (%),89,99,TI,CRÍTICA
+15/01/2026,Eletrônicos (Laptops),93,80,Vendas,NORMAL
+15/01/2026,Acessórios (Cabos/Baterias),261,250,Logística,NORMAL
+15/01/2026,Linha Branca (Washing Machines),19,20,Vendas,URGENTE
+15/01/2026,Total faturado (USD),13627,15000,Financeiro,CRÍTICA
+15/01/2026,Suporte (Tickets),80,30,Atendimento,NORMAL
+15/01/2026,Tempo de Entrega (Horas),29,24,Logística,NORMAL
+15/01/2026,Novos Leads B2B,13,15,Marketing,URGENTE
+15/01/2026,Disponibilidade Site (%),133,99,TI,NORMAL
+16/01/2026,Eletrônicos (Laptops),79,80,Vendas,URGENTE
+16/01/2026,Acessórios (Cabos/Baterias),289,250,Logística,NORMAL
+16/01/2026,Linha Branca (Washing Machines),16,20,Vendas,URGENTE
+16/01/2026,Total faturado (USD),11890,15000,Financeiro,ALERTA
+16/01/2026,Suporte (Tickets),21,30,Atendimento,URGENTE
+16/01/2026,Tempo de Entrega (Horas),62,24,Logística,NORMAL
+16/01/2026,Novos Leads B2B,56,15,Marketing,NORMAL
+16/01/2026,Disponibilidade Site (%),72,99,TI,URGENTE
+17/01/2026,Eletrônicos (Laptops),89,80,Vendas,NORMAL
+17/01/2026,Acessórios (Cabos/Baterias),252,250,Logística,NORMAL
+17/01/2026,Linha Branca (Washing Machines),18,20,Vendas,URGENTE
+17/01/2026,Total faturado (USD),15019,15000,Financeiro,NORMAL
+17/01/2026,Suporte (Tickets),28,30,Atendimento,CRÍTICA
+17/01/2026,Tempo de Entrega (Horas),47,24,Logística,NORMAL
+17/01/2026,Novos Leads B2B,46,15,Marketing,NORMAL
+17/01/2026,Disponibilidade Site (%),93,99,TI,URGENTE
+18/01/2026,Eletrônicos (Laptops),59,80,Vendas,ALERTA
+18/01/2026,Acessórios (Cabos/Baterias),207,250,Logística,CRÍTICA
+18/01/2026,Linha Branca (Washing Machines),14,20,Vendas,URGENTE
+18/01/2026,Total faturado (USD),13541,15000,Financeiro,ALERTA
+18/01/2026,Suporte (Tickets),29,30,Atendimento,CRÍTICA
+18/01/2026,Tempo de Entrega (Horas),66,24,Logística,NORMAL
+18/01/2026,Novos Leads B2B,11,15,Marketing,URGENTE
+18/01/2026,Disponibilidade Site (%),114,99,TI,NORMAL
+19/01/2026,Eletrônicos (Laptops),59,80,Vendas,URGENTE
+19/01/2026,Acessórios (Cabos/Baterias),177,250,Logística,URGENTE
+19/01/2026,Linha Branca (Washing Machines),17,20,Vendas,URGENTE
+19/01/2026,Total faturado (USD),15024,15000,Financeiro,NORMAL
+19/01/2026,Suporte (Tickets),35,30,Atendimento,NORMAL
+19/01/2026,Tempo de Entrega (Horas),20,24,Logística,URGENTE
+19/01/2026,Novos Leads B2B,15,15,Marketing,CRÍTICA
+19/01/2026,Disponibilidade Site (%),82,99,TI,CRÍTICA
+20/01/2026,Eletrônicos (Laptops),129,80,Vendas,NORMAL
+20/01/2026,Acessórios (Cabos/Baterias),258,250,Logística,NORMAL
+20/01/2026,Linha Branca (Washing Machines),64,20,Vendas,NORMAL
+20/01/2026,Total faturado (USD),11989,15000,Financeiro,URGENTE
+20/01/2026,Suporte (Tickets),25,30,Atendimento,ALERTA
+20/01/2026,Tempo de Entrega (Horas),59,24,Logística,NORMAL
+20/01/2026,Novos Leads B2B,15,15,Marketing,URGENTE
+20/01/2026,Disponibilidade Site (%),149,99,TI,NORMAL
+21/01/2026,Eletrônicos (Laptops),76,80,Vendas,ALERTA
+21/01/2026,Acessórios (Cabos/Baterias),253,250,Logística,NORMAL
+21/01/2026,Linha Branca (Washing Machines),24,20,Vendas,NORMAL
+21/01/2026,Total faturado (USD),15009,15000,Financeiro,NORMAL
+21/01/2026,Suporte (Tickets),28,30,Atendimento,URGENTE
+21/01/2026,Tempo de Entrega (Horas),61,24,Logística,NORMAL
+21/01/2026,Novos Leads B2B,42,15,Marketing,NORMAL
+21/01/2026,Disponibilidade Site (%),135,99,TI,NORMAL
+22/01/2026,Eletrônicos (Laptops),60,80,Vendas,ALERTA
+22/01/2026,Acessórios (Cabos/Baterias),190,250,Logística,URGENTE
+22/01/2026,Linha Branca (Washing Machines),20,20,Vendas,CRÍTICA
+22/01/2026,Total faturado (USD),11013,15000,Financeiro,URGENTE
+22/01/2026,Suporte (Tickets),23,30,Atendimento,URGENTE
+22/01/2026,Tempo de Entrega (Horas),17,24,Logística,URGENTE
+22/01/2026,Novos Leads B2B,41,15,Marketing,NORMAL
+22/01/2026,Disponibilidade Site (%),79,99,TI,ALERTA
+23/01/2026,Eletrônicos (Laptops),76,80,Vendas,CRÍTICA
+23/01/2026,Acessórios (Cabos/Baterias),183,250,Logística,CRÍTICA
+23/01/2026,Linha Branca (Washing Machines),18,20,Vendas,ALERTA
+23/01/2026,Total faturado (USD),15012,15000,Financeiro,NORMAL
+23/01/2026,Suporte (Tickets),22,30,Atendimento,ALERTA
+23/01/2026,Tempo de Entrega (Horas),23,24,Logística,ALERTA
+23/01/2026,Novos Leads B2B,14,15,Marketing,CRÍTICA
+23/01/2026,Disponibilidade Site (%),72,99,TI,CRÍTICA
+24/01/2026,Eletrônicos (Laptops),73,80,Vendas,ALERTA
+24/01/2026,Acessórios (Cabos/Baterias),195,250,Logística,ALERTA
+24/01/2026,Linha Branca (Washing Machines),27,20,Vendas,NORMAL
+24/01/2026,Total faturado (USD),11354,15000,Financeiro,CRÍTICA
+24/01/2026,Suporte (Tickets),38,30,Atendimento,NORMAL
+24/01/2026,Tempo de Entrega (Horas),40,24,Logística,NORMAL
+24/01/2026,Novos Leads B2B,25,15,Marketing,NORMAL
+24/01/2026,Disponibilidade Site (%),113,99,TI,NORMAL
+25/01/2026,Eletrônicos (Laptops),57,80,Vendas,CRÍTICA
+25/01/2026,Acessórios (Cabos/Baterias),189,250,Logística,URGENTE
+25/01/2026,Linha Branca (Washing Machines),20,20,Vendas,URGENTE
+25/01/2026,Total faturado (USD),15033,15000,Financeiro,NORMAL
+25/01/2026,Suporte (Tickets),63,30,Atendimento,NORMAL
+25/01/2026,Tempo de Entrega (Horas),17,24,Logística,ALERTA
+25/01/2026,Novos Leads B2B,65,15,Marketing,NORMAL
+25/01/2026,Disponibilidade Site (%),74,99,TI,URGENTE
+26/01/2026,Eletrônicos (Laptops),76,80,Vendas,URGENTE
+26/01/2026,Acessórios (Cabos/Baterias),264,250,Logística,NORMAL
+26/01/2026,Linha Branca (Washing Machines),51,20,Vendas,NORMAL
+26/01/2026,Total faturado (USD),15030,15000,Financeiro,NORMAL
+26/01/2026,Suporte (Tickets),65,30,Atendimento,NORMAL
+26/01/2026,Tempo de Entrega (Horas),17,24,Logística,CRÍTICA
+26/01/2026,Novos Leads B2B,12,15,Marketing,ALERTA
+26/01/2026,Disponibilidade Site (%),90,99,TI,ALERTA
+27/01/2026,Eletrônicos (Laptops),60,80,Vendas,URGENTE
+27/01/2026,Acessórios (Cabos/Baterias),283,250,Logística,NORMAL
+27/01/2026,Linha Branca (Washing Machines),20,20,Vendas,URGENTE
+27/01/2026,Total faturado (USD),15049,15000,Financeiro,NORMAL
+27/01/2026,Suporte (Tickets),24,30,Atendimento,ALERTA
+27/01/2026,Tempo de Entrega (Horas),24,24,Logística,URGENTE
+27/01/2026,Novos Leads B2B,40,15,Marketing,NORMAL
+27/01/2026,Disponibilidade Site (%),99,99,TI,ALERTA
+28/01/2026,Eletrônicos (Laptops),77,80,Vendas,URGENTE
+28/01/2026,Acessórios (Cabos/Baterias),258,250,Logística,NORMAL
+28/01/2026,Linha Branca (Washing Machines),58,20,Vendas,NORMAL
+28/01/2026,Total faturado (USD),15038,15000,Financeiro,NORMAL
+28/01/2026,Suporte (Tickets),24,30,Atendimento,ALERTA
+28/01/2026,Tempo de Entrega (Horas),38,24,Logística,NORMAL
+28/01/2026,Novos Leads B2B,11,15,Marketing,CRÍTICA
+28/01/2026,Disponibilidade Site (%),70,99,TI,URGENTE
+29/01/2026,Eletrônicos (Laptops),71,80,Vendas,ALERTA
+29/01/2026,Acessórios (Cabos/Baterias),263,250,Logística,NORMAL
+29/01/2026,Linha Branca (Washing Machines),14,20,Vendas,URGENTE
+29/01/2026,Total faturado (USD),13335,15000,Financeiro,URGENTE
+29/01/2026,Suporte (Tickets),66,30,Atendimento,NORMAL
+29/01/2026,Tempo de Entrega (Horas),21,24,Logística,CRÍTICA
+29/01/2026,Novos Leads B2B,13,15,Marketing,URGENTE
+29/01/2026,Disponibilidade Site (%),92,99,TI,ALERTA
+30/01/2026,Eletrônicos (Laptops),110,80,Vendas,NORMAL
+30/01/2026,Acessórios (Cabos/Baterias),246,250,Logística,CRÍTICA
+30/01/2026,Linha Branca (Washing Machines),17,20,Vendas,ALERTA
+30/01/2026,Total faturado (USD),13725,15000,Financeiro,ALERTA
+30/01/2026,Suporte (Tickets),25,30,Atendimento,ALERTA
+30/01/2026,Tempo de Entrega (Horas),23,24,Logística,ALERTA
+30/01/2026,Novos Leads B2B,11,15,Marketing,URGENTE
+30/01/2026,Disponibilidade Site (%),120,99,TI,NORMAL
+31/01/2026,Eletrônicos (Laptops),102,80,Vendas,NORMAL
+31/01/2026,Acessórios (Cabos/Baterias),249,250,Logística,CRÍTICA
+31/01/2026,Linha Branca (Washing Machines),14,20,Vendas,CRÍTICA
+31/01/2026,Total faturado (USD),12184,15000,Financeiro,URGENTE
+31/01/2026,Suporte (Tickets),25,30,Atendimento,URGENTE
+31/01/2026,Tempo de Entrega (Horas),22,24,Logística,URGENTE
+31/01/2026,Novos Leads B2B,11,15,Marketing,ALERTA
+31/01/2026,Disponibilidade Site (%),78,99,TI,CRÍTICA
+01/02/2026,Eletrônicos (Laptops),121,80,Vendas,NORMAL
+01/02/2026,Acessórios (Cabos/Baterias),251,250,Logística,NORMAL
+01/02/2026,Linha Branca (Washing Machines),30,20,Vendas,NORMAL
+01/02/2026,Total faturado (USD),15035,15000,Financeiro,NORMAL
+01/02/2026,Suporte (Tickets),76,30,Atendimento,NORMAL
+01/02/2026,Tempo de Entrega (Horas),24,24,Logística,URGENTE
+01/02/2026,Novos Leads B2B,50,15,Marketing,NORMAL
+01/02/2026,Disponibilidade Site (%),101,99,TI,NORMAL
+02/02/2026,Eletrônicos (Laptops),125,80,Vendas,NORMAL
+02/02/2026,Acessórios (Cabos/Baterias),216,250,Logística,ALERTA
+02/02/2026,Linha Branca (Washing Machines),18,20,Vendas,URGENTE
+02/02/2026,Total faturado (USD),15050,15000,Financeiro,NORMAL
+02/02/2026,Suporte (Tickets),21,30,Atendimento,URGENTE
+02/02/2026,Tempo de Entrega (Horas),21,24,Logística,CRÍTICA
+02/02/2026,Novos Leads B2B,46,15,Marketing,NORMAL
+02/02/2026,Disponibilidade Site (%),149,99,TI,NORMAL
+03/02/2026,Eletrônicos (Laptops),91,80,Vendas,NORMAL
+03/02/2026,Acessórios (Cabos/Baterias),179,250,Logística,URGENTE
+03/02/2026,Linha Branca (Washing Machines),41,20,Vendas,NORMAL
+03/02/2026,Total faturado (USD),15016,15000,Financeiro,NORMAL
+03/02/2026,Suporte (Tickets),53,30,Atendimento,NORMAL
+03/02/2026,Tempo de Entrega (Horas),31,24,Logística,NORMAL
+03/02/2026,Novos Leads B2B,14,15,Marketing,CRÍTICA
+03/02/2026,Disponibilidade Site (%),74,99,TI,URGENTE
+04/02/2026,Eletrônicos (Laptops),72,80,Vendas,CRÍTICA
+04/02/2026,Acessórios (Cabos/Baterias),277,250,Logística,NORMAL
+04/02/2026,Linha Branca (Washing Machines),18,20,Vendas,URGENTE
+04/02/2026,Total faturado (USD),15024,15000,Financeiro,NORMAL
+04/02/2026,Suporte (Tickets),42,30,Atendimento,NORMAL
+04/02/2026,Tempo de Entrega (Horas),29,24,Logística,NORMAL
+04/02/2026,Novos Leads B2B,31,15,Marketing,NORMAL
+04/02/2026,Disponibilidade Site (%),78,99,TI,URGENTE
+05/02/2026,Eletrônicos (Laptops),89,80,Vendas,NORMAL
+05/02/2026,Acessórios (Cabos/Baterias),187,250,Logística,ALERTA
+06/02/2026,Linha Branca (Washing Machines),23,20,Vendas,NORMAL
+06/02/2026,Total faturado (USD),15019,15000,Financeiro,NORMAL
+06/02/2026,Suporte (Tickets),39,30,Atendimento,NORMAL
+06/02/2026,Tempo de Entrega (Horas),23,24,Logística,ALERTA
+06/02/2026,Novos Leads B2B,47,15,Marketing,NORMAL
+06/02/2026,Disponibilidade Site (%),84,99,TI,URGENTE
+06/02/2026,Eletrônicos (Laptops),104,80,Vendas,NORMAL
+06/02/2026,Acessórios (Cabos/Baterias),226,250,Logística,CRÍTICA
+06/02/2026,Linha Branca (Washing Machines),19,20,Vendas,CRÍTICA
+06/02/2026,Total faturado (USD),10510,15000,Financeiro,URGENTE
+06/02/2026,Suporte (Tickets),21,30,Atendimento,URGENTE
+06/02/2026,Tempo de Entrega (Horas),23,24,Logística,URGENTE
+06/02/2026,Novos Leads B2B,12,15,Marketing,ALERTA
+06/02/2026,Disponibilidade Site (%),89,99,TI,CRÍTICA
+08/02/2026,Novos Leads B2B,5,15,Marketing,CRÍTICA
+08/02/2026,Total faturado (USD),10779,15000,Financeiro,ALERTA
+08/02/2026,Eletrônicos (Laptops),45,80,Vendas,CRÍTICA
+08/02/2026,Tempo de Entrega (Horas),21,24,Logística,ALERTA
+09/02/2026,Linha Branca (Washing Machines),8,20,Vendas,ALERTA
+09/02/2026,Total faturado (USD),11000,15000,Financeiro,URGENTE
+09/02/2026,Suporte (Tickets),39,30,Atendimento,NORMAL
+09/02/2026,Tempo de Entrega (Horas),10,24,Logística,ALERTA
+09/02/2026,Novos Leads B2B,11,15,Marketing,CRÍTICA
+09/02/2026,Eletrônicos (Laptops),40,80,Vendas,ALERTA
+09/02/2026,Acessórios (Cabos/Baterias),226,250,Logística,CRÍTICA
