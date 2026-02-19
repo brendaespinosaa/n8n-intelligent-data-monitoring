@@ -34,3 +34,6 @@ Detects sudden drops in data volume compared to an expected baseline.
 ### Example
 ```text
 If current_volume < minimum_expected_volume → trigger alert
+```
+---
+*Created by Brenda Espinosa*
