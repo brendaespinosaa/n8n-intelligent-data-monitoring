@@ -19,4 +19,5 @@ These files allow:
 - Credentials and secrets are not included
 - Files are intended for demonstration and portfolio purposes
 - Workflow logic aligns with the documented architecture and business rules
-
+---
+*Created by Brenda Espinosa*
