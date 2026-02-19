@@ -143,6 +143,8 @@ The system was designed following the principles below:
 6. BI & Analytics Integration  
 
 This architecture provides a scalable and maintainable foundation for intelligent data monitoring.
+---
+*Created by Brenda Espinosa*
 
 
 
