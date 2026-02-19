@@ -94,3 +94,6 @@ Impact: High
 
 Recommended Action:
 Investigate upstream data pipeline or source availability.
+```
+--- 
+*Created by Brenda Espinosa*
