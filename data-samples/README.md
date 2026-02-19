@@ -17,4 +17,6 @@ The sample data allows the workflow to be tested, shared, and reviewed without e
 - No real data is included
 - No personal or sensitive information is stored
 - Data is used only for simulation and portfolio demonstration
+---
 
+*Created by Brenda Espinosa*
