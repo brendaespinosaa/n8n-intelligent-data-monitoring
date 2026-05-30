@@ -1,5 +1,16 @@
 # ⚙️ Intelligent Data Monitoring Automation (n8n)
 
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6B35?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-4CAF50?style=for-the-badge)
+![Data Monitoring](https://img.shields.io/badge/Data_Monitoring-2196F3?style=for-the-badge)
+![Alert System](https://img.shields.io/badge/Alert_System-D32F2F?style=for-the-badge)
+
 ## Overview
 
 This project is an **intelligent data monitoring and alert automation** built using **n8n**, designed to automatically analyze operational data and notify teams when anomalies or critical situations are detected.
